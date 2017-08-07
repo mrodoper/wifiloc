@@ -1,0 +1,62 @@
+<gpx creator="ALTT" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<trk>
+<name>Cupertino</name>
+<trkseg>
+<trkpt lat="37.32159862" lon="-122.0304701"><ele>1693.699951171875</ele><time>2014-01-18T15:58:00Z</time><wifipt>
+<scan>
+Using interface '????'
+bssid / frequency / signal level / flags / ssid
+d8:c7:c8:6d:49:f9	5765	-57	[WPA2-PSK-CCMP][ESS]	Mobile
+00:0b:86:73:c9:c9	5240	-58	[WPA2-PSK-CCMP][ESS]	Mobile
+00:0b:86:73:c9:cb	5240	-56	[WPA2-PSK-CCMP][ESS]	Guest
+00:0b:86:73:c9:ca	5240	-57	[WPA2-PSK-CCMP][ESS]	ilaw
+00:0b:86:73:c9:c8	5240	-57	[WPA2-EAP-CCMP][ESS]	wpa2
+d8:c7:c8:6d:49:fb	5765	-55	[WPA2-PSK-CCMP][ESS]	Guest
+d8:c7:c8:6d:49:fa	5765	-59	[WPA2-PSK-CCMP][ESS]	ilaw
+d8:c7:c8:6d:49:f8	5765	-56	[WPA2-EAP-CCMP][ESS]	wpa2
+d8:c7:c8:6d:49:f3	2462	-59	[WPA2-PSK-CCMP][ESS]	Guest
+d8:c7:c8:6d:49:f2	2462	-57	[WPA2-PSK-CCMP][ESS]	ilaw
+d8:c7:c8:6d:49:f0	2462	-56	[WPA2-EAP-CCMP][ESS]	wpa2
+d8:c7:c8:6d:49:f1	2462	-57	[WPA2-PSK-CCMP][ESS]	Mobile
+00:0b:86:73:c9:c2	2412	-62	[WPA2-PSK-CCMP][ESS]	ilaw
+00:0b:86:73:c9:c1	2412	-63	[WPA2-PSK-CCMP][ESS]	Mobile
+00:0b:86:73:c9:c0	2412	-64	[WPA2-EAP-CCMP][ESS]	wpa2
+00:0b:86:73:c9:c3	2412	-63	[WPA2-PSK-CCMP][ESS]	Guest
+d8:c7:c8:6d:4c:78	5825	-69	[WPA2-EAP-CCMP][ESS]	wpa2
+d8:c7:c8:6d:4c:7b	5825	-71	[WPA2-PSK-CCMP][ESS]	Guest
+d8:c7:c8:6d:4c:79	5825	-70	[WPA2-PSK-CCMP][ESS]	Mobile
+c8:d3:a3:61:23:98	2462	-69	[WPA2-PSK-TKIP][ESS]	Dir2.4GHz
+d8:c7:c8:6d:4c:7a	5825	-74	[WPA2-PSK-CCMP][ESS]	ilaw
+d8:c7:c8:6d:4c:73	2412	-75	[WPA2-PSK-CCMP][ESS]	Guest
+d8:c7:c8:6d:4c:72	2412	-74	[WPA2-PSK-CCMP][ESS]	ilaw
+d8:c7:c8:6d:4c:70	2412	-73	[WPA2-EAP-CCMP][ESS]	wpa2
+d8:c7:c8:6d:4c:71	2412	-78	[WPA2-PSK-CCMP][ESS]	Mobile
+30:85:a9:8a:94:ec	2437	-80	[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]	Enterprise-guest1
+84:1b:5e:44:77:6a	2437	-81	[WPA2-PSK-CCMP][WPS][ESS]	TP1102
+00:0b:86:73:c9:09	5220	-95	[WPA2-PSK-CCMP][ESS]	Mobile
+30:85:a9:8a:09:68	2437	-85	[WPA-PSK-CCMP][WPA2-PSK-CCMP][ESS]	Enterprise-guest2
+00:0b:86:73:c9:08	5220	-96	[WPA2-EAP-CCMP][ESS]	wpa2
+00:0b:86:73:c9:0b	5220	-92	[WPA2-PSK-CCMP][ESS]	Guest
+48:f8:b3:1f:3a:af	2437	-50	[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]	AndrewTest
+00:1a:2b:3c:ff:02	2422	-89	[WPA2-PSK-CCMP][WPS][ESS]	ASUS
+00:0b:86:73:c9:0a	5220	-96	[WPA2-PSK-CCMP][ESS]	ilaw
+00:1d:7e:9c:b1:5e	2437	-81	[WEP][ESS]	MSA-Internal
+70:10:5c:f9:11:75	2412	-70	[ESS]	digitguest
+00:1a:1e:57:16:80	2462	-78	[WPA2-EAP-CCMP][ESS]	CRC-1x
+00:1a:1e:57:16:81	2462	-79	[WPA-PSK-TKIP][ESS]	CRC-Guest
+70:10:5c:f9:12:f4	2462	-80	[WPA2-EAP-CCMP][ESS]	
+00:24:6c:04:55:b3	2462	-83	[WPA2-PSK-CCMP][ESS]	Mobile
+00:24:6c:04:55:b1	2462	-86	[WPA2-EAP-CCMP][ESS]	wpa2
+20:bb:c0:4a:6a:60	2432	-90	[WPA2-EAP-CCMP+TKIP][ESS]	Wave
+60:de:44:76:e2:60	2462	-81	[WPA2-EAP-CCMP][ESS]	wlanaccessv2.0
+88:75:56:b3:10:23	2412	-87	[WPA2-EAP-CCMP][ESS]	
+04:da:d2:9c:59:b0	2412	-89	[WPA2-EAP-CCMP][ESS]	Voltage Wireless
+68:7f:74:26:38:d9	2422	-86	[WPS][WEP][ESS]	BLG
+</scan>
+<time>
+2014-01-18T15:58:00Z</time>
+</wifipt>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

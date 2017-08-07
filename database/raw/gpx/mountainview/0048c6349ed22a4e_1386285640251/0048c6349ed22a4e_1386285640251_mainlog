@@ -1,0 +1,8 @@
+Thu Dec 05 15:20:40 PST 2013 SUCCESS:The log structure is created
+Thu Dec 05 15:20:40 PST 2013 DEBUG: commandLine :cat /proc/product_name
+Thu Dec 05 15:20:40 PST 2013 DEBUG: commandLine response
+Thu Dec 05 15:20:40 PST 2013 Log Version: 10
+Thu Dec 05 15:20:40 PST 2013 Tool Version: 3.00_3000000
+Thu Dec 05 15:20:40 PST 2013 Device Type: 
+Thu Dec 05 15:20:40 PST 2013 Modem Type/FW: null
+Thu Dec 05 15:20:40 PST 2013 Device Build: null

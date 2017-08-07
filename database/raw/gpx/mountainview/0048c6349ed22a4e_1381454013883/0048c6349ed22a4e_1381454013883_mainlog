@@ -1,0 +1,84 @@
+Thu Oct 10 18:13:33 PDT 2013 SUCCESS:The log structure is created
+Thu Oct 10 18:13:34 PDT 2013 DEBUG: commandLine :cat /proc/product_name
+Thu Oct 10 18:13:34 PDT 2013 DEBUG: commandLine response
+Thu Oct 10 18:13:34 PDT 2013 Log Version: 10
+Thu Oct 10 18:13:34 PDT 2013 Tool Version: 3.00_3000000
+Thu Oct 10 18:13:34 PDT 2013 Device Type: 
+Thu Oct 10 18:13:34 PDT 2013 Modem Type/FW: null
+Thu Oct 10 18:13:34 PDT 2013 Device Build: null
+Thu Oct 10 18:14:55 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Thu Oct 10 18:14:55 PDT 2013 INFO: Task number 1 has started
+Thu Oct 10 18:14:55 PDT 2013 INFO: Task Name: LocationTracker has started
+Thu Oct 10 18:14:55 PDT 2013 INFO: Task Provider Type: Network Provider
+Thu Oct 10 18:14:55 PDT 2013 INFO: Task Marker Type: small_red
+Thu Oct 10 18:14:55 PDT 2013 INFO: Task Iteration Number: 1000
+Thu Oct 10 18:14:55 PDT 2013 SUCCESS: Created location task folder
+Thu Oct 10 18:14:55 PDT 2013 SUCCESS: First fix in 0.207 secs
+Thu Oct 10 18:14:55 PDT 2013 37.3216834,-122.0306464,40.921,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/10 18:14:55,network,Standard
+Thu Oct 10 18:15:15 PDT 2013 37.3216785,-122.0306622,39.696,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/10 18:15:15,network,Standard
+Thu Oct 10 18:15:36 PDT 2013 37.3216793,-122.0306501,40.586,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/10 18:15:36,network,Standard
+Thu Oct 10 18:16:16 PDT 2013 37.3216705,-122.0306625,39.552,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/10 18:16:16,network,Standard
+Thu Oct 10 18:16:56 PDT 2013 37.3216853,-122.0306628,39.766,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/10 18:16:56,network,Standard
+Thu Oct 10 18:17:04 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Thu Oct 10 18:17:09 PDT 2013 DEBUG: Removing all providers. Size: 1
+Thu Oct 10 18:17:09 PDT 2013 DEBUG: Removing the provider: network
+Thu Oct 10 18:17:09 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Thu Oct 10 18:17:09 PDT 2013 WARNING: Tests after test 1 has been cancelled
+Thu Oct 10 18:17:09 PDT 2013 INFO: Run has been finished
+Thu Oct 10 18:17:09 PDT 2013 INFO: NOW, you can go back to menu safe
+Thu Oct 10 18:17:10 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Thu Oct 10 18:17:10 PDT 2013 INFO: Task number 2 has started
+Thu Oct 10 18:17:10 PDT 2013 INFO: Task Name: LocationTracker has started
+Thu Oct 10 18:17:10 PDT 2013 INFO: Task Provider Type: GPS Provider
+Thu Oct 10 18:17:10 PDT 2013 INFO: Task Marker Type: small_red
+Thu Oct 10 18:17:10 PDT 2013 INFO: Task Iteration Number: 1000
+Thu Oct 10 18:17:10 PDT 2013 SUCCESS: Created location task folder
+Thu Oct 10 18:17:10 PDT 2013 INFO: Registered GPS status listener
+Thu Oct 10 18:17:52 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Thu Oct 10 18:17:57 PDT 2013 DEBUG: Removing all providers. Size: 1
+Thu Oct 10 18:17:57 PDT 2013 DEBUG: Removing the provider: gps
+Thu Oct 10 18:17:57 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Thu Oct 10 18:17:57 PDT 2013 WARNING: Tests after test 2 has been cancelled
+Thu Oct 10 18:17:57 PDT 2013 INFO: Run has been finished
+Thu Oct 10 18:17:57 PDT 2013 INFO: NOW, you can go back to menu safe
+Thu Oct 10 18:24:46 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Thu Oct 10 18:24:46 PDT 2013 INFO: Task number 3 has started
+Thu Oct 10 18:24:46 PDT 2013 INFO: Task Name: TTFFTest has started
+Thu Oct 10 18:24:46 PDT 2013 INFO: Task Provider Type: Network Provider
+Thu Oct 10 18:24:46 PDT 2013 INFO: Task Marker Type: small_red
+Thu Oct 10 18:24:46 PDT 2013 INFO: Task Iteration Number: 1
+Thu Oct 10 18:24:46 PDT 2013 SUCCESS: Created location task folder
+Thu Oct 10 18:24:51 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Thu Oct 10 18:24:51 PDT 2013 WARNING: No information to delete for this provider
+Thu Oct 10 18:24:51 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Thu Oct 10 18:24:51 PDT 2013 INFO: Starting session
+Thu Oct 10 18:24:51 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Thu Oct 10 18:24:51 PDT 2013 WARNING: Unexpected exception
+Thu Oct 10 18:24:51 PDT 2013 DEBUG: Removing the single provider: network
+Thu Oct 10 18:24:51 PDT 2013 DEBUG: Removing all providers. Size: 0
+Thu Oct 10 18:24:51 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Thu Oct 10 18:24:51 PDT 2013 SUCCESS: tTFFlogBufferedWriterLocation closed
+Thu Oct 10 18:24:51 PDT 2013 WARNING: Tests after test 3 has been cancelled
+Thu Oct 10 18:24:51 PDT 2013 INFO: Run has been finished
+Thu Oct 10 18:24:51 PDT 2013 INFO: NOW, you can go back to menu safe
+Thu Oct 10 18:24:56 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Thu Oct 10 18:24:56 PDT 2013 INFO: Task number 4 has started
+Thu Oct 10 18:24:56 PDT 2013 INFO: Task Name: TTFFTest has started
+Thu Oct 10 18:24:56 PDT 2013 INFO: Task Provider Type: Network Provider
+Thu Oct 10 18:24:56 PDT 2013 INFO: Task Marker Type: small_red
+Thu Oct 10 18:24:56 PDT 2013 INFO: Task Iteration Number: 1
+Thu Oct 10 18:24:56 PDT 2013 SUCCESS: Created location task folder
+Thu Oct 10 18:25:01 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Thu Oct 10 18:25:01 PDT 2013 WARNING: No information to delete for this provider
+Thu Oct 10 18:25:01 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Thu Oct 10 18:25:01 PDT 2013 INFO: Starting session
+Thu Oct 10 18:25:02 PDT 2013 SUCCESS: First fix in 0.819 secs
+Thu Oct 10 18:25:02 PDT 2013 37.3216842,-122.0306603,39.928,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/10 18:25:02,network,Standard
+Thu Oct 10 18:25:02 PDT 2013 SUCCESS: Iteration 1 is completed
+Thu Oct 10 18:25:02 PDT 2013 DEBUG: Removing the single provider: network
+Thu Oct 10 18:25:02 PDT 2013 DEBUG: Removing all providers. Size: 0
+Thu Oct 10 18:25:02 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Thu Oct 10 18:25:02 PDT 2013 SUCCESS: tTFFlogBufferedWriterLocation closed
+Thu Oct 10 18:25:02 PDT 2013 INFO: Task number 4 has been completed
+Thu Oct 10 18:25:02 PDT 2013 INFO: Run has been finished
+Thu Oct 10 18:25:02 PDT 2013 INFO: NOW, you can go back to menu safe

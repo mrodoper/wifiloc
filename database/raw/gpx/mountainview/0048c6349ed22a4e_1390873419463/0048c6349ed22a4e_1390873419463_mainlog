@@ -1,0 +1,21 @@
+Mon Jan 27 17:43:39 PST 2014 SUCCESS:The log structure is created
+Mon Jan 27 17:43:39 PST 2014 DEBUG: commandLine :cat /proc/product_name
+Mon Jan 27 17:43:39 PST 2014 DEBUG: commandLine response
+Mon Jan 27 17:43:39 PST 2014 Log Version: 10
+Mon Jan 27 17:43:39 PST 2014 Tool Version: 3.00_3000000
+Mon Jan 27 17:43:39 PST 2014 Device Type: 
+Mon Jan 27 17:43:39 PST 2014 Modem Type/FW: null
+Mon Jan 27 17:43:39 PST 2014 Device Build: null
+Mon Jan 27 17:43:43 PST 2014 INFO: Total Number of Tasks Loaded: 1
+Mon Jan 27 17:43:43 PST 2014 INFO: Task number 1 has started
+Mon Jan 27 17:43:43 PST 2014 INFO: Task Name: LocationTracker has started
+Mon Jan 27 17:43:43 PST 2014 INFO: Task Provider Type: Network Provider
+Mon Jan 27 17:43:43 PST 2014 INFO: Task Marker Type: small_red
+Mon Jan 27 17:43:43 PST 2014 INFO: Task Iteration Number: 1000
+Mon Jan 27 17:43:43 PST 2014 SUCCESS: Created location task folder
+Mon Jan 27 17:43:43 PST 2014 SUCCESS: First fix in 0.784 secs
+Mon Jan 27 17:43:44 PST 2014 37.3216156,-122.0305874,24.442,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/01/27 17:43:43,network,Standard
+Mon Jan 27 17:43:49 PST 2014 37.3216271,-122.0306063,23.795,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/01/27 17:43:49,network,Standard
+Mon Jan 27 17:43:54 PST 2014 37.3216408,-122.0306075,22.618,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/01/27 17:43:54,network,Standard
+Mon Jan 27 17:44:00 PST 2014 37.3216054,-122.0305727,25.133,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/01/27 17:44:00,network,Standard
+Mon Jan 27 17:44:07 PST 2014 37.3216223,-122.030612,24.347,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/01/27 17:44:07,network,Standard

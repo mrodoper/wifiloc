@@ -1,0 +1,12 @@
+latitude,longitude,hepe,bearing,speed,totalNumberOfSatellites,totalNumberOfSatellitesUsed,firstSV,secondSV,thirdSV,fourthSV,dsn,marker,time,provider,other
+37.320426,-122.029377,931.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:22:05,network,Standard
+37.3216765,-122.03054,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:22:25,network,Standard
+37.321664,-122.0305499,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:22:45,network,Standard
+37.3216668,-122.0305635,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:23:05,network,Standard
+37.3216566,-122.0305587,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:23:26,network,Standard
+37.3216708,-122.0305381,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:24:06,network,Standard
+37.3216806,-122.0305502,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:24:26,network,Standard
+37.3216698,-122.0305477,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:24:46,network,Standard
+37.3216721,-122.0305247,21.188,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:25:26,network,Standard
+37.3216826,-122.0305481,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:25:46,network,Standard
+37.3216739,-122.0305517,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:26:06,network,Standard

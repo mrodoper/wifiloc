@@ -1,0 +1,38 @@
+Tue Sep 24 11:03:01 PDT 2013 SUCCESS:The log structure is created
+Tue Sep 24 11:03:01 PDT 2013 DEBUG: commandLine :cat /proc/product_name
+Tue Sep 24 11:03:01 PDT 2013 DEBUG: commandLine response
+Tue Sep 24 11:03:01 PDT 2013 Log Version: 10
+Tue Sep 24 11:03:01 PDT 2013 Tool Version: 3.00_3000000
+Tue Sep 24 11:03:01 PDT 2013 Device Type: 
+Tue Sep 24 11:03:01 PDT 2013 Modem Type/FW: null
+Tue Sep 24 11:03:01 PDT 2013 Device Build: null
+Tue Sep 24 11:31:01 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Tue Sep 24 11:31:01 PDT 2013 INFO: Task number 1 has started
+Tue Sep 24 11:31:01 PDT 2013 INFO: Task Name: LocationTracker has started
+Tue Sep 24 11:31:01 PDT 2013 INFO: Task Provider Type: GPS Provider
+Tue Sep 24 11:31:01 PDT 2013 INFO: Task Marker Type: small_red
+Tue Sep 24 11:31:01 PDT 2013 INFO: Task Iteration Number: 1000
+Tue Sep 24 11:31:01 PDT 2013 SUCCESS: Created location task folder
+Tue Sep 24 11:31:01 PDT 2013 INFO: Registered GPS status listener
+Tue Sep 24 11:31:09 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Tue Sep 24 11:31:14 PDT 2013 DEBUG: Removing all providers. Size: 1
+Tue Sep 24 11:31:14 PDT 2013 DEBUG: Removing the provider: gps
+Tue Sep 24 11:31:14 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Tue Sep 24 11:31:14 PDT 2013 WARNING: Tests after test 1 has been cancelled
+Tue Sep 24 11:31:14 PDT 2013 INFO: Run has been finished
+Tue Sep 24 11:31:14 PDT 2013 INFO: NOW, you can go back to menu safe
+Tue Sep 24 14:14:36 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Tue Sep 24 14:14:36 PDT 2013 INFO: Task number 2 has started
+Tue Sep 24 14:14:36 PDT 2013 INFO: Task Name: LocationTracker has started
+Tue Sep 24 14:14:36 PDT 2013 INFO: Task Provider Type: GPS Provider
+Tue Sep 24 14:14:36 PDT 2013 INFO: Task Marker Type: small_red
+Tue Sep 24 14:14:36 PDT 2013 INFO: Task Iteration Number: 1000
+Tue Sep 24 14:14:36 PDT 2013 SUCCESS: Created location task folder
+Tue Sep 24 14:14:36 PDT 2013 INFO: Registered GPS status listener
+Tue Sep 24 14:14:36 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Tue Sep 24 14:14:41 PDT 2013 DEBUG: Removing all providers. Size: 1
+Tue Sep 24 14:14:41 PDT 2013 DEBUG: Removing the provider: gps
+Tue Sep 24 14:14:41 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Tue Sep 24 14:14:41 PDT 2013 WARNING: Tests after test 2 has been cancelled
+Tue Sep 24 14:14:41 PDT 2013 INFO: Run has been finished
+Tue Sep 24 14:14:41 PDT 2013 INFO: NOW, you can go back to menu safe

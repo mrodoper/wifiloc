@@ -1,0 +1,2 @@
+latitude,longitude,hepe,bearing,speed,totalNumberOfSatellites,totalNumberOfSatellitesUsed,firstSV,secondSV,thirdSV,fourthSV,dsn,marker,time,provider,other
+37.32190326818987,-122.03040914289326,34.268185,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/05/01 19:19:30,network,Standard

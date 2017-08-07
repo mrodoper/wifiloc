@@ -1,0 +1,62 @@
+Thu May 01 19:18:50 PDT 2014 SUCCESS:The log structure is created
+Thu May 01 19:18:51 PDT 2014 DEBUG: commandLine :cat /proc/product_name
+Thu May 01 19:18:51 PDT 2014 DEBUG: commandLine response
+Thu May 01 19:18:51 PDT 2014 Log Version: 10
+Thu May 01 19:18:51 PDT 2014 Tool Version: 3.02_3020000
+Thu May 01 19:18:51 PDT 2014 Device Type: 
+Thu May 01 19:18:51 PDT 2014 Modem Type/FW: null
+Thu May 01 19:18:51 PDT 2014 Device Build: null
+Thu May 01 19:18:56 PDT 2014 INFO: Total Number of Tasks Loaded: 1
+Thu May 01 19:18:56 PDT 2014 INFO: Task number 1 has started
+Thu May 01 19:18:56 PDT 2014 INFO: Task Name: LocationTracker has started
+Thu May 01 19:18:56 PDT 2014 INFO: Task Provider Type: GPS Provider
+Thu May 01 19:18:56 PDT 2014 INFO: Task Marker Type: small_red
+Thu May 01 19:18:56 PDT 2014 INFO: Task Iteration Number: 1000
+Thu May 01 19:18:56 PDT 2014 SUCCESS: Created location task folder
+Thu May 01 19:18:56 PDT 2014 INFO: Registered GPS status listener
+Thu May 01 19:19:18 PDT 2014 SUCCESS: First fix in 21.425 secs
+Thu May 01 19:19:18 PDT 2014 37.3218588,-122.03039324,32.0,0.0,0.0,19,6,28.9,26.0,20.9,19.4,null,small_red,2014/05/01 19:19:18,gps,Standard
+Thu May 01 19:19:19 PDT 2014 37.32190747,-122.03048459,34.0,0.0,0.0,19,6,28.9,25.6,20.4,20.1,null,small_red,2014/05/01 19:19:19,gps,Standard
+Thu May 01 19:19:20 PDT 2014 WARNING: Test(s) are cancelled at test number 1
+Thu May 01 19:19:20 PDT 2014 37.32192097,-122.03050019,33.0,0.0,0.0,19,6,26.5,24.7,24.6,20.1,null,small_red,2014/05/01 19:19:20,gps,Standard
+Thu May 01 19:19:21 PDT 2014 37.3219275,-122.03051136,32.0,0.0,0.0,19,7,30.0,28.2,24.1,20.1,null,small_red,2014/05/01 19:19:21,gps,Standard
+Thu May 01 19:19:24 PDT 2014 37.32192085,-122.03047438,28.0,0.0,0.0,19,7,29.3,29.1,24.3,20.1,null,small_red,2014/05/01 19:19:24,gps,Standard
+Thu May 01 19:19:25 PDT 2014 37.32190327,-122.03040913,23.0,0.0,0.0,19,9,29.8,27.3,20.7,18.3,null,small_red,2014/05/01 19:19:25,gps,Standard
+Thu May 01 19:19:25 PDT 2014 DEBUG: Removing all providers. Size: 1
+Thu May 01 19:19:25 PDT 2014 DEBUG: Removing the provider: gps
+Thu May 01 19:19:25 PDT 2014 SUCCESS: logBufferWriterLocation closed
+Thu May 01 19:19:25 PDT 2014 WARNING: Tests after test 1 has been cancelled
+Thu May 01 19:19:25 PDT 2014 INFO: Run has been finished
+Thu May 01 19:19:25 PDT 2014 INFO: NOW, you can go back to menu safe
+Thu May 01 19:19:30 PDT 2014 INFO: Total Number of Tasks Loaded: 1
+Thu May 01 19:19:30 PDT 2014 INFO: Task number 2 has started
+Thu May 01 19:19:30 PDT 2014 INFO: Task Name: LocationTracker has started
+Thu May 01 19:19:30 PDT 2014 INFO: Task Provider Type: Network Provider
+Thu May 01 19:19:30 PDT 2014 INFO: Task Marker Type: small_red
+Thu May 01 19:19:30 PDT 2014 INFO: Task Iteration Number: 1000
+Thu May 01 19:19:30 PDT 2014 SUCCESS: Created location task folder
+Thu May 01 19:19:30 PDT 2014 SUCCESS: First fix in 0.013 secs
+Thu May 01 19:19:30 PDT 2014 37.32190326818987,-122.03040914289326,34.268185,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/05/01 19:19:30,network,Standard
+Thu May 01 19:19:32 PDT 2014 WARNING: Test(s) are cancelled at test number 1
+Thu May 01 19:19:37 PDT 2014 DEBUG: Removing all providers. Size: 1
+Thu May 01 19:19:37 PDT 2014 DEBUG: Removing the provider: network
+Thu May 01 19:19:37 PDT 2014 SUCCESS: logBufferWriterLocation closed
+Thu May 01 19:19:37 PDT 2014 WARNING: Tests after test 2 has been cancelled
+Thu May 01 19:19:37 PDT 2014 INFO: Run has been finished
+Thu May 01 19:19:37 PDT 2014 INFO: NOW, you can go back to menu safe
+Thu May 01 19:19:37 PDT 2014 INFO: Total Number of Tasks Loaded: 1
+Thu May 01 19:19:37 PDT 2014 INFO: Task number 3 has started
+Thu May 01 19:19:37 PDT 2014 INFO: Task Name: LocationTracker has started
+Thu May 01 19:19:37 PDT 2014 INFO: Task Provider Type: Network Provider
+Thu May 01 19:19:37 PDT 2014 INFO: Task Marker Type: small_red
+Thu May 01 19:19:37 PDT 2014 INFO: Task Iteration Number: 1000
+Thu May 01 19:19:37 PDT 2014 SUCCESS: Created location task folder
+Thu May 01 19:19:37 PDT 2014 SUCCESS: First fix in 0.028 secs
+Thu May 01 19:19:37 PDT 2014 37.32190326818987,-122.03040914289326,72.67001,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/05/01 19:19:37,network,Standard
+Thu May 01 19:19:39 PDT 2014 WARNING: Test(s) are cancelled at test number 1
+Thu May 01 19:19:44 PDT 2014 DEBUG: Removing all providers. Size: 1
+Thu May 01 19:19:44 PDT 2014 DEBUG: Removing the provider: network
+Thu May 01 19:19:44 PDT 2014 SUCCESS: logBufferWriterLocation closed
+Thu May 01 19:19:44 PDT 2014 WARNING: Tests after test 3 has been cancelled
+Thu May 01 19:19:44 PDT 2014 INFO: Run has been finished
+Thu May 01 19:19:44 PDT 2014 INFO: NOW, you can go back to menu safe

@@ -1,0 +1,19 @@
+Sat Mar 08 19:44:08 PST 2014 SUCCESS:The log structure is created
+Sat Mar 08 19:44:08 PST 2014 DEBUG: commandLine :cat /proc/product_name
+Sat Mar 08 19:44:08 PST 2014 DEBUG: commandLine response
+Sat Mar 08 19:44:08 PST 2014 Log Version: 10
+Sat Mar 08 19:44:08 PST 2014 Tool Version: 3.00_3000000
+Sat Mar 08 19:44:08 PST 2014 Device Type: 
+Sat Mar 08 19:44:08 PST 2014 Modem Type/FW: null
+Sat Mar 08 19:44:08 PST 2014 Device Build: null
+Sat Mar 08 19:45:08 PST 2014 INFO: Total Number of Tasks Loaded: 1
+Sat Mar 08 19:45:08 PST 2014 INFO: Task number 1 has started
+Sat Mar 08 19:45:08 PST 2014 INFO: Task Name: TTFFTest has started
+Sat Mar 08 19:45:08 PST 2014 INFO: Task Provider Type: GPS Provider
+Sat Mar 08 19:45:08 PST 2014 INFO: Task Marker Type: small_red
+Sat Mar 08 19:45:08 PST 2014 INFO: Task Iteration Number: 1
+Sat Mar 08 19:45:08 PST 2014 SUCCESS: Created location task folder
+Sat Mar 08 19:45:13 PST 2014 INFO: Setting up for cold mode - Deleting info
+Sat Mar 08 19:45:13 PST 2014 INFO: Sleeping 0 secs
+Sat Mar 08 19:45:13 PST 2014 INFO: Starting Cold session
+Sat Mar 08 19:45:18 PST 2014 INFO: Registered GPS status listener

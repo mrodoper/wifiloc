@@ -1,0 +1,23 @@
+Mon Apr 28 18:04:22 PDT 2014 SUCCESS:The log structure is created
+Mon Apr 28 18:04:22 PDT 2014 DEBUG: commandLine :cat /proc/product_name
+Mon Apr 28 18:04:22 PDT 2014 DEBUG: commandLine response
+Mon Apr 28 18:04:22 PDT 2014 Log Version: 10
+Mon Apr 28 18:04:22 PDT 2014 Tool Version: 3.00_3000000
+Mon Apr 28 18:04:22 PDT 2014 Device Type: 
+Mon Apr 28 18:04:22 PDT 2014 Modem Type/FW: null
+Mon Apr 28 18:04:22 PDT 2014 Device Build: null
+Mon Apr 28 19:01:09 PDT 2014 INFO: Total Number of Tasks Loaded: 1
+Mon Apr 28 19:01:09 PDT 2014 INFO: Task number 1 has started
+Mon Apr 28 19:01:09 PDT 2014 INFO: Task Name: LocationTracker has started
+Mon Apr 28 19:01:09 PDT 2014 INFO: Task Provider Type: GPS Provider
+Mon Apr 28 19:01:09 PDT 2014 INFO: Task Marker Type: small_red
+Mon Apr 28 19:01:09 PDT 2014 INFO: Task Iteration Number: 1000
+Mon Apr 28 19:01:09 PDT 2014 SUCCESS: Created location task folder
+Mon Apr 28 19:01:09 PDT 2014 INFO: Registered GPS status listener
+Mon Apr 28 19:01:11 PDT 2014 WARNING: Test(s) are cancelled at test number 1
+Mon Apr 28 19:01:16 PDT 2014 DEBUG: Inside deregisterFromLocationUpdates
+Mon Apr 28 19:01:16 PDT 2014 DEBUG: Removing the provider
+Mon Apr 28 19:01:16 PDT 2014 SUCCESS: logBufferWriterLocation closed
+Mon Apr 28 19:01:16 PDT 2014 WARNING: Tests after test 1 has been cancelled
+Mon Apr 28 19:01:16 PDT 2014 INFO: Run has been finished
+Mon Apr 28 19:01:16 PDT 2014 INFO: NOW, you can go back to menu safe

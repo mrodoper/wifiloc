@@ -1,0 +1,34 @@
+Wed Oct 30 17:22:01 PDT 2013 SUCCESS:The log structure is created
+Wed Oct 30 17:22:01 PDT 2013 DEBUG: commandLine :cat /proc/product_name
+Wed Oct 30 17:22:01 PDT 2013 DEBUG: commandLine response
+Wed Oct 30 17:22:01 PDT 2013 Log Version: 10
+Wed Oct 30 17:22:01 PDT 2013 Tool Version: 3.00_3000000
+Wed Oct 30 17:22:01 PDT 2013 Device Type: 
+Wed Oct 30 17:22:01 PDT 2013 Modem Type/FW: null
+Wed Oct 30 17:22:01 PDT 2013 Device Build: null
+Wed Oct 30 17:22:05 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Wed Oct 30 17:22:05 PDT 2013 INFO: Task number 1 has started
+Wed Oct 30 17:22:05 PDT 2013 INFO: Task Name: LocationTracker has started
+Wed Oct 30 17:22:05 PDT 2013 INFO: Task Provider Type: Network Provider
+Wed Oct 30 17:22:05 PDT 2013 INFO: Task Marker Type: small_red
+Wed Oct 30 17:22:05 PDT 2013 INFO: Task Iteration Number: 1000
+Wed Oct 30 17:22:05 PDT 2013 SUCCESS: Created location task folder
+Wed Oct 30 17:22:05 PDT 2013 SUCCESS: First fix in 0.111 secs
+Wed Oct 30 17:22:05 PDT 2013 37.320426,-122.029377,931.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:22:05,network,Standard
+Wed Oct 30 17:22:25 PDT 2013 37.3216765,-122.03054,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:22:25,network,Standard
+Wed Oct 30 17:22:45 PDT 2013 37.321664,-122.0305499,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:22:45,network,Standard
+Wed Oct 30 17:23:05 PDT 2013 37.3216668,-122.0305635,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:23:05,network,Standard
+Wed Oct 30 17:23:26 PDT 2013 37.3216566,-122.0305587,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:23:26,network,Standard
+Wed Oct 30 17:24:06 PDT 2013 37.3216708,-122.0305381,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:24:06,network,Standard
+Wed Oct 30 17:24:26 PDT 2013 37.3216806,-122.0305502,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:24:26,network,Standard
+Wed Oct 30 17:24:46 PDT 2013 37.3216698,-122.0305477,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:24:46,network,Standard
+Wed Oct 30 17:25:26 PDT 2013 37.3216721,-122.0305247,21.188,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:25:26,network,Standard
+Wed Oct 30 17:25:46 PDT 2013 37.3216826,-122.0305481,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:25:46,network,Standard
+Wed Oct 30 17:26:06 PDT 2013 37.3216739,-122.0305517,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/30 17:26:06,network,Standard
+Wed Oct 30 17:27:05 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Wed Oct 30 17:27:10 PDT 2013 DEBUG: Removing all providers. Size: 1
+Wed Oct 30 17:27:10 PDT 2013 DEBUG: Removing the provider: network
+Wed Oct 30 17:27:10 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Oct 30 17:27:10 PDT 2013 WARNING: Tests after test 1 has been cancelled
+Wed Oct 30 17:27:10 PDT 2013 INFO: Run has been finished
+Wed Oct 30 17:27:10 PDT 2013 INFO: NOW, you can go back to menu safe

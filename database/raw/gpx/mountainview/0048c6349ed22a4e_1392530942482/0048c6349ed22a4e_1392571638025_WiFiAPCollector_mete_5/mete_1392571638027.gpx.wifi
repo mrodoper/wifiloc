@@ -1,0 +1,26 @@
+<gpx creator="ALTT" version="1.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<trk>
+<name>mete</name>
+<trkseg>
+<trkpt lat="37.39053883" lon="-122.06355927"><ele>-37.20000076293945</ele><time>2014-02-16T09:27:50Z</time><wifipt>
+<scan>
+Using interface '????'
+bssid / frequency / signal level / flags / ssid
+dc:45:17:6f:b4:a0	2437	-57	[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][ESS]	ATT848
+8c:04:ff:b5:e1:c9	2437	-75	[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]	HOME-E1C9
+b8:e6:25:e5:32:7a	2462	-84	[WPA2-PSK-CCMP][ESS]	OperaHouse
+80:ea:96:ed:51:20	2462	-80	[WPA2-PSK-CCMP][ESS]	Tiger&Cat
+30:85:a9:68:cb:78	2412	-80	[WPA2-PSK-CCMP][ESS]	Krypton2.4ghz
+56:57:1a:e2:f5:f0	2417	-81	[ESS]	xfinitywifi
+00:0d:97:10:9b:3a	5745	-92	[WPA-EAP-CCMP+TKIP][WPA2-EAP-CCMP+TKIP][ESS]	GoogleWiFiSecure
+c0:83:0a:11:bf:e1	2447	-92	[WPA-PSK-TKIP][WPS][ESS]	2WIRE036
+44:32:c8:ec:07:00	2462	-92	[WPA-PSK-CCMP+TKIP][WPA2-PSK-CCMP+TKIP][WPS][ESS]	worderland
+00:0d:97:00:9b:3a	5745	-89	[ESS]	GoogleWiFi
+</scan>
+<time>
+2014-02-16T09:27:50Z</time>
+</wifipt>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

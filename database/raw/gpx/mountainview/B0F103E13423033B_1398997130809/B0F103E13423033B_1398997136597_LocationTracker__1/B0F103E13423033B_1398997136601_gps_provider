@@ -1,0 +1,7 @@
+latitude,longitude,hepe,bearing,speed,totalNumberOfSatellites,totalNumberOfSatellitesUsed,firstSV,secondSV,thirdSV,fourthSV,dsn,marker,time,provider,other
+37.3218588,-122.03039324,32.0,0.0,0.0,19,6,28.9,26.0,20.9,19.4,null,small_red,2014/05/01 19:19:18,gps,Standard
+37.32190747,-122.03048459,34.0,0.0,0.0,19,6,28.9,25.6,20.4,20.1,null,small_red,2014/05/01 19:19:19,gps,Standard
+37.32192097,-122.03050019,33.0,0.0,0.0,19,6,26.5,24.7,24.6,20.1,null,small_red,2014/05/01 19:19:20,gps,Standard
+37.3219275,-122.03051136,32.0,0.0,0.0,19,7,30.0,28.2,24.1,20.1,null,small_red,2014/05/01 19:19:21,gps,Standard
+37.32192085,-122.03047438,28.0,0.0,0.0,19,7,29.3,29.1,24.3,20.1,null,small_red,2014/05/01 19:19:24,gps,Standard
+37.32190327,-122.03040913,23.0,0.0,0.0,19,9,29.8,27.3,20.7,18.3,null,small_red,2014/05/01 19:19:25,gps,Standard

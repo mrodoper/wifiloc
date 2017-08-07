@@ -1,0 +1,57 @@
+Fri Nov 22 13:20:04 PST 2013 SUCCESS:The log structure is created
+Fri Nov 22 13:20:04 PST 2013 DEBUG: commandLine :cat /proc/product_name
+Fri Nov 22 13:20:04 PST 2013 DEBUG: commandLine response
+Fri Nov 22 13:20:04 PST 2013 Log Version: 10
+Fri Nov 22 13:20:04 PST 2013 Tool Version: 3.00_3000000
+Fri Nov 22 13:20:04 PST 2013 Device Type: 
+Fri Nov 22 13:20:04 PST 2013 Modem Type/FW: null
+Fri Nov 22 13:20:04 PST 2013 Device Build: null
+Fri Nov 22 13:20:06 PST 2013 INFO: Total Number of Tasks Loaded: 1
+Fri Nov 22 13:20:06 PST 2013 INFO: Task number 1 has started
+Fri Nov 22 13:20:06 PST 2013 INFO: Task Name: LocationTracker has started
+Fri Nov 22 13:20:06 PST 2013 INFO: Task Provider Type: Network Provider
+Fri Nov 22 13:20:06 PST 2013 INFO: Task Marker Type: small_red
+Fri Nov 22 13:20:06 PST 2013 INFO: Task Iteration Number: 1000
+Fri Nov 22 13:20:06 PST 2013 SUCCESS: Created location task folder
+Fri Nov 22 13:20:13 PST 2013 WARNING: Test(s) are cancelled at test number 1
+Fri Nov 22 13:20:18 PST 2013 DEBUG: Removing all providers. Size: 1
+Fri Nov 22 13:20:18 PST 2013 DEBUG: Removing the provider: network
+Fri Nov 22 13:20:18 PST 2013 SUCCESS: logBufferWriterLocation closed
+Fri Nov 22 13:20:18 PST 2013 WARNING: Tests after test 1 has been cancelled
+Fri Nov 22 13:20:18 PST 2013 INFO: Run has been finished
+Fri Nov 22 13:20:18 PST 2013 INFO: NOW, you can go back to menu safe
+Fri Nov 22 14:29:45 PST 2013 INFO: Total Number of Tasks Loaded: 1
+Fri Nov 22 14:29:45 PST 2013 INFO: Task number 2 has started
+Fri Nov 22 14:29:45 PST 2013 INFO: Task Name: LocationTracker has started
+Fri Nov 22 14:29:45 PST 2013 INFO: Task Provider Type: Network Provider
+Fri Nov 22 14:29:45 PST 2013 INFO: Task Marker Type: small_red
+Fri Nov 22 14:29:45 PST 2013 INFO: Task Iteration Number: 1000
+Fri Nov 22 14:29:45 PST 2013 SUCCESS: Created location task folder
+Fri Nov 22 14:29:48 PST 2013 WARNING: Test(s) are cancelled at test number 1
+Fri Nov 22 14:29:53 PST 2013 DEBUG: Removing all providers. Size: 1
+Fri Nov 22 14:29:53 PST 2013 DEBUG: Removing the provider: network
+Fri Nov 22 14:29:53 PST 2013 SUCCESS: logBufferWriterLocation closed
+Fri Nov 22 14:29:53 PST 2013 WARNING: Tests after test 2 has been cancelled
+Fri Nov 22 14:29:53 PST 2013 INFO: Run has been finished
+Fri Nov 22 14:29:53 PST 2013 INFO: NOW, you can go back to menu safe
+Fri Nov 22 14:29:58 PST 2013 INFO: Total Number of Tasks Loaded: 1
+Fri Nov 22 14:29:58 PST 2013 INFO: Task number 3 has started
+Fri Nov 22 14:29:58 PST 2013 INFO: Task Name: LocationTracker has started
+Fri Nov 22 14:29:58 PST 2013 INFO: Task Provider Type: Network Provider
+Fri Nov 22 14:29:58 PST 2013 INFO: Task Marker Type: small_red
+Fri Nov 22 14:29:58 PST 2013 INFO: Task Iteration Number: 1000
+Fri Nov 22 14:29:58 PST 2013 SUCCESS: Created location task folder
+Fri Nov 22 14:30:12 PST 2013 WARNING: Test(s) are cancelled at test number 1
+Fri Nov 22 14:30:17 PST 2013 DEBUG: Removing all providers. Size: 1
+Fri Nov 22 14:30:17 PST 2013 DEBUG: Removing the provider: network
+Fri Nov 22 14:30:17 PST 2013 SUCCESS: logBufferWriterLocation closed
+Fri Nov 22 14:30:17 PST 2013 WARNING: Tests after test 3 has been cancelled
+Fri Nov 22 14:30:17 PST 2013 INFO: Run has been finished
+Fri Nov 22 14:30:17 PST 2013 INFO: NOW, you can go back to menu safe
+Fri Nov 22 14:30:29 PST 2013 INFO: Total Number of Tasks Loaded: 1
+Fri Nov 22 14:30:29 PST 2013 INFO: Task number 4 has started
+Fri Nov 22 14:30:29 PST 2013 INFO: Task Name: LocationTracker has started
+Fri Nov 22 14:30:29 PST 2013 INFO: Task Provider Type: Network Provider
+Fri Nov 22 14:30:29 PST 2013 INFO: Task Marker Type: small_red
+Fri Nov 22 14:30:29 PST 2013 INFO: Task Iteration Number: 1000
+Fri Nov 22 14:30:29 PST 2013 SUCCESS: Created location task folder

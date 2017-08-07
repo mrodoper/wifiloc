@@ -1,0 +1,18 @@
+Fri Feb 07 14:22:34 PST 2014 SUCCESS:The log structure is created
+Fri Feb 07 14:22:34 PST 2014 DEBUG: commandLine :cat /proc/product_name
+Fri Feb 07 14:22:34 PST 2014 DEBUG: commandLine response
+Fri Feb 07 14:22:34 PST 2014 Log Version: 10
+Fri Feb 07 14:22:34 PST 2014 Tool Version: 3.00_3000000
+Fri Feb 07 14:22:34 PST 2014 Device Type: 
+Fri Feb 07 14:22:34 PST 2014 Modem Type/FW: null
+Fri Feb 07 14:22:34 PST 2014 Device Build: null
+Fri Feb 07 14:22:38 PST 2014 INFO: Total Number of Tasks Loaded: 1
+Fri Feb 07 14:22:38 PST 2014 INFO: Task number 1 has started
+Fri Feb 07 14:22:38 PST 2014 INFO: Task Name: LocationTracker has started
+Fri Feb 07 14:22:38 PST 2014 INFO: Task Provider Type: Network Provider
+Fri Feb 07 14:22:38 PST 2014 INFO: Task Marker Type: small_red
+Fri Feb 07 14:22:38 PST 2014 INFO: Task Iteration Number: 1000
+Fri Feb 07 14:22:38 PST 2014 SUCCESS: Created location task folder
+Fri Feb 07 14:22:38 PST 2014 SUCCESS: First fix in 0.421 secs
+Fri Feb 07 14:22:38 PST 2014 37.321693,-122.0305829,43.92,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/02/07 14:22:38,network,Standard
+Fri Feb 07 14:22:41 PST 2014 WARNING: Test(s) are cancelled at test number 1

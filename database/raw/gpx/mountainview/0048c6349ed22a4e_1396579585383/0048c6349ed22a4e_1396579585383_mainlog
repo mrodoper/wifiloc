@@ -1,0 +1,1385 @@
+Thu Apr 03 19:46:25 PDT 2014 SUCCESS:The log structure is created
+Thu Apr 03 19:46:25 PDT 2014 DEBUG: commandLine :cat /proc/product_name
+Thu Apr 03 19:46:25 PDT 2014 DEBUG: commandLine response
+Thu Apr 03 19:46:25 PDT 2014 Log Version: 10
+Thu Apr 03 19:46:25 PDT 2014 Tool Version: 3.00_3000000
+Thu Apr 03 19:46:25 PDT 2014 Device Type: 
+Thu Apr 03 19:46:25 PDT 2014 Modem Type/FW: null
+Thu Apr 03 19:46:25 PDT 2014 Device Build: null
+Thu Apr 03 19:46:44 PDT 2014 INFO: Total Number of Tasks Loaded: 1
+Thu Apr 03 19:46:44 PDT 2014 INFO: Task number 1 has started
+Thu Apr 03 19:46:44 PDT 2014 INFO: Task Name: WiFiAPCollector has started
+Thu Apr 03 19:46:44 PDT 2014 INFO: Task Provider Type: GPS_Provider
+Thu Apr 03 19:46:44 PDT 2014 INFO: Task Marker Type: small_red
+Thu Apr 03 19:46:44 PDT 2014 INFO: Task Iteration Number: 1000
+Thu Apr 03 19:46:44 PDT 2014 SUCCESS: Created location task folder
+Thu Apr 03 19:46:44 PDT 2014 INFO: Registered GPS status listener
+Thu Apr 03 19:46:44 PDT 2014 Waiting for GPS fix
+Thu Apr 03 19:46:51 PDT 2014 SUCCESS: First fix in 7.489 secs
+Thu Apr 03 19:46:51 PDT 2014 37.39248972,-122.07979904,29.0,312.9,2.828427,20,7,31.4,27.5,24.5,24.2,null,small_red,2014/04/03 19:46:51,gps,Standard
+Thu Apr 03 19:46:52 PDT 2014 First GPS fix received: 37.39248972 -122.07979904
+Thu Apr 03 19:46:52 PDT 2014 INFO: Waiting 15 seconds for GPS to get accurate
+Thu Apr 03 19:47:07 PDT 2014 Scan initiated
+Thu Apr 03 19:47:07 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:47:07 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:47:07 PDT 2014 37.39236918 -122.08012717;0 0;
+Thu Apr 03 19:47:07 PDT 2014 90:b1:34:b5:4b:a0 -75;
+Thu Apr 03 19:47:07 PDT 2014 da:50:e6:92:48:1b -85;
+Thu Apr 03 19:47:07 PDT 2014 00:0d:97:10:c0:5e -79;
+Thu Apr 03 19:47:07 PDT 2014 00:0d:97:10:c0:5e -83;
+Thu Apr 03 19:47:07 PDT 2014 00:0d:97:00:d0:02 -79;
+Thu Apr 03 19:47:07 PDT 2014 d8:50:e6:92:48:1a -83;
+Thu Apr 03 19:47:07 PDT 2014 00:0d:97:00:c0:5e -83;
+Thu Apr 03 19:47:07 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:47:07 PDT 2014 74:9d:dc:af:ac:be -82;
+Thu Apr 03 19:47:07 PDT 2014 dc:9f:db:fd:15:c0 -82;
+Thu Apr 03 19:47:07 PDT 2014 38:6b:bb:61:92:60 -79;
+Thu Apr 03 19:47:07 PDT 2014 dc:9f:db:fd:17:e0 -88;
+Thu Apr 03 19:47:07 PDT 2014 dc:9f:db:fd:15:d0 -83;
+Thu Apr 03 19:47:07 PDT 2014 14:35:8b:05:f1:d8 -86;
+Thu Apr 03 19:47:07 PDT 2014 90:72:40:18:9e:2e -88;
+Thu Apr 03 19:47:07 PDT 2014 00:0d:97:10:d0:02 -79;
+Thu Apr 03 19:47:07 PDT 2014 64:0f:28:c4:54:8e -87;
+Thu Apr 03 19:47:07 PDT 2014 90:72:40:23:0b:3d -96;
+Thu Apr 03 19:47:07 PDT 2014 92:3d:0b:23:40:70 -97;
+Thu Apr 03 19:47:07 PDT 2014 0c:84:dc:a4:74:08 -84;
+Thu Apr 03 19:47:07 PDT 2014 b8:e6:25:28:94:69 -86;
+Thu Apr 03 19:47:07 PDT 2014 00:19:e3:e5:73:5d -88;
+Thu Apr 03 19:47:07 PDT 2014 b0:77:ac:33:a2:e0 -77;
+Thu Apr 03 19:47:07 PDT 2014 dc:9f:db:1c:b0:99 -91;
+Thu Apr 03 19:47:07 PDT 2014 00:0d:97:10:d0:02 -79;
+Thu Apr 03 19:47:07 PDT 2014 Iteration completed
+Thu Apr 03 19:47:12 PDT 2014 Scan initiated
+Thu Apr 03 19:47:13 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:47:13 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:47:13 PDT 2014 37.39238721 -122.08001789;0 0;
+Thu Apr 03 19:47:13 PDT 2014 da:50:e6:92:48:1b -87;
+Thu Apr 03 19:47:13 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:47:13 PDT 2014 00:0d:97:10:c0:5e -70;
+Thu Apr 03 19:47:13 PDT 2014 00:0d:97:00:d0:02 -79;
+Thu Apr 03 19:47:13 PDT 2014 d8:50:e6:92:48:1a -83;
+Thu Apr 03 19:47:13 PDT 2014 00:0d:97:00:c0:5e -72;
+Thu Apr 03 19:47:13 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:47:13 PDT 2014 74:9d:dc:af:ac:be -82;
+Thu Apr 03 19:47:13 PDT 2014 dc:9f:db:fd:15:c0 -83;
+Thu Apr 03 19:47:13 PDT 2014 38:6b:bb:61:92:60 -79;
+Thu Apr 03 19:47:13 PDT 2014 dc:9f:db:fd:17:e0 -77;
+Thu Apr 03 19:47:13 PDT 2014 dc:9f:db:fd:15:d0 -84;
+Thu Apr 03 19:47:13 PDT 2014 14:35:8b:05:f1:d8 -86;
+Thu Apr 03 19:47:13 PDT 2014 90:72:40:18:9e:2e -87;
+Thu Apr 03 19:47:13 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:47:13 PDT 2014 b8:e6:25:28:94:69 -86;
+Thu Apr 03 19:47:13 PDT 2014 00:19:e3:e5:73:5d -88;
+Thu Apr 03 19:47:13 PDT 2014 b0:77:ac:33:a2:e0 -85;
+Thu Apr 03 19:47:13 PDT 2014 dc:9f:db:1c:b0:99 -91;
+Thu Apr 03 19:47:13 PDT 2014 00:0d:97:10:d0:02 -79;
+Thu Apr 03 19:47:13 PDT 2014 1c:14:48:25:fa:a0 -87;
+Thu Apr 03 19:47:13 PDT 2014 90:b1:34:a0:a6:40 -87;
+Thu Apr 03 19:47:13 PDT 2014 50:46:5d:6e:5e:90 -90;
+Thu Apr 03 19:47:13 PDT 2014 44:94:fc:53:08:81 -96;
+Thu Apr 03 19:47:13 PDT 2014 dc:9f:db:fc:9c:c0 -95;
+Thu Apr 03 19:47:13 PDT 2014 Iteration completed
+Thu Apr 03 19:47:18 PDT 2014 Scan initiated
+Thu Apr 03 19:47:19 PDT 2014 Scan ended. APs found: 27
+Thu Apr 03 19:47:19 PDT 2014 APs found by passive scan: 27
+Thu Apr 03 19:47:19 PDT 2014 37.39238463 -122.07997885;0 0;
+Thu Apr 03 19:47:19 PDT 2014 da:50:e6:92:48:1b -87;
+Thu Apr 03 19:47:19 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:47:19 PDT 2014 00:0d:97:10:c0:5e -70;
+Thu Apr 03 19:47:19 PDT 2014 00:0d:97:00:d0:02 -79;
+Thu Apr 03 19:47:19 PDT 2014 d8:50:e6:92:48:1a -83;
+Thu Apr 03 19:47:19 PDT 2014 00:0d:97:00:c0:5e -72;
+Thu Apr 03 19:47:19 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:47:19 PDT 2014 74:9d:dc:af:ac:be -82;
+Thu Apr 03 19:47:19 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:47:19 PDT 2014 38:6b:bb:61:92:60 -79;
+Thu Apr 03 19:47:19 PDT 2014 dc:9f:db:fd:17:e0 -77;
+Thu Apr 03 19:47:19 PDT 2014 dc:9f:db:fd:15:d0 -86;
+Thu Apr 03 19:47:19 PDT 2014 14:35:8b:05:f1:d8 -86;
+Thu Apr 03 19:47:19 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:47:19 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:47:19 PDT 2014 b8:e6:25:28:94:69 -86;
+Thu Apr 03 19:47:19 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:47:19 PDT 2014 b0:77:ac:33:a2:e0 -85;
+Thu Apr 03 19:47:19 PDT 2014 dc:9f:db:1c:b0:99 -91;
+Thu Apr 03 19:47:19 PDT 2014 00:0d:97:10:d0:02 -80;
+Thu Apr 03 19:47:19 PDT 2014 1c:14:48:25:fa:a0 -87;
+Thu Apr 03 19:47:19 PDT 2014 90:b1:34:a0:a6:40 -87;
+Thu Apr 03 19:47:19 PDT 2014 50:46:5d:6e:5e:90 -90;
+Thu Apr 03 19:47:19 PDT 2014 44:94:fc:53:08:81 -96;
+Thu Apr 03 19:47:19 PDT 2014 dc:9f:db:fc:9c:c0 -95;
+Thu Apr 03 19:47:19 PDT 2014 00:3a:9a:68:9e:a0 -84;
+Thu Apr 03 19:47:19 PDT 2014 92:3c:0b:23:40:70 -84;
+Thu Apr 03 19:47:19 PDT 2014 Iteration completed
+Thu Apr 03 19:47:24 PDT 2014 Scan initiated
+Thu Apr 03 19:47:25 PDT 2014 Scan ended. APs found: 32
+Thu Apr 03 19:47:25 PDT 2014 APs found by passive scan: 32
+Thu Apr 03 19:47:25 PDT 2014 37.392383 -122.07995932;0 0;
+Thu Apr 03 19:47:25 PDT 2014 da:50:e6:92:48:1b -80;
+Thu Apr 03 19:47:25 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:47:25 PDT 2014 00:0d:97:10:c0:5e -73;
+Thu Apr 03 19:47:25 PDT 2014 00:0d:97:00:d0:02 -76;
+Thu Apr 03 19:47:25 PDT 2014 d8:50:e6:92:48:1a -79;
+Thu Apr 03 19:47:25 PDT 2014 00:0d:97:00:c0:5e -74;
+Thu Apr 03 19:47:25 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:47:25 PDT 2014 74:9d:dc:af:ac:be -81;
+Thu Apr 03 19:47:25 PDT 2014 dc:9f:db:fd:15:c0 -70;
+Thu Apr 03 19:47:25 PDT 2014 38:6b:bb:61:92:60 -83;
+Thu Apr 03 19:47:25 PDT 2014 dc:9f:db:fd:17:e0 -77;
+Thu Apr 03 19:47:25 PDT 2014 dc:9f:db:fd:15:d0 -81;
+Thu Apr 03 19:47:25 PDT 2014 14:35:8b:05:f1:d8 -86;
+Thu Apr 03 19:47:25 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:47:25 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:47:25 PDT 2014 b8:e6:25:28:94:69 -86;
+Thu Apr 03 19:47:25 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:47:25 PDT 2014 b0:77:ac:33:a2:e0 -85;
+Thu Apr 03 19:47:25 PDT 2014 dc:9f:db:1c:b0:99 -91;
+Thu Apr 03 19:47:25 PDT 2014 00:0d:97:10:d0:02 -76;
+Thu Apr 03 19:47:25 PDT 2014 1c:14:48:25:fa:a0 -87;
+Thu Apr 03 19:47:25 PDT 2014 90:b1:34:a0:a6:40 -87;
+Thu Apr 03 19:47:25 PDT 2014 50:46:5d:6e:5e:90 -89;
+Thu Apr 03 19:47:25 PDT 2014 44:94:fc:53:08:81 -96;
+Thu Apr 03 19:47:25 PDT 2014 dc:9f:db:fc:9c:c0 -95;
+Thu Apr 03 19:47:25 PDT 2014 00:3a:9a:68:9e:a0 -84;
+Thu Apr 03 19:47:25 PDT 2014 92:3c:0b:23:40:70 -84;
+Thu Apr 03 19:47:25 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:47:25 PDT 2014 90:b1:34:b5:4b:a0 -84;
+Thu Apr 03 19:47:25 PDT 2014 dc:9f:db:fd:17:f0 -91;
+Thu Apr 03 19:47:25 PDT 2014 4c:60:de:30:3d:b2 -91;
+Thu Apr 03 19:47:25 PDT 2014 90:72:40:18:9e:2f -96;
+Thu Apr 03 19:47:25 PDT 2014 Iteration completed
+Thu Apr 03 19:47:30 PDT 2014 Scan initiated
+Thu Apr 03 19:47:31 PDT 2014 Scan ended. APs found: 34
+Thu Apr 03 19:47:31 PDT 2014 APs found by passive scan: 34
+Thu Apr 03 19:47:31 PDT 2014 37.39238261 -122.07995635;0 0;
+Thu Apr 03 19:47:31 PDT 2014 da:50:e6:92:48:1b -80;
+Thu Apr 03 19:47:31 PDT 2014 00:0d:97:10:c0:5e -79;
+Thu Apr 03 19:47:31 PDT 2014 00:0d:97:10:c0:5e -73;
+Thu Apr 03 19:47:31 PDT 2014 00:0d:97:00:d0:02 -75;
+Thu Apr 03 19:47:31 PDT 2014 d8:50:e6:92:48:1a -79;
+Thu Apr 03 19:47:31 PDT 2014 00:0d:97:00:c0:5e -77;
+Thu Apr 03 19:47:31 PDT 2014 d8:50:e6:92:48:1c -94;
+Thu Apr 03 19:47:31 PDT 2014 74:9d:dc:af:ac:be -85;
+Thu Apr 03 19:47:31 PDT 2014 dc:9f:db:fd:15:c0 -73;
+Thu Apr 03 19:47:31 PDT 2014 38:6b:bb:61:92:60 -83;
+Thu Apr 03 19:47:31 PDT 2014 dc:9f:db:fd:17:e0 -77;
+Thu Apr 03 19:47:31 PDT 2014 dc:9f:db:fd:15:d0 -85;
+Thu Apr 03 19:47:31 PDT 2014 14:35:8b:05:f1:d8 -85;
+Thu Apr 03 19:47:31 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:47:31 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:47:31 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:47:31 PDT 2014 b0:77:ac:33:a2:e0 -85;
+Thu Apr 03 19:47:31 PDT 2014 00:0d:97:10:d0:02 -74;
+Thu Apr 03 19:47:31 PDT 2014 1c:14:48:25:fa:a0 -87;
+Thu Apr 03 19:47:31 PDT 2014 90:b1:34:a0:a6:40 -87;
+Thu Apr 03 19:47:31 PDT 2014 50:46:5d:6e:5e:90 -89;
+Thu Apr 03 19:47:31 PDT 2014 44:94:fc:53:08:81 -96;
+Thu Apr 03 19:47:31 PDT 2014 dc:9f:db:fc:9c:c0 -95;
+Thu Apr 03 19:47:31 PDT 2014 00:3a:9a:68:9e:a0 -84;
+Thu Apr 03 19:47:31 PDT 2014 92:3c:0b:23:40:70 -84;
+Thu Apr 03 19:47:31 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:47:31 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:47:31 PDT 2014 dc:9f:db:fd:17:f0 -91;
+Thu Apr 03 19:47:31 PDT 2014 4c:60:de:30:3d:b2 -91;
+Thu Apr 03 19:47:31 PDT 2014 90:72:40:18:9e:2f -96;
+Thu Apr 03 19:47:31 PDT 2014 92:3d:0b:23:40:70 -93;
+Thu Apr 03 19:47:31 PDT 2014 ac:5d:10:9c:7a:32 -90;
+Thu Apr 03 19:47:31 PDT 2014 90:72:40:23:0b:3d -95;
+Thu Apr 03 19:47:31 PDT 2014 00:80:f0:57:d3:00 -91;
+Thu Apr 03 19:47:31 PDT 2014 Iteration completed
+Thu Apr 03 19:47:36 PDT 2014 Scan initiated
+Thu Apr 03 19:47:37 PDT 2014 Scan ended. APs found: 29
+Thu Apr 03 19:47:37 PDT 2014 APs found by passive scan: 29
+Thu Apr 03 19:47:37 PDT 2014 37.39238253 -122.07995663;0 0;
+Thu Apr 03 19:47:37 PDT 2014 da:50:e6:92:48:1b -82;
+Thu Apr 03 19:47:37 PDT 2014 00:0d:97:10:c0:5e -79;
+Thu Apr 03 19:47:37 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:47:37 PDT 2014 00:0d:97:00:d0:02 -75;
+Thu Apr 03 19:47:37 PDT 2014 d8:50:e6:92:48:1a -79;
+Thu Apr 03 19:47:37 PDT 2014 00:0d:97:00:c0:5e -76;
+Thu Apr 03 19:47:37 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:47:37 PDT 2014 74:9d:dc:af:ac:be -83;
+Thu Apr 03 19:47:37 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:47:37 PDT 2014 38:6b:bb:61:92:60 -83;
+Thu Apr 03 19:47:37 PDT 2014 dc:9f:db:fd:17:e0 -84;
+Thu Apr 03 19:47:37 PDT 2014 dc:9f:db:fd:15:d0 -85;
+Thu Apr 03 19:47:37 PDT 2014 14:35:8b:05:f1:d8 -84;
+Thu Apr 03 19:47:37 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:47:37 PDT 2014 00:19:e3:e5:73:5d -85;
+Thu Apr 03 19:47:37 PDT 2014 00:0d:97:10:d0:02 -74;
+Thu Apr 03 19:47:37 PDT 2014 50:46:5d:6e:5e:90 -89;
+Thu Apr 03 19:47:37 PDT 2014 00:3a:9a:68:9e:a0 -84;
+Thu Apr 03 19:47:37 PDT 2014 92:3c:0b:23:40:70 -84;
+Thu Apr 03 19:47:37 PDT 2014 00:0d:97:10:d0:02 -76;
+Thu Apr 03 19:47:37 PDT 2014 90:b1:34:b5:4b:a0 -85;
+Thu Apr 03 19:47:37 PDT 2014 dc:9f:db:fd:17:f0 -91;
+Thu Apr 03 19:47:37 PDT 2014 4c:60:de:30:3d:b2 -91;
+Thu Apr 03 19:47:37 PDT 2014 90:72:40:18:9e:2f -96;
+Thu Apr 03 19:47:37 PDT 2014 92:3d:0b:23:40:70 -93;
+Thu Apr 03 19:47:37 PDT 2014 ac:5d:10:9c:7a:32 -89;
+Thu Apr 03 19:47:37 PDT 2014 90:72:40:23:0b:3d -95;
+Thu Apr 03 19:47:37 PDT 2014 00:80:f0:57:d3:00 -91;
+Thu Apr 03 19:47:37 PDT 2014 1c:14:48:26:4c:80 -84;
+Thu Apr 03 19:47:37 PDT 2014 Iteration completed
+Thu Apr 03 19:47:42 PDT 2014 Scan initiated
+Thu Apr 03 19:47:42 PDT 2014 Scan ended. APs found: 29
+Thu Apr 03 19:47:42 PDT 2014 APs found by passive scan: 29
+Thu Apr 03 19:47:42 PDT 2014 37.39238316 -122.07996258;0 0;
+Thu Apr 03 19:47:42 PDT 2014 da:50:e6:92:48:1b -82;
+Thu Apr 03 19:47:42 PDT 2014 00:0d:97:10:c0:5e -77;
+Thu Apr 03 19:47:42 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:47:42 PDT 2014 00:0d:97:00:d0:02 -79;
+Thu Apr 03 19:47:42 PDT 2014 d8:50:e6:92:48:1a -79;
+Thu Apr 03 19:47:42 PDT 2014 00:0d:97:00:c0:5e -74;
+Thu Apr 03 19:47:42 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:47:42 PDT 2014 74:9d:dc:af:ac:be -83;
+Thu Apr 03 19:47:42 PDT 2014 dc:9f:db:fd:15:c0 -79;
+Thu Apr 03 19:47:42 PDT 2014 38:6b:bb:61:92:60 -83;
+Thu Apr 03 19:47:42 PDT 2014 dc:9f:db:fd:17:e0 -80;
+Thu Apr 03 19:47:42 PDT 2014 dc:9f:db:fd:15:d0 -85;
+Thu Apr 03 19:47:42 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:47:42 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:47:42 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:47:42 PDT 2014 00:0d:97:10:d0:02 -74;
+Thu Apr 03 19:47:42 PDT 2014 50:46:5d:6e:5e:90 -89;
+Thu Apr 03 19:47:42 PDT 2014 00:0d:97:10:d0:02 -76;
+Thu Apr 03 19:47:42 PDT 2014 90:b1:34:b5:4b:a0 -85;
+Thu Apr 03 19:47:42 PDT 2014 dc:9f:db:fd:17:f0 -91;
+Thu Apr 03 19:47:42 PDT 2014 4c:60:de:30:3d:b2 -91;
+Thu Apr 03 19:47:42 PDT 2014 90:72:40:18:9e:2f -96;
+Thu Apr 03 19:47:42 PDT 2014 92:3d:0b:23:40:70 -93;
+Thu Apr 03 19:47:42 PDT 2014 ac:5d:10:9c:7a:32 -85;
+Thu Apr 03 19:47:42 PDT 2014 90:72:40:23:0b:3d -95;
+Thu Apr 03 19:47:42 PDT 2014 00:80:f0:57:d3:00 -91;
+Thu Apr 03 19:47:42 PDT 2014 1c:14:48:26:4c:80 -84;
+Thu Apr 03 19:47:42 PDT 2014 c2:9f:db:1c:b0:99 -90;
+Thu Apr 03 19:47:42 PDT 2014 88:1f:a1:34:81:72 -91;
+Thu Apr 03 19:47:42 PDT 2014 Iteration completed
+Thu Apr 03 19:47:47 PDT 2014 Scan initiated
+Thu Apr 03 19:47:48 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:47:48 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:47:48 PDT 2014 37.39238387 -122.07996552;0 0;
+Thu Apr 03 19:47:48 PDT 2014 da:50:e6:92:48:1b -82;
+Thu Apr 03 19:47:48 PDT 2014 00:0d:97:10:c0:5e -77;
+Thu Apr 03 19:47:48 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:47:48 PDT 2014 00:0d:97:00:d0:02 -79;
+Thu Apr 03 19:47:48 PDT 2014 00:0d:97:00:c0:5e -75;
+Thu Apr 03 19:47:48 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:47:48 PDT 2014 74:9d:dc:af:ac:be -82;
+Thu Apr 03 19:47:48 PDT 2014 dc:9f:db:fd:15:c0 -80;
+Thu Apr 03 19:47:48 PDT 2014 38:6b:bb:61:92:60 -83;
+Thu Apr 03 19:47:48 PDT 2014 dc:9f:db:fd:17:e0 -78;
+Thu Apr 03 19:47:48 PDT 2014 dc:9f:db:fd:15:d0 -85;
+Thu Apr 03 19:47:48 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:47:48 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:47:48 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:47:48 PDT 2014 00:0d:97:10:d0:02 -74;
+Thu Apr 03 19:47:48 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:47:48 PDT 2014 90:b1:34:b5:4b:a0 -87;
+Thu Apr 03 19:47:48 PDT 2014 92:3d:0b:23:40:70 -93;
+Thu Apr 03 19:47:48 PDT 2014 ac:5d:10:9c:7a:32 -85;
+Thu Apr 03 19:47:48 PDT 2014 90:72:40:23:0b:3d -95;
+Thu Apr 03 19:47:48 PDT 2014 00:80:f0:57:d3:00 -91;
+Thu Apr 03 19:47:48 PDT 2014 1c:14:48:26:4c:80 -84;
+Thu Apr 03 19:47:48 PDT 2014 c2:9f:db:1c:b0:99 -90;
+Thu Apr 03 19:47:48 PDT 2014 88:1f:a1:34:81:72 -91;
+Thu Apr 03 19:47:48 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:47:48 PDT 2014 Iteration completed
+Thu Apr 03 19:47:53 PDT 2014 Scan initiated
+Thu Apr 03 19:47:54 PDT 2014 Scan ended. APs found: 22
+Thu Apr 03 19:47:54 PDT 2014 APs found by passive scan: 22
+Thu Apr 03 19:47:54 PDT 2014 37.39238394 -122.07996552;0 0;
+Thu Apr 03 19:47:54 PDT 2014 da:50:e6:92:48:1b -82;
+Thu Apr 03 19:47:54 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:47:54 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:47:54 PDT 2014 00:0d:97:00:d0:02 -79;
+Thu Apr 03 19:47:54 PDT 2014 00:0d:97:00:c0:5e -75;
+Thu Apr 03 19:47:54 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:47:54 PDT 2014 74:9d:dc:af:ac:be -82;
+Thu Apr 03 19:47:54 PDT 2014 dc:9f:db:fd:15:c0 -77;
+Thu Apr 03 19:47:54 PDT 2014 38:6b:bb:61:92:60 -83;
+Thu Apr 03 19:47:54 PDT 2014 dc:9f:db:fd:17:e0 -81;
+Thu Apr 03 19:47:54 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:47:54 PDT 2014 90:72:40:18:9e:2e -88;
+Thu Apr 03 19:47:54 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:47:54 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:47:54 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:47:54 PDT 2014 90:b1:34:b5:4b:a0 -82;
+Thu Apr 03 19:47:54 PDT 2014 ac:5d:10:9c:7a:32 -85;
+Thu Apr 03 19:47:54 PDT 2014 1c:14:48:26:4c:80 -89;
+Thu Apr 03 19:47:54 PDT 2014 c2:9f:db:1c:b0:99 -90;
+Thu Apr 03 19:47:54 PDT 2014 88:1f:a1:34:81:72 -91;
+Thu Apr 03 19:47:54 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:47:54 PDT 2014 b8:e6:25:28:94:69 -85;
+Thu Apr 03 19:47:54 PDT 2014 Iteration completed
+Thu Apr 03 19:47:59 PDT 2014 Scan initiated
+Thu Apr 03 19:47:59 PDT 2014 Scan ended. APs found: 21
+Thu Apr 03 19:47:59 PDT 2014 APs found by passive scan: 21
+Thu Apr 03 19:47:59 PDT 2014 37.39238386 -122.07996554;0 0;
+Thu Apr 03 19:47:59 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:47:59 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:47:59 PDT 2014 00:0d:97:00:d0:02 -82;
+Thu Apr 03 19:47:59 PDT 2014 00:0d:97:00:c0:5e -75;
+Thu Apr 03 19:47:59 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:47:59 PDT 2014 74:9d:dc:af:ac:be -86;
+Thu Apr 03 19:47:59 PDT 2014 dc:9f:db:fd:15:c0 -76;
+Thu Apr 03 19:47:59 PDT 2014 dc:9f:db:fd:17:e0 -80;
+Thu Apr 03 19:47:59 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:47:59 PDT 2014 90:72:40:18:9e:2e -88;
+Thu Apr 03 19:47:59 PDT 2014 00:19:e3:e5:73:5d -86;
+Thu Apr 03 19:47:59 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:47:59 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:47:59 PDT 2014 90:b1:34:b5:4b:a0 -82;
+Thu Apr 03 19:47:59 PDT 2014 ac:5d:10:9c:7a:32 -85;
+Thu Apr 03 19:47:59 PDT 2014 1c:14:48:26:4c:80 -89;
+Thu Apr 03 19:47:59 PDT 2014 c2:9f:db:1c:b0:99 -90;
+Thu Apr 03 19:47:59 PDT 2014 88:1f:a1:34:81:72 -91;
+Thu Apr 03 19:47:59 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:47:59 PDT 2014 b8:e6:25:28:94:69 -85;
+Thu Apr 03 19:47:59 PDT 2014 28:c6:8e:aa:31:11 -92;
+Thu Apr 03 19:47:59 PDT 2014 Iteration completed
+Thu Apr 03 19:48:04 PDT 2014 Scan initiated
+Thu Apr 03 19:48:05 PDT 2014 Scan ended. APs found: 18
+Thu Apr 03 19:48:05 PDT 2014 APs found by passive scan: 18
+Thu Apr 03 19:48:05 PDT 2014 37.39238354 -122.07996537;0 0;
+Thu Apr 03 19:48:05 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:48:05 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:48:05 PDT 2014 00:0d:97:00:d0:02 -81;
+Thu Apr 03 19:48:05 PDT 2014 00:0d:97:00:c0:5e -75;
+Thu Apr 03 19:48:05 PDT 2014 d8:50:e6:92:48:1c -89;
+Thu Apr 03 19:48:05 PDT 2014 74:9d:dc:af:ac:be -86;
+Thu Apr 03 19:48:05 PDT 2014 dc:9f:db:fd:15:c0 -76;
+Thu Apr 03 19:48:05 PDT 2014 dc:9f:db:fd:17:e0 -83;
+Thu Apr 03 19:48:05 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:48:05 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:48:05 PDT 2014 00:19:e3:e5:73:5d -86;
+Thu Apr 03 19:48:05 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:05 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:48:05 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:48:05 PDT 2014 1c:14:48:26:4c:80 -89;
+Thu Apr 03 19:48:05 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:48:05 PDT 2014 b8:e6:25:28:94:69 -85;
+Thu Apr 03 19:48:05 PDT 2014 28:c6:8e:aa:31:11 -92;
+Thu Apr 03 19:48:05 PDT 2014 Iteration completed
+Thu Apr 03 19:48:10 PDT 2014 Scan initiated
+Thu Apr 03 19:48:11 PDT 2014 Scan ended. APs found: 21
+Thu Apr 03 19:48:11 PDT 2014 APs found by passive scan: 21
+Thu Apr 03 19:48:11 PDT 2014 37.39238341 -122.07996512;0 0;
+Thu Apr 03 19:48:11 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:48:11 PDT 2014 00:0d:97:10:c0:5e -70;
+Thu Apr 03 19:48:11 PDT 2014 00:0d:97:00:d0:02 -81;
+Thu Apr 03 19:48:11 PDT 2014 00:0d:97:00:c0:5e -71;
+Thu Apr 03 19:48:11 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:48:11 PDT 2014 74:9d:dc:af:ac:be -86;
+Thu Apr 03 19:48:11 PDT 2014 dc:9f:db:fd:15:c0 -80;
+Thu Apr 03 19:48:11 PDT 2014 dc:9f:db:fd:17:e0 -85;
+Thu Apr 03 19:48:11 PDT 2014 14:35:8b:05:f1:d8 -80;
+Thu Apr 03 19:48:11 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:48:11 PDT 2014 00:19:e3:e5:73:5d -86;
+Thu Apr 03 19:48:11 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:11 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:48:11 PDT 2014 90:b1:34:b5:4b:a0 -81;
+Thu Apr 03 19:48:11 PDT 2014 1c:14:48:26:4c:80 -89;
+Thu Apr 03 19:48:11 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:48:11 PDT 2014 b8:e6:25:28:94:69 -85;
+Thu Apr 03 19:48:11 PDT 2014 28:c6:8e:aa:31:11 -92;
+Thu Apr 03 19:48:11 PDT 2014 dc:9f:db:fd:15:d0 -87;
+Thu Apr 03 19:48:11 PDT 2014 00:3a:9a:68:9e:a0 -88;
+Thu Apr 03 19:48:11 PDT 2014 90:3e:ab:b5:3d:a0 -89;
+Thu Apr 03 19:48:11 PDT 2014 Iteration completed
+Thu Apr 03 19:48:16 PDT 2014 Scan initiated
+Thu Apr 03 19:48:17 PDT 2014 Scan ended. APs found: 20
+Thu Apr 03 19:48:17 PDT 2014 APs found by passive scan: 20
+Thu Apr 03 19:48:17 PDT 2014 37.39238379 -122.07996764;0 0;
+Thu Apr 03 19:48:17 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:48:17 PDT 2014 00:0d:97:10:c0:5e -70;
+Thu Apr 03 19:48:17 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:48:17 PDT 2014 00:0d:97:00:c0:5e -75;
+Thu Apr 03 19:48:17 PDT 2014 d8:50:e6:92:48:1c -92;
+Thu Apr 03 19:48:17 PDT 2014 74:9d:dc:af:ac:be -86;
+Thu Apr 03 19:48:17 PDT 2014 dc:9f:db:fd:15:c0 -76;
+Thu Apr 03 19:48:17 PDT 2014 dc:9f:db:fd:17:e0 -80;
+Thu Apr 03 19:48:17 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:48:17 PDT 2014 90:72:40:18:9e:2e -87;
+Thu Apr 03 19:48:17 PDT 2014 00:19:e3:e5:73:5d -85;
+Thu Apr 03 19:48:17 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:17 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:48:17 PDT 2014 90:b1:34:b5:4b:a0 -81;
+Thu Apr 03 19:48:17 PDT 2014 64:0f:28:c4:54:8e -91;
+Thu Apr 03 19:48:17 PDT 2014 b8:e6:25:28:94:69 -85;
+Thu Apr 03 19:48:17 PDT 2014 28:c6:8e:aa:31:11 -92;
+Thu Apr 03 19:48:17 PDT 2014 dc:9f:db:fd:15:d0 -87;
+Thu Apr 03 19:48:17 PDT 2014 00:3a:9a:68:9e:a0 -88;
+Thu Apr 03 19:48:17 PDT 2014 90:3e:ab:b5:3d:a0 -89;
+Thu Apr 03 19:48:17 PDT 2014 Iteration completed
+Thu Apr 03 19:48:22 PDT 2014 Scan initiated
+Thu Apr 03 19:48:22 PDT 2014 Scan ended. APs found: 21
+Thu Apr 03 19:48:22 PDT 2014 APs found by passive scan: 21
+Thu Apr 03 19:48:22 PDT 2014 37.39238375 -122.07996783;0 0;
+Thu Apr 03 19:48:22 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:48:22 PDT 2014 00:0d:97:10:c0:5e -66;
+Thu Apr 03 19:48:22 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:48:22 PDT 2014 00:0d:97:00:c0:5e -67;
+Thu Apr 03 19:48:22 PDT 2014 d8:50:e6:92:48:1c -92;
+Thu Apr 03 19:48:22 PDT 2014 dc:9f:db:fd:15:c0 -76;
+Thu Apr 03 19:48:22 PDT 2014 dc:9f:db:fd:17:e0 -86;
+Thu Apr 03 19:48:22 PDT 2014 14:35:8b:05:f1:d8 -77;
+Thu Apr 03 19:48:22 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:48:22 PDT 2014 00:19:e3:e5:73:5d -85;
+Thu Apr 03 19:48:22 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:22 PDT 2014 00:0d:97:10:d0:02 -83;
+Thu Apr 03 19:48:22 PDT 2014 90:b1:34:b5:4b:a0 -81;
+Thu Apr 03 19:48:22 PDT 2014 64:0f:28:c4:54:8e -92;
+Thu Apr 03 19:48:22 PDT 2014 b8:e6:25:28:94:69 -86;
+Thu Apr 03 19:48:22 PDT 2014 dc:9f:db:fd:15:d0 -84;
+Thu Apr 03 19:48:22 PDT 2014 00:3a:9a:68:9e:a0 -88;
+Thu Apr 03 19:48:22 PDT 2014 90:3e:ab:b5:3d:a0 -89;
+Thu Apr 03 19:48:22 PDT 2014 da:50:e6:92:48:1b -83;
+Thu Apr 03 19:48:22 PDT 2014 0c:84:dc:a4:74:08 -88;
+Thu Apr 03 19:48:22 PDT 2014 38:6b:bb:61:92:60 -89;
+Thu Apr 03 19:48:22 PDT 2014 Iteration completed
+Thu Apr 03 19:48:27 PDT 2014 Scan initiated
+Thu Apr 03 19:48:28 PDT 2014 Scan ended. APs found: 24
+Thu Apr 03 19:48:28 PDT 2014 APs found by passive scan: 24
+Thu Apr 03 19:48:28 PDT 2014 37.39238336 -122.07996884;0 0;
+Thu Apr 03 19:48:28 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:48:28 PDT 2014 00:0d:97:10:c0:5e -66;
+Thu Apr 03 19:48:28 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:48:28 PDT 2014 00:0d:97:00:c0:5e -70;
+Thu Apr 03 19:48:28 PDT 2014 d8:50:e6:92:48:1c -92;
+Thu Apr 03 19:48:28 PDT 2014 dc:9f:db:fd:15:c0 -78;
+Thu Apr 03 19:48:28 PDT 2014 dc:9f:db:fd:17:e0 -86;
+Thu Apr 03 19:48:28 PDT 2014 14:35:8b:05:f1:d8 -81;
+Thu Apr 03 19:48:28 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:48:28 PDT 2014 00:19:e3:e5:73:5d -85;
+Thu Apr 03 19:48:28 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:28 PDT 2014 00:0d:97:10:d0:02 -83;
+Thu Apr 03 19:48:28 PDT 2014 90:b1:34:b5:4b:a0 -88;
+Thu Apr 03 19:48:28 PDT 2014 64:0f:28:c4:54:8e -92;
+Thu Apr 03 19:48:28 PDT 2014 b8:e6:25:28:94:69 -86;
+Thu Apr 03 19:48:28 PDT 2014 dc:9f:db:fd:15:d0 -86;
+Thu Apr 03 19:48:28 PDT 2014 00:3a:9a:68:9e:a0 -88;
+Thu Apr 03 19:48:28 PDT 2014 90:3e:ab:b5:3d:a0 -89;
+Thu Apr 03 19:48:28 PDT 2014 da:50:e6:92:48:1b -83;
+Thu Apr 03 19:48:28 PDT 2014 0c:84:dc:a4:74:08 -88;
+Thu Apr 03 19:48:28 PDT 2014 38:6b:bb:61:92:60 -88;
+Thu Apr 03 19:48:28 PDT 2014 4c:60:de:30:3d:b2 -87;
+Thu Apr 03 19:48:28 PDT 2014 88:1f:a1:34:81:72 -92;
+Thu Apr 03 19:48:28 PDT 2014 50:46:5d:6e:5e:90 -93;
+Thu Apr 03 19:48:28 PDT 2014 Iteration completed
+Thu Apr 03 19:48:33 PDT 2014 Scan initiated
+Thu Apr 03 19:48:34 PDT 2014 Scan ended. APs found: 23
+Thu Apr 03 19:48:34 PDT 2014 APs found by passive scan: 23
+Thu Apr 03 19:48:34 PDT 2014 37.39238267 -122.07996885;0 0;
+Thu Apr 03 19:48:34 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:48:34 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:48:34 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:48:34 PDT 2014 00:0d:97:00:c0:5e -74;
+Thu Apr 03 19:48:34 PDT 2014 d8:50:e6:92:48:1c -91;
+Thu Apr 03 19:48:34 PDT 2014 dc:9f:db:fd:15:c0 -77;
+Thu Apr 03 19:48:34 PDT 2014 dc:9f:db:fd:17:e0 -85;
+Thu Apr 03 19:48:34 PDT 2014 14:35:8b:05:f1:d8 -80;
+Thu Apr 03 19:48:34 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:48:34 PDT 2014 00:19:e3:e5:73:5d -85;
+Thu Apr 03 19:48:34 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:34 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:34 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:48:34 PDT 2014 64:0f:28:c4:54:8e -92;
+Thu Apr 03 19:48:34 PDT 2014 b8:e6:25:28:94:69 -86;
+Thu Apr 03 19:48:34 PDT 2014 dc:9f:db:fd:15:d0 -86;
+Thu Apr 03 19:48:34 PDT 2014 da:50:e6:92:48:1b -83;
+Thu Apr 03 19:48:34 PDT 2014 0c:84:dc:a4:74:08 -89;
+Thu Apr 03 19:48:34 PDT 2014 38:6b:bb:61:92:60 -88;
+Thu Apr 03 19:48:34 PDT 2014 4c:60:de:30:3d:b2 -87;
+Thu Apr 03 19:48:34 PDT 2014 88:1f:a1:34:81:72 -92;
+Thu Apr 03 19:48:34 PDT 2014 50:46:5d:6e:5e:90 -93;
+Thu Apr 03 19:48:34 PDT 2014 00:0d:97:14:85:bb -77;
+Thu Apr 03 19:48:34 PDT 2014 Iteration completed
+Thu Apr 03 19:48:39 PDT 2014 Scan initiated
+Thu Apr 03 19:48:40 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:48:40 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:48:40 PDT 2014 37.39238211 -122.0799696;0 0;
+Thu Apr 03 19:48:40 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:48:40 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:48:40 PDT 2014 00:0d:97:00:d0:02 -76;
+Thu Apr 03 19:48:40 PDT 2014 00:0d:97:00:c0:5e -76;
+Thu Apr 03 19:48:40 PDT 2014 d8:50:e6:92:48:1c -91;
+Thu Apr 03 19:48:40 PDT 2014 dc:9f:db:fd:15:c0 -77;
+Thu Apr 03 19:48:40 PDT 2014 dc:9f:db:fd:17:e0 -84;
+Thu Apr 03 19:48:40 PDT 2014 14:35:8b:05:f1:d8 -76;
+Thu Apr 03 19:48:40 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:48:40 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:40 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:40 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:48:40 PDT 2014 64:0f:28:c4:54:8e -92;
+Thu Apr 03 19:48:40 PDT 2014 b8:e6:25:28:94:69 -86;
+Thu Apr 03 19:48:40 PDT 2014 dc:9f:db:fd:15:d0 -86;
+Thu Apr 03 19:48:40 PDT 2014 da:50:e6:92:48:1b -83;
+Thu Apr 03 19:48:40 PDT 2014 0c:84:dc:a4:74:08 -89;
+Thu Apr 03 19:48:40 PDT 2014 38:6b:bb:61:92:60 -88;
+Thu Apr 03 19:48:40 PDT 2014 4c:60:de:30:3d:b2 -87;
+Thu Apr 03 19:48:40 PDT 2014 88:1f:a1:34:81:72 -92;
+Thu Apr 03 19:48:40 PDT 2014 50:46:5d:6e:5e:90 -93;
+Thu Apr 03 19:48:40 PDT 2014 00:0d:97:14:85:bb -77;
+Thu Apr 03 19:48:40 PDT 2014 74:9d:dc:af:ac:be -85;
+Thu Apr 03 19:48:40 PDT 2014 00:3a:9a:68:9e:a0 -87;
+Thu Apr 03 19:48:40 PDT 2014 90:3e:ab:b5:3d:a0 -89;
+Thu Apr 03 19:48:40 PDT 2014 Iteration completed
+Thu Apr 03 19:48:45 PDT 2014 Scan initiated
+Thu Apr 03 19:48:45 PDT 2014 Scan ended. APs found: 28
+Thu Apr 03 19:48:45 PDT 2014 APs found by passive scan: 28
+Thu Apr 03 19:48:45 PDT 2014 37.39238156 -122.07997053;0 0;
+Thu Apr 03 19:48:45 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:48:45 PDT 2014 00:0d:97:10:c0:5e -75;
+Thu Apr 03 19:48:45 PDT 2014 00:0d:97:00:d0:02 -75;
+Thu Apr 03 19:48:45 PDT 2014 00:0d:97:00:c0:5e -77;
+Thu Apr 03 19:48:45 PDT 2014 d8:50:e6:92:48:1c -91;
+Thu Apr 03 19:48:45 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:48:45 PDT 2014 dc:9f:db:fd:17:e0 -81;
+Thu Apr 03 19:48:45 PDT 2014 14:35:8b:05:f1:d8 -76;
+Thu Apr 03 19:48:45 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:48:45 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:48:45 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:48:45 PDT 2014 90:b1:34:b5:4b:a0 -85;
+Thu Apr 03 19:48:45 PDT 2014 dc:9f:db:fd:15:d0 -86;
+Thu Apr 03 19:48:45 PDT 2014 0c:84:dc:a4:74:08 -89;
+Thu Apr 03 19:48:45 PDT 2014 38:6b:bb:61:92:60 -88;
+Thu Apr 03 19:48:45 PDT 2014 4c:60:de:30:3d:b2 -87;
+Thu Apr 03 19:48:45 PDT 2014 88:1f:a1:34:81:72 -92;
+Thu Apr 03 19:48:45 PDT 2014 50:46:5d:6e:5e:90 -93;
+Thu Apr 03 19:48:45 PDT 2014 00:0d:97:14:85:bb -77;
+Thu Apr 03 19:48:45 PDT 2014 74:9d:dc:af:ac:be -85;
+Thu Apr 03 19:48:45 PDT 2014 00:3a:9a:68:9e:a0 -87;
+Thu Apr 03 19:48:45 PDT 2014 90:3e:ab:b5:3d:a0 -89;
+Thu Apr 03 19:48:45 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:48:45 PDT 2014 00:15:ff:11:0b:1a -86;
+Thu Apr 03 19:48:45 PDT 2014 dc:9f:db:fd:17:f0 -91;
+Thu Apr 03 19:48:45 PDT 2014 c2:9f:db:1c:b0:99 -90;
+Thu Apr 03 19:48:45 PDT 2014 d8:c7:c8:4f:84:80 -92;
+Thu Apr 03 19:48:45 PDT 2014 d8:c7:c8:4f:84:81 -92;
+Thu Apr 03 19:48:45 PDT 2014 Iteration completed
+Thu Apr 03 19:48:50 PDT 2014 Scan initiated
+Thu Apr 03 19:48:51 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:48:51 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:48:51 PDT 2014 37.39238316 -122.07997985;0 0;
+Thu Apr 03 19:48:51 PDT 2014 00:0d:97:10:c0:5e -84;
+Thu Apr 03 19:48:51 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:48:51 PDT 2014 00:0d:97:00:d0:02 -79;
+Thu Apr 03 19:48:51 PDT 2014 00:0d:97:00:c0:5e -82;
+Thu Apr 03 19:48:51 PDT 2014 d8:50:e6:92:48:1c -93;
+Thu Apr 03 19:48:51 PDT 2014 dc:9f:db:fd:15:c0 -73;
+Thu Apr 03 19:48:51 PDT 2014 dc:9f:db:fd:17:e0 -80;
+Thu Apr 03 19:48:51 PDT 2014 14:35:8b:05:f1:d8 -76;
+Thu Apr 03 19:48:51 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:48:51 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:48:51 PDT 2014 90:b1:34:b5:4b:a0 -85;
+Thu Apr 03 19:48:51 PDT 2014 dc:9f:db:fd:15:d0 -86;
+Thu Apr 03 19:48:51 PDT 2014 0c:84:dc:a4:74:08 -89;
+Thu Apr 03 19:48:51 PDT 2014 4c:60:de:30:3d:b2 -88;
+Thu Apr 03 19:48:51 PDT 2014 00:0d:97:14:85:bb -77;
+Thu Apr 03 19:48:51 PDT 2014 74:9d:dc:af:ac:be -85;
+Thu Apr 03 19:48:51 PDT 2014 00:3a:9a:68:9e:a0 -87;
+Thu Apr 03 19:48:51 PDT 2014 90:3e:ab:b5:3d:a0 -89;
+Thu Apr 03 19:48:51 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:48:51 PDT 2014 00:15:ff:11:0b:1a -86;
+Thu Apr 03 19:48:51 PDT 2014 dc:9f:db:fd:17:f0 -91;
+Thu Apr 03 19:48:51 PDT 2014 c2:9f:db:1c:b0:99 -90;
+Thu Apr 03 19:48:51 PDT 2014 d8:c7:c8:4f:84:80 -92;
+Thu Apr 03 19:48:51 PDT 2014 d8:c7:c8:4f:84:81 -92;
+Thu Apr 03 19:48:51 PDT 2014 92:3c:0b:23:40:70 -86;
+Thu Apr 03 19:48:51 PDT 2014 Iteration completed
+Thu Apr 03 19:48:56 PDT 2014 Scan initiated
+Thu Apr 03 19:48:57 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:48:57 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:48:57 PDT 2014 37.39238318 -122.07997997;0 0;
+Thu Apr 03 19:48:57 PDT 2014 00:0d:97:10:c0:5e -84;
+Thu Apr 03 19:48:57 PDT 2014 00:0d:97:10:c0:5e -77;
+Thu Apr 03 19:48:57 PDT 2014 00:0d:97:00:d0:02 -73;
+Thu Apr 03 19:48:57 PDT 2014 00:0d:97:00:c0:5e -78;
+Thu Apr 03 19:48:57 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:48:57 PDT 2014 dc:9f:db:fd:15:c0 -77;
+Thu Apr 03 19:48:57 PDT 2014 dc:9f:db:fd:17:e0 -80;
+Thu Apr 03 19:48:57 PDT 2014 14:35:8b:05:f1:d8 -78;
+Thu Apr 03 19:48:57 PDT 2014 90:72:40:18:9e:2e -92;
+Thu Apr 03 19:48:57 PDT 2014 00:0d:97:10:d0:02 -73;
+Thu Apr 03 19:48:57 PDT 2014 90:b1:34:b5:4b:a0 -85;
+Thu Apr 03 19:48:57 PDT 2014 dc:9f:db:fd:15:d0 -86;
+Thu Apr 03 19:48:57 PDT 2014 0c:84:dc:a4:74:08 -91;
+Thu Apr 03 19:48:57 PDT 2014 4c:60:de:30:3d:b2 -88;
+Thu Apr 03 19:48:57 PDT 2014 74:9d:dc:af:ac:be -85;
+Thu Apr 03 19:48:57 PDT 2014 00:3a:9a:68:9e:a0 -87;
+Thu Apr 03 19:48:57 PDT 2014 90:3e:ab:b5:3d:a0 -89;
+Thu Apr 03 19:48:57 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:48:57 PDT 2014 00:15:ff:11:0b:1a -83;
+Thu Apr 03 19:48:57 PDT 2014 dc:9f:db:fd:17:f0 -91;
+Thu Apr 03 19:48:57 PDT 2014 c2:9f:db:1c:b0:99 -90;
+Thu Apr 03 19:48:57 PDT 2014 d8:c7:c8:4f:84:80 -92;
+Thu Apr 03 19:48:57 PDT 2014 d8:c7:c8:4f:84:81 -92;
+Thu Apr 03 19:48:57 PDT 2014 92:3c:0b:23:40:70 -86;
+Thu Apr 03 19:48:57 PDT 2014 88:1f:a1:34:81:72 -91;
+Thu Apr 03 19:48:57 PDT 2014 Iteration completed
+Thu Apr 03 19:49:02 PDT 2014 Scan initiated
+Thu Apr 03 19:49:03 PDT 2014 Scan ended. APs found: 26
+Thu Apr 03 19:49:03 PDT 2014 APs found by passive scan: 26
+Thu Apr 03 19:49:03 PDT 2014 37.39238309 -122.0799802;0 0;
+Thu Apr 03 19:49:03 PDT 2014 00:0d:97:10:c0:5e -80;
+Thu Apr 03 19:49:03 PDT 2014 00:0d:97:10:c0:5e -77;
+Thu Apr 03 19:49:03 PDT 2014 00:0d:97:00:d0:02 -73;
+Thu Apr 03 19:49:03 PDT 2014 00:0d:97:00:c0:5e -77;
+Thu Apr 03 19:49:03 PDT 2014 d8:50:e6:92:48:1c -93;
+Thu Apr 03 19:49:03 PDT 2014 dc:9f:db:fd:15:c0 -76;
+Thu Apr 03 19:49:03 PDT 2014 dc:9f:db:fd:17:e0 -83;
+Thu Apr 03 19:49:03 PDT 2014 14:35:8b:05:f1:d8 -78;
+Thu Apr 03 19:49:03 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:49:03 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:49:03 PDT 2014 90:b1:34:b5:4b:a0 -84;
+Thu Apr 03 19:49:03 PDT 2014 dc:9f:db:fd:15:d0 -86;
+Thu Apr 03 19:49:03 PDT 2014 0c:84:dc:a4:74:08 -91;
+Thu Apr 03 19:49:03 PDT 2014 4c:60:de:30:3d:b2 -88;
+Thu Apr 03 19:49:03 PDT 2014 00:3a:9a:68:9e:a0 -84;
+Thu Apr 03 19:49:03 PDT 2014 90:3e:ab:b5:3d:a0 -89;
+Thu Apr 03 19:49:03 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:49:03 PDT 2014 00:15:ff:11:0b:1a -83;
+Thu Apr 03 19:49:03 PDT 2014 dc:9f:db:fd:17:f0 -91;
+Thu Apr 03 19:49:03 PDT 2014 c2:9f:db:1c:b0:99 -90;
+Thu Apr 03 19:49:03 PDT 2014 d8:c7:c8:4f:84:80 -92;
+Thu Apr 03 19:49:03 PDT 2014 d8:c7:c8:4f:84:81 -92;
+Thu Apr 03 19:49:03 PDT 2014 92:3c:0b:23:40:70 -86;
+Thu Apr 03 19:49:03 PDT 2014 88:1f:a1:34:81:72 -91;
+Thu Apr 03 19:49:03 PDT 2014 ac:5d:10:9c:7a:32 -91;
+Thu Apr 03 19:49:03 PDT 2014 00:80:f0:57:d3:00 -84;
+Thu Apr 03 19:49:03 PDT 2014 Iteration completed
+Thu Apr 03 19:49:08 PDT 2014 Scan initiated
+Thu Apr 03 19:49:08 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:49:08 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:49:08 PDT 2014 37.39238283 -122.07998055;0 0;
+Thu Apr 03 19:49:08 PDT 2014 00:0d:97:10:c0:5e -80;
+Thu Apr 03 19:49:08 PDT 2014 00:0d:97:10:c0:5e -69;
+Thu Apr 03 19:49:08 PDT 2014 00:0d:97:00:d0:02 -73;
+Thu Apr 03 19:49:08 PDT 2014 00:0d:97:00:c0:5e -69;
+Thu Apr 03 19:49:08 PDT 2014 d8:50:e6:92:48:1c -91;
+Thu Apr 03 19:49:08 PDT 2014 dc:9f:db:fd:15:c0 -77;
+Thu Apr 03 19:49:08 PDT 2014 dc:9f:db:fd:17:e0 -82;
+Thu Apr 03 19:49:08 PDT 2014 14:35:8b:05:f1:d8 -80;
+Thu Apr 03 19:49:08 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:49:08 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:49:08 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:49:08 PDT 2014 dc:9f:db:fd:15:d0 -85;
+Thu Apr 03 19:49:08 PDT 2014 0c:84:dc:a4:74:08 -91;
+Thu Apr 03 19:49:08 PDT 2014 4c:60:de:30:3d:b2 -88;
+Thu Apr 03 19:49:08 PDT 2014 00:3a:9a:68:9e:a0 -84;
+Thu Apr 03 19:49:08 PDT 2014 00:19:e3:e5:73:5d -87;
+Thu Apr 03 19:49:08 PDT 2014 00:15:ff:11:0b:1a -83;
+Thu Apr 03 19:49:08 PDT 2014 92:3c:0b:23:40:70 -86;
+Thu Apr 03 19:49:08 PDT 2014 88:1f:a1:34:81:72 -91;
+Thu Apr 03 19:49:08 PDT 2014 ac:5d:10:9c:7a:32 -91;
+Thu Apr 03 19:49:08 PDT 2014 00:80:f0:57:d3:00 -84;
+Thu Apr 03 19:49:08 PDT 2014 b8:e6:25:28:94:69 -83;
+Thu Apr 03 19:49:08 PDT 2014 64:0f:28:c4:54:8e -90;
+Thu Apr 03 19:49:08 PDT 2014 50:46:5d:6e:5e:90 -90;
+Thu Apr 03 19:49:08 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:08 PDT 2014 Iteration completed
+Thu Apr 03 19:49:13 PDT 2014 Scan initiated
+Thu Apr 03 19:49:14 PDT 2014 Scan ended. APs found: 26
+Thu Apr 03 19:49:14 PDT 2014 APs found by passive scan: 26
+Thu Apr 03 19:49:14 PDT 2014 37.39238262 -122.07998069;0 0;
+Thu Apr 03 19:49:14 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:49:14 PDT 2014 00:0d:97:10:c0:5e -69;
+Thu Apr 03 19:49:14 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:49:14 PDT 2014 00:0d:97:00:c0:5e -69;
+Thu Apr 03 19:49:14 PDT 2014 d8:50:e6:92:48:1c -87;
+Thu Apr 03 19:49:14 PDT 2014 dc:9f:db:fd:15:c0 -76;
+Thu Apr 03 19:49:14 PDT 2014 dc:9f:db:fd:17:e0 -82;
+Thu Apr 03 19:49:14 PDT 2014 14:35:8b:05:f1:d8 -80;
+Thu Apr 03 19:49:14 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:49:14 PDT 2014 00:0d:97:10:d0:02 -80;
+Thu Apr 03 19:49:14 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:49:14 PDT 2014 dc:9f:db:fd:15:d0 -83;
+Thu Apr 03 19:49:14 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:49:14 PDT 2014 00:3a:9a:68:9e:a0 -84;
+Thu Apr 03 19:49:14 PDT 2014 00:19:e3:e5:73:5d -87;
+Thu Apr 03 19:49:14 PDT 2014 00:15:ff:11:0b:1a -83;
+Thu Apr 03 19:49:14 PDT 2014 88:1f:a1:34:81:72 -91;
+Thu Apr 03 19:49:14 PDT 2014 ac:5d:10:9c:7a:32 -91;
+Thu Apr 03 19:49:14 PDT 2014 00:80:f0:57:d3:00 -84;
+Thu Apr 03 19:49:14 PDT 2014 b8:e6:25:28:94:69 -89;
+Thu Apr 03 19:49:14 PDT 2014 64:0f:28:c4:54:8e -90;
+Thu Apr 03 19:49:14 PDT 2014 50:46:5d:6e:5e:90 -90;
+Thu Apr 03 19:49:14 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:14 PDT 2014 38:6b:bb:61:92:60 -82;
+Thu Apr 03 19:49:14 PDT 2014 74:9d:dc:af:ac:be -86;
+Thu Apr 03 19:49:14 PDT 2014 44:94:fc:53:08:81 -95;
+Thu Apr 03 19:49:14 PDT 2014 Iteration completed
+Thu Apr 03 19:49:19 PDT 2014 Scan initiated
+Thu Apr 03 19:49:20 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:49:20 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:49:20 PDT 2014 37.39238209 -122.07998126;0 0;
+Thu Apr 03 19:49:20 PDT 2014 00:0d:97:10:c0:5e -74;
+Thu Apr 03 19:49:20 PDT 2014 00:0d:97:10:c0:5e -66;
+Thu Apr 03 19:49:20 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:49:20 PDT 2014 00:0d:97:00:c0:5e -66;
+Thu Apr 03 19:49:20 PDT 2014 d8:50:e6:92:48:1c -88;
+Thu Apr 03 19:49:20 PDT 2014 dc:9f:db:fd:15:c0 -76;
+Thu Apr 03 19:49:20 PDT 2014 dc:9f:db:fd:17:e0 -82;
+Thu Apr 03 19:49:20 PDT 2014 14:35:8b:05:f1:d8 -78;
+Thu Apr 03 19:49:20 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:49:20 PDT 2014 00:0d:97:10:d0:02 -80;
+Thu Apr 03 19:49:20 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:49:20 PDT 2014 dc:9f:db:fd:15:d0 -83;
+Thu Apr 03 19:49:20 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:49:20 PDT 2014 00:3a:9a:68:9e:a0 -84;
+Thu Apr 03 19:49:20 PDT 2014 00:19:e3:e5:73:5d -87;
+Thu Apr 03 19:49:20 PDT 2014 ac:5d:10:9c:7a:32 -91;
+Thu Apr 03 19:49:20 PDT 2014 00:80:f0:57:d3:00 -84;
+Thu Apr 03 19:49:20 PDT 2014 b8:e6:25:28:94:69 -89;
+Thu Apr 03 19:49:20 PDT 2014 64:0f:28:c4:54:8e -90;
+Thu Apr 03 19:49:20 PDT 2014 50:46:5d:6e:5e:90 -90;
+Thu Apr 03 19:49:20 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:20 PDT 2014 38:6b:bb:61:92:60 -85;
+Thu Apr 03 19:49:20 PDT 2014 74:9d:dc:af:ac:be -86;
+Thu Apr 03 19:49:20 PDT 2014 44:94:fc:53:08:81 -95;
+Thu Apr 03 19:49:20 PDT 2014 90:3e:ab:b5:3d:a0 -90;
+Thu Apr 03 19:49:20 PDT 2014 Iteration completed
+Thu Apr 03 19:49:25 PDT 2014 Scan initiated
+Thu Apr 03 19:49:26 PDT 2014 Scan ended. APs found: 22
+Thu Apr 03 19:49:26 PDT 2014 APs found by passive scan: 22
+Thu Apr 03 19:49:26 PDT 2014 37.39238166 -122.07998144;0 0;
+Thu Apr 03 19:49:26 PDT 2014 00:0d:97:10:c0:5e -69;
+Thu Apr 03 19:49:26 PDT 2014 00:0d:97:10:c0:5e -66;
+Thu Apr 03 19:49:26 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:49:26 PDT 2014 00:0d:97:00:c0:5e -66;
+Thu Apr 03 19:49:26 PDT 2014 d8:50:e6:92:48:1c -89;
+Thu Apr 03 19:49:26 PDT 2014 dc:9f:db:fd:15:c0 -77;
+Thu Apr 03 19:49:26 PDT 2014 dc:9f:db:fd:17:e0 -82;
+Thu Apr 03 19:49:26 PDT 2014 14:35:8b:05:f1:d8 -78;
+Thu Apr 03 19:49:26 PDT 2014 00:0d:97:10:d0:02 -80;
+Thu Apr 03 19:49:26 PDT 2014 90:b1:34:b5:4b:a0 -79;
+Thu Apr 03 19:49:26 PDT 2014 dc:9f:db:fd:15:d0 -83;
+Thu Apr 03 19:49:26 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:49:26 PDT 2014 00:19:e3:e5:73:5d -87;
+Thu Apr 03 19:49:26 PDT 2014 b8:e6:25:28:94:69 -83;
+Thu Apr 03 19:49:26 PDT 2014 64:0f:28:c4:54:8e -92;
+Thu Apr 03 19:49:26 PDT 2014 50:46:5d:6e:5e:90 -90;
+Thu Apr 03 19:49:26 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:26 PDT 2014 38:6b:bb:61:92:60 -85;
+Thu Apr 03 19:49:26 PDT 2014 74:9d:dc:af:ac:be -86;
+Thu Apr 03 19:49:26 PDT 2014 44:94:fc:53:08:81 -95;
+Thu Apr 03 19:49:26 PDT 2014 90:3e:ab:b5:3d:a0 -90;
+Thu Apr 03 19:49:26 PDT 2014 4c:60:de:30:3d:b2 -88;
+Thu Apr 03 19:49:26 PDT 2014 Iteration completed
+Thu Apr 03 19:49:31 PDT 2014 Scan initiated
+Thu Apr 03 19:49:31 PDT 2014 Scan ended. APs found: 21
+Thu Apr 03 19:49:31 PDT 2014 APs found by passive scan: 21
+Thu Apr 03 19:49:31 PDT 2014 37.39238135 -122.07998171;0 0;
+Thu Apr 03 19:49:31 PDT 2014 00:0d:97:10:c0:5e -69;
+Thu Apr 03 19:49:31 PDT 2014 00:0d:97:10:c0:5e -66;
+Thu Apr 03 19:49:31 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:49:31 PDT 2014 00:0d:97:00:c0:5e -66;
+Thu Apr 03 19:49:31 PDT 2014 d8:50:e6:92:48:1c -87;
+Thu Apr 03 19:49:31 PDT 2014 dc:9f:db:fd:15:c0 -77;
+Thu Apr 03 19:49:31 PDT 2014 dc:9f:db:fd:17:e0 -82;
+Thu Apr 03 19:49:31 PDT 2014 14:35:8b:05:f1:d8 -77;
+Thu Apr 03 19:49:31 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:31 PDT 2014 90:b1:34:b5:4b:a0 -81;
+Thu Apr 03 19:49:31 PDT 2014 dc:9f:db:fd:15:d0 -83;
+Thu Apr 03 19:49:31 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:49:31 PDT 2014 00:19:e3:e5:73:5d -87;
+Thu Apr 03 19:49:31 PDT 2014 b8:e6:25:28:94:69 -83;
+Thu Apr 03 19:49:31 PDT 2014 64:0f:28:c4:54:8e -92;
+Thu Apr 03 19:49:31 PDT 2014 38:6b:bb:61:92:60 -85;
+Thu Apr 03 19:49:31 PDT 2014 74:9d:dc:af:ac:be -86;
+Thu Apr 03 19:49:31 PDT 2014 44:94:fc:53:08:81 -95;
+Thu Apr 03 19:49:31 PDT 2014 90:3e:ab:b5:3d:a0 -90;
+Thu Apr 03 19:49:31 PDT 2014 4c:60:de:30:3d:b2 -88;
+Thu Apr 03 19:49:31 PDT 2014 90:72:40:18:9e:2e -91;
+Thu Apr 03 19:49:31 PDT 2014 Iteration completed
+Thu Apr 03 19:49:36 PDT 2014 Scan initiated
+Thu Apr 03 19:49:37 PDT 2014 Scan ended. APs found: 21
+Thu Apr 03 19:49:37 PDT 2014 APs found by passive scan: 21
+Thu Apr 03 19:49:37 PDT 2014 37.39238107 -122.07998214;0 0;
+Thu Apr 03 19:49:37 PDT 2014 00:0d:97:10:c0:5e -68;
+Thu Apr 03 19:49:37 PDT 2014 00:0d:97:10:c0:5e -66;
+Thu Apr 03 19:49:37 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:49:37 PDT 2014 00:0d:97:00:c0:5e -65;
+Thu Apr 03 19:49:37 PDT 2014 d8:50:e6:92:48:1c -87;
+Thu Apr 03 19:49:37 PDT 2014 dc:9f:db:fd:15:c0 -75;
+Thu Apr 03 19:49:37 PDT 2014 dc:9f:db:fd:17:e0 -86;
+Thu Apr 03 19:49:37 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:49:37 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:37 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:49:37 PDT 2014 dc:9f:db:fd:15:d0 -85;
+Thu Apr 03 19:49:37 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:49:37 PDT 2014 b8:e6:25:28:94:69 -83;
+Thu Apr 03 19:49:37 PDT 2014 64:0f:28:c4:54:8e -92;
+Thu Apr 03 19:49:37 PDT 2014 38:6b:bb:61:92:60 -85;
+Thu Apr 03 19:49:37 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:49:37 PDT 2014 90:3e:ab:b5:3d:a0 -90;
+Thu Apr 03 19:49:37 PDT 2014 4c:60:de:30:3d:b2 -88;
+Thu Apr 03 19:49:37 PDT 2014 90:72:40:18:9e:2e -91;
+Thu Apr 03 19:49:37 PDT 2014 dc:9f:db:fd:17:f0 -86;
+Thu Apr 03 19:49:37 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:37 PDT 2014 Iteration completed
+Thu Apr 03 19:49:42 PDT 2014 Scan initiated
+Thu Apr 03 19:49:43 PDT 2014 Scan ended. APs found: 21
+Thu Apr 03 19:49:43 PDT 2014 APs found by passive scan: 21
+Thu Apr 03 19:49:43 PDT 2014 37.3923808 -122.07998216;0 0;
+Thu Apr 03 19:49:43 PDT 2014 00:0d:97:10:c0:5e -76;
+Thu Apr 03 19:49:43 PDT 2014 00:0d:97:10:c0:5e -71;
+Thu Apr 03 19:49:43 PDT 2014 00:0d:97:00:d0:02 -81;
+Thu Apr 03 19:49:43 PDT 2014 00:0d:97:00:c0:5e -73;
+Thu Apr 03 19:49:43 PDT 2014 d8:50:e6:92:48:1c -89;
+Thu Apr 03 19:49:43 PDT 2014 dc:9f:db:fd:15:c0 -76;
+Thu Apr 03 19:49:43 PDT 2014 dc:9f:db:fd:17:e0 -85;
+Thu Apr 03 19:49:43 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:49:43 PDT 2014 00:0d:97:10:d0:02 -82;
+Thu Apr 03 19:49:43 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:49:43 PDT 2014 dc:9f:db:fd:15:d0 -85;
+Thu Apr 03 19:49:43 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:49:43 PDT 2014 b8:e6:25:28:94:69 -85;
+Thu Apr 03 19:49:43 PDT 2014 64:0f:28:c4:54:8e -90;
+Thu Apr 03 19:49:43 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:49:43 PDT 2014 4c:60:de:30:3d:b2 -88;
+Thu Apr 03 19:49:43 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:49:43 PDT 2014 dc:9f:db:fd:17:f0 -86;
+Thu Apr 03 19:49:43 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:43 PDT 2014 1c:14:48:26:4c:80 -83;
+Thu Apr 03 19:49:43 PDT 2014 0c:84:dc:a4:74:08 -88;
+Thu Apr 03 19:49:43 PDT 2014 Iteration completed
+Thu Apr 03 19:49:48 PDT 2014 Scan initiated
+Thu Apr 03 19:49:49 PDT 2014 Scan ended. APs found: 23
+Thu Apr 03 19:49:49 PDT 2014 APs found by passive scan: 23
+Thu Apr 03 19:49:49 PDT 2014 37.39238056 -122.07998238;0 0;
+Thu Apr 03 19:49:49 PDT 2014 00:0d:97:10:c0:5e -76;
+Thu Apr 03 19:49:49 PDT 2014 00:0d:97:10:c0:5e -70;
+Thu Apr 03 19:49:49 PDT 2014 00:0d:97:00:d0:02 -83;
+Thu Apr 03 19:49:49 PDT 2014 00:0d:97:00:c0:5e -70;
+Thu Apr 03 19:49:49 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:49:49 PDT 2014 dc:9f:db:fd:15:c0 -76;
+Thu Apr 03 19:49:49 PDT 2014 dc:9f:db:fd:17:e0 -86;
+Thu Apr 03 19:49:49 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:49:49 PDT 2014 00:0d:97:10:d0:02 -82;
+Thu Apr 03 19:49:49 PDT 2014 90:b1:34:b5:4b:a0 -81;
+Thu Apr 03 19:49:49 PDT 2014 dc:9f:db:fd:15:d0 -93;
+Thu Apr 03 19:49:49 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:49:49 PDT 2014 b8:e6:25:28:94:69 -89;
+Thu Apr 03 19:49:49 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:49:49 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:49:49 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:49:49 PDT 2014 dc:9f:db:fd:17:f0 -86;
+Thu Apr 03 19:49:49 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:49 PDT 2014 1c:14:48:26:4c:80 -83;
+Thu Apr 03 19:49:49 PDT 2014 0c:84:dc:a4:74:08 -90;
+Thu Apr 03 19:49:49 PDT 2014 90:b1:34:a0:a6:40 -84;
+Thu Apr 03 19:49:49 PDT 2014 92:3c:0b:23:40:70 -85;
+Thu Apr 03 19:49:49 PDT 2014 90:72:40:23:0b:3c -88;
+Thu Apr 03 19:49:49 PDT 2014 Iteration completed
+Thu Apr 03 19:49:54 PDT 2014 Scan initiated
+Thu Apr 03 19:49:54 PDT 2014 Scan ended. APs found: 23
+Thu Apr 03 19:49:54 PDT 2014 APs found by passive scan: 23
+Thu Apr 03 19:49:54 PDT 2014 37.39238037 -122.07998158;0 0;
+Thu Apr 03 19:49:54 PDT 2014 00:0d:97:10:c0:5e -73;
+Thu Apr 03 19:49:54 PDT 2014 00:0d:97:10:c0:5e -70;
+Thu Apr 03 19:49:54 PDT 2014 00:0d:97:00:d0:02 -83;
+Thu Apr 03 19:49:54 PDT 2014 00:0d:97:00:c0:5e -70;
+Thu Apr 03 19:49:54 PDT 2014 d8:50:e6:92:48:1c -89;
+Thu Apr 03 19:49:54 PDT 2014 dc:9f:db:fd:15:c0 -75;
+Thu Apr 03 19:49:54 PDT 2014 dc:9f:db:fd:17:e0 -86;
+Thu Apr 03 19:49:54 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:49:54 PDT 2014 00:0d:97:10:d0:02 -82;
+Thu Apr 03 19:49:54 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:49:54 PDT 2014 dc:9f:db:fd:15:d0 -87;
+Thu Apr 03 19:49:54 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:49:54 PDT 2014 b8:e6:25:28:94:69 -89;
+Thu Apr 03 19:49:54 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:49:54 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:49:54 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:49:54 PDT 2014 dc:9f:db:fd:17:f0 -86;
+Thu Apr 03 19:49:54 PDT 2014 00:0d:97:10:d0:02 -81;
+Thu Apr 03 19:49:54 PDT 2014 1c:14:48:26:4c:80 -83;
+Thu Apr 03 19:49:54 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:49:54 PDT 2014 90:b1:34:a0:a6:40 -84;
+Thu Apr 03 19:49:54 PDT 2014 92:3c:0b:23:40:70 -85;
+Thu Apr 03 19:49:54 PDT 2014 90:72:40:23:0b:3c -88;
+Thu Apr 03 19:49:54 PDT 2014 Iteration completed
+Thu Apr 03 19:49:59 PDT 2014 Scan initiated
+Thu Apr 03 19:50:00 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:50:00 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:50:00 PDT 2014 37.3923803 -122.07998182;0 0;
+Thu Apr 03 19:50:00 PDT 2014 00:0d:97:10:c0:5e -73;
+Thu Apr 03 19:50:00 PDT 2014 00:0d:97:10:c0:5e -81;
+Thu Apr 03 19:50:00 PDT 2014 00:0d:97:00:d0:02 -83;
+Thu Apr 03 19:50:00 PDT 2014 00:0d:97:00:c0:5e -81;
+Thu Apr 03 19:50:00 PDT 2014 d8:50:e6:92:48:1c -89;
+Thu Apr 03 19:50:00 PDT 2014 dc:9f:db:fd:15:c0 -79;
+Thu Apr 03 19:50:00 PDT 2014 dc:9f:db:fd:17:e0 -82;
+Thu Apr 03 19:50:00 PDT 2014 14:35:8b:05:f1:d8 -85;
+Thu Apr 03 19:50:00 PDT 2014 00:0d:97:10:d0:02 -82;
+Thu Apr 03 19:50:00 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:50:00 PDT 2014 dc:9f:db:fd:15:d0 -91;
+Thu Apr 03 19:50:00 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:50:00 PDT 2014 b8:e6:25:28:94:69 -89;
+Thu Apr 03 19:50:00 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:50:00 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:50:00 PDT 2014 dc:9f:db:fd:17:f0 -92;
+Thu Apr 03 19:50:00 PDT 2014 1c:14:48:26:4c:80 -87;
+Thu Apr 03 19:50:00 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:50:00 PDT 2014 90:b1:34:a0:a6:40 -84;
+Thu Apr 03 19:50:00 PDT 2014 92:3c:0b:23:40:70 -85;
+Thu Apr 03 19:50:00 PDT 2014 90:72:40:23:0b:3c -88;
+Thu Apr 03 19:50:00 PDT 2014 00:0d:97:14:85:bb -78;
+Thu Apr 03 19:50:00 PDT 2014 4c:60:de:30:3d:b2 -80;
+Thu Apr 03 19:50:00 PDT 2014 dc:9f:db:1c:b0:99 -88;
+Thu Apr 03 19:50:00 PDT 2014 10:0d:7f:71:39:c4 -89;
+Thu Apr 03 19:50:00 PDT 2014 Iteration completed
+Thu Apr 03 19:50:05 PDT 2014 Scan initiated
+Thu Apr 03 19:50:06 PDT 2014 Scan ended. APs found: 29
+Thu Apr 03 19:50:06 PDT 2014 APs found by passive scan: 29
+Thu Apr 03 19:50:06 PDT 2014 37.39238002 -122.07998158;0 0;
+Thu Apr 03 19:50:06 PDT 2014 00:0d:97:10:c0:5e -77;
+Thu Apr 03 19:50:06 PDT 2014 00:0d:97:10:c0:5e -81;
+Thu Apr 03 19:50:06 PDT 2014 00:0d:97:00:d0:02 -78;
+Thu Apr 03 19:50:06 PDT 2014 00:0d:97:00:c0:5e -76;
+Thu Apr 03 19:50:06 PDT 2014 d8:50:e6:92:48:1c -87;
+Thu Apr 03 19:50:06 PDT 2014 dc:9f:db:fd:15:c0 -77;
+Thu Apr 03 19:50:06 PDT 2014 dc:9f:db:fd:17:e0 -82;
+Thu Apr 03 19:50:06 PDT 2014 14:35:8b:05:f1:d8 -78;
+Thu Apr 03 19:50:06 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:50:06 PDT 2014 dc:9f:db:fd:15:d0 -87;
+Thu Apr 03 19:50:06 PDT 2014 00:19:e3:e5:73:5d -84;
+Thu Apr 03 19:50:06 PDT 2014 b8:e6:25:28:94:69 -89;
+Thu Apr 03 19:50:06 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:50:06 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:50:06 PDT 2014 dc:9f:db:fd:17:f0 -92;
+Thu Apr 03 19:50:06 PDT 2014 1c:14:48:26:4c:80 -87;
+Thu Apr 03 19:50:06 PDT 2014 0c:84:dc:a4:74:08 -87;
+Thu Apr 03 19:50:06 PDT 2014 90:b1:34:a0:a6:40 -84;
+Thu Apr 03 19:50:06 PDT 2014 92:3c:0b:23:40:70 -85;
+Thu Apr 03 19:50:06 PDT 2014 90:72:40:23:0b:3c -88;
+Thu Apr 03 19:50:06 PDT 2014 00:0d:97:14:85:bb -78;
+Thu Apr 03 19:50:06 PDT 2014 4c:60:de:30:3d:b2 -80;
+Thu Apr 03 19:50:06 PDT 2014 dc:9f:db:1c:b0:99 -88;
+Thu Apr 03 19:50:06 PDT 2014 10:0d:7f:71:39:c4 -89;
+Thu Apr 03 19:50:06 PDT 2014 38:6b:bb:61:92:60 -87;
+Thu Apr 03 19:50:06 PDT 2014 c2:9f:db:1c:b0:99 -89;
+Thu Apr 03 19:50:06 PDT 2014 74:9d:dc:af:ac:be -89;
+Thu Apr 03 19:50:06 PDT 2014 ac:5d:10:9c:7a:32 -92;
+Thu Apr 03 19:50:06 PDT 2014 00:0d:97:10:d0:02 -74;
+Thu Apr 03 19:50:06 PDT 2014 Iteration completed
+Thu Apr 03 19:50:11 PDT 2014 Scan initiated
+Thu Apr 03 19:50:12 PDT 2014 Scan ended. APs found: 27
+Thu Apr 03 19:50:12 PDT 2014 APs found by passive scan: 27
+Thu Apr 03 19:50:12 PDT 2014 37.39238029 -122.07998051;0 0;
+Thu Apr 03 19:50:12 PDT 2014 00:0d:97:10:c0:5e -77;
+Thu Apr 03 19:50:12 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:50:12 PDT 2014 00:0d:97:00:d0:02 -78;
+Thu Apr 03 19:50:12 PDT 2014 00:0d:97:00:c0:5e -78;
+Thu Apr 03 19:50:12 PDT 2014 d8:50:e6:92:48:1c -87;
+Thu Apr 03 19:50:12 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:50:12 PDT 2014 dc:9f:db:fd:17:e0 -82;
+Thu Apr 03 19:50:12 PDT 2014 14:35:8b:05:f1:d8 -78;
+Thu Apr 03 19:50:12 PDT 2014 90:b1:34:b5:4b:a0 -79;
+Thu Apr 03 19:50:12 PDT 2014 dc:9f:db:fd:15:d0 -87;
+Thu Apr 03 19:50:12 PDT 2014 00:19:e3:e5:73:5d -85;
+Thu Apr 03 19:50:12 PDT 2014 b8:e6:25:28:94:69 -81;
+Thu Apr 03 19:50:12 PDT 2014 90:72:40:18:9e:2e -87;
+Thu Apr 03 19:50:12 PDT 2014 dc:9f:db:fd:17:f0 -92;
+Thu Apr 03 19:50:12 PDT 2014 1c:14:48:26:4c:80 -87;
+Thu Apr 03 19:50:12 PDT 2014 0c:84:dc:a4:74:08 -90;
+Thu Apr 03 19:50:12 PDT 2014 90:72:40:23:0b:3c -89;
+Thu Apr 03 19:50:12 PDT 2014 00:0d:97:14:85:bb -78;
+Thu Apr 03 19:50:12 PDT 2014 4c:60:de:30:3d:b2 -80;
+Thu Apr 03 19:50:12 PDT 2014 dc:9f:db:1c:b0:99 -88;
+Thu Apr 03 19:50:12 PDT 2014 10:0d:7f:71:39:c4 -89;
+Thu Apr 03 19:50:12 PDT 2014 38:6b:bb:61:92:60 -87;
+Thu Apr 03 19:50:12 PDT 2014 c2:9f:db:1c:b0:99 -89;
+Thu Apr 03 19:50:12 PDT 2014 74:9d:dc:af:ac:be -85;
+Thu Apr 03 19:50:12 PDT 2014 ac:5d:10:9c:7a:32 -92;
+Thu Apr 03 19:50:12 PDT 2014 00:0d:97:10:d0:02 -74;
+Thu Apr 03 19:50:12 PDT 2014 00:0d:97:10:d0:02 -79;
+Thu Apr 03 19:50:12 PDT 2014 Iteration completed
+Thu Apr 03 19:50:17 PDT 2014 Scan initiated
+Thu Apr 03 19:50:18 PDT 2014 Scan ended. APs found: 27
+Thu Apr 03 19:50:18 PDT 2014 APs found by passive scan: 27
+Thu Apr 03 19:50:18 PDT 2014 37.39238033 -122.079978;0 0;
+Thu Apr 03 19:50:18 PDT 2014 00:0d:97:10:c0:5e -80;
+Thu Apr 03 19:50:18 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:50:18 PDT 2014 00:0d:97:00:d0:02 -78;
+Thu Apr 03 19:50:18 PDT 2014 00:0d:97:00:c0:5e -78;
+Thu Apr 03 19:50:18 PDT 2014 d8:50:e6:92:48:1c -91;
+Thu Apr 03 19:50:18 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:50:18 PDT 2014 dc:9f:db:fd:17:e0 -84;
+Thu Apr 03 19:50:18 PDT 2014 14:35:8b:05:f1:d8 -78;
+Thu Apr 03 19:50:18 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:50:18 PDT 2014 dc:9f:db:fd:15:d0 -87;
+Thu Apr 03 19:50:18 PDT 2014 00:19:e3:e5:73:5d -85;
+Thu Apr 03 19:50:18 PDT 2014 b8:e6:25:28:94:69 -81;
+Thu Apr 03 19:50:18 PDT 2014 90:72:40:18:9e:2e -87;
+Thu Apr 03 19:50:18 PDT 2014 dc:9f:db:fd:17:f0 -92;
+Thu Apr 03 19:50:18 PDT 2014 1c:14:48:26:4c:80 -87;
+Thu Apr 03 19:50:18 PDT 2014 0c:84:dc:a4:74:08 -90;
+Thu Apr 03 19:50:18 PDT 2014 90:72:40:23:0b:3c -89;
+Thu Apr 03 19:50:18 PDT 2014 00:0d:97:14:85:bb -78;
+Thu Apr 03 19:50:18 PDT 2014 4c:60:de:30:3d:b2 -80;
+Thu Apr 03 19:50:18 PDT 2014 dc:9f:db:1c:b0:99 -88;
+Thu Apr 03 19:50:18 PDT 2014 10:0d:7f:71:39:c4 -89;
+Thu Apr 03 19:50:18 PDT 2014 38:6b:bb:61:92:60 -87;
+Thu Apr 03 19:50:18 PDT 2014 c2:9f:db:1c:b0:99 -89;
+Thu Apr 03 19:50:18 PDT 2014 74:9d:dc:af:ac:be -83;
+Thu Apr 03 19:50:18 PDT 2014 ac:5d:10:9c:7a:32 -90;
+Thu Apr 03 19:50:18 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:50:18 PDT 2014 00:0d:97:10:d0:02 -79;
+Thu Apr 03 19:50:18 PDT 2014 Iteration completed
+Thu Apr 03 19:50:23 PDT 2014 Scan initiated
+Thu Apr 03 19:50:23 PDT 2014 Scan ended. APs found: 23
+Thu Apr 03 19:50:23 PDT 2014 APs found by passive scan: 23
+Thu Apr 03 19:50:23 PDT 2014 37.3923803 -122.07997669;0 0;
+Thu Apr 03 19:50:23 PDT 2014 00:0d:97:10:c0:5e -80;
+Thu Apr 03 19:50:23 PDT 2014 00:0d:97:10:c0:5e -79;
+Thu Apr 03 19:50:23 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:50:23 PDT 2014 00:0d:97:00:c0:5e -80;
+Thu Apr 03 19:50:23 PDT 2014 d8:50:e6:92:48:1c -91;
+Thu Apr 03 19:50:23 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:50:23 PDT 2014 dc:9f:db:fd:17:e0 -84;
+Thu Apr 03 19:50:23 PDT 2014 14:35:8b:05:f1:d8 -79;
+Thu Apr 03 19:50:23 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:50:23 PDT 2014 dc:9f:db:fd:15:d0 -89;
+Thu Apr 03 19:50:23 PDT 2014 00:19:e3:e5:73:5d -85;
+Thu Apr 03 19:50:23 PDT 2014 b8:e6:25:28:94:69 -88;
+Thu Apr 03 19:50:23 PDT 2014 90:72:40:18:9e:2e -87;
+Thu Apr 03 19:50:23 PDT 2014 dc:9f:db:fd:17:f0 -95;
+Thu Apr 03 19:50:23 PDT 2014 0c:84:dc:a4:74:08 -88;
+Thu Apr 03 19:50:23 PDT 2014 90:72:40:23:0b:3c -89;
+Thu Apr 03 19:50:23 PDT 2014 4c:60:de:30:3d:b2 -89;
+Thu Apr 03 19:50:23 PDT 2014 38:6b:bb:61:92:60 -87;
+Thu Apr 03 19:50:23 PDT 2014 c2:9f:db:1c:b0:99 -89;
+Thu Apr 03 19:50:23 PDT 2014 74:9d:dc:af:ac:be -83;
+Thu Apr 03 19:50:23 PDT 2014 ac:5d:10:9c:7a:32 -90;
+Thu Apr 03 19:50:23 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:50:23 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:50:23 PDT 2014 Iteration completed
+Thu Apr 03 19:50:28 PDT 2014 Scan initiated
+Thu Apr 03 19:50:29 PDT 2014 Scan ended. APs found: 23
+Thu Apr 03 19:50:29 PDT 2014 APs found by passive scan: 23
+Thu Apr 03 19:50:29 PDT 2014 37.3923802 -122.07997548;0 0;
+Thu Apr 03 19:50:29 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:50:29 PDT 2014 00:0d:97:10:c0:5e -79;
+Thu Apr 03 19:50:29 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:50:29 PDT 2014 00:0d:97:00:c0:5e -76;
+Thu Apr 03 19:50:29 PDT 2014 d8:50:e6:92:48:1c -91;
+Thu Apr 03 19:50:29 PDT 2014 dc:9f:db:fd:15:c0 -72;
+Thu Apr 03 19:50:29 PDT 2014 dc:9f:db:fd:17:e0 -84;
+Thu Apr 03 19:50:29 PDT 2014 14:35:8b:05:f1:d8 -83;
+Thu Apr 03 19:50:29 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:50:29 PDT 2014 dc:9f:db:fd:15:d0 -84;
+Thu Apr 03 19:50:29 PDT 2014 00:19:e3:e5:73:5d -85;
+Thu Apr 03 19:50:29 PDT 2014 b8:e6:25:28:94:69 -88;
+Thu Apr 03 19:50:29 PDT 2014 90:72:40:18:9e:2e -87;
+Thu Apr 03 19:50:29 PDT 2014 dc:9f:db:fd:17:f0 -89;
+Thu Apr 03 19:50:29 PDT 2014 0c:84:dc:a4:74:08 -88;
+Thu Apr 03 19:50:29 PDT 2014 90:72:40:23:0b:3c -89;
+Thu Apr 03 19:50:29 PDT 2014 4c:60:de:30:3d:b2 -81;
+Thu Apr 03 19:50:29 PDT 2014 38:6b:bb:61:92:60 -87;
+Thu Apr 03 19:50:29 PDT 2014 74:9d:dc:af:ac:be -83;
+Thu Apr 03 19:50:29 PDT 2014 ac:5d:10:9c:7a:32 -90;
+Thu Apr 03 19:50:29 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:50:29 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:50:29 PDT 2014 00:0d:97:04:85:bb -76;
+Thu Apr 03 19:50:29 PDT 2014 Iteration completed
+Thu Apr 03 19:50:34 PDT 2014 Scan initiated
+Thu Apr 03 19:50:35 PDT 2014 Scan ended. APs found: 23
+Thu Apr 03 19:50:35 PDT 2014 APs found by passive scan: 23
+Thu Apr 03 19:50:35 PDT 2014 37.39238039 -122.0799751;0 0;
+Thu Apr 03 19:50:35 PDT 2014 00:0d:97:10:c0:5e -80;
+Thu Apr 03 19:50:35 PDT 2014 00:0d:97:10:c0:5e -79;
+Thu Apr 03 19:50:35 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:50:35 PDT 2014 00:0d:97:00:c0:5e -77;
+Thu Apr 03 19:50:35 PDT 2014 d8:50:e6:92:48:1c -91;
+Thu Apr 03 19:50:35 PDT 2014 dc:9f:db:fd:15:c0 -72;
+Thu Apr 03 19:50:35 PDT 2014 dc:9f:db:fd:17:e0 -79;
+Thu Apr 03 19:50:35 PDT 2014 14:35:8b:05:f1:d8 -76;
+Thu Apr 03 19:50:35 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:50:35 PDT 2014 dc:9f:db:fd:15:d0 -84;
+Thu Apr 03 19:50:35 PDT 2014 b8:e6:25:28:94:69 -88;
+Thu Apr 03 19:50:35 PDT 2014 90:72:40:18:9e:2e -90;
+Thu Apr 03 19:50:35 PDT 2014 dc:9f:db:fd:17:f0 -89;
+Thu Apr 03 19:50:35 PDT 2014 0c:84:dc:a4:74:08 -88;
+Thu Apr 03 19:50:35 PDT 2014 4c:60:de:30:3d:b2 -82;
+Thu Apr 03 19:50:35 PDT 2014 38:6b:bb:61:92:60 -87;
+Thu Apr 03 19:50:35 PDT 2014 74:9d:dc:af:ac:be -83;
+Thu Apr 03 19:50:35 PDT 2014 ac:5d:10:9c:7a:32 -88;
+Thu Apr 03 19:50:35 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:50:35 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:50:35 PDT 2014 00:0d:97:04:85:bb -76;
+Thu Apr 03 19:50:35 PDT 2014 06:27:22:fa:14:35 -79;
+Thu Apr 03 19:50:35 PDT 2014 90:3e:ab:b5:3d:a0 -88;
+Thu Apr 03 19:50:35 PDT 2014 Iteration completed
+Thu Apr 03 19:50:40 PDT 2014 Scan initiated
+Thu Apr 03 19:50:40 PDT 2014 Scan ended. APs found: 24
+Thu Apr 03 19:50:41 PDT 2014 APs found by passive scan: 24
+Thu Apr 03 19:50:41 PDT 2014 37.39236614 -122.07994081;0 0;
+Thu Apr 03 19:50:41 PDT 2014 00:0d:97:10:c0:5e -80;
+Thu Apr 03 19:50:41 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:50:41 PDT 2014 00:0d:97:00:d0:02 -76;
+Thu Apr 03 19:50:41 PDT 2014 00:0d:97:00:c0:5e -77;
+Thu Apr 03 19:50:41 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:50:41 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:50:41 PDT 2014 dc:9f:db:fd:17:e0 -86;
+Thu Apr 03 19:50:41 PDT 2014 14:35:8b:05:f1:d8 -75;
+Thu Apr 03 19:50:41 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:50:41 PDT 2014 dc:9f:db:fd:15:d0 -84;
+Thu Apr 03 19:50:41 PDT 2014 b8:e6:25:28:94:69 -88;
+Thu Apr 03 19:50:41 PDT 2014 90:72:40:18:9e:2e -87;
+Thu Apr 03 19:50:41 PDT 2014 dc:9f:db:fd:17:f0 -89;
+Thu Apr 03 19:50:41 PDT 2014 0c:84:dc:a4:74:08 -88;
+Thu Apr 03 19:50:41 PDT 2014 4c:60:de:30:3d:b2 -82;
+Thu Apr 03 19:50:41 PDT 2014 38:6b:bb:61:92:60 -90;
+Thu Apr 03 19:50:41 PDT 2014 ac:5d:10:9c:7a:32 -89;
+Thu Apr 03 19:50:41 PDT 2014 00:0d:97:10:d0:02 -76;
+Thu Apr 03 19:50:41 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:50:41 PDT 2014 00:0d:97:04:85:bb -76;
+Thu Apr 03 19:50:41 PDT 2014 06:27:22:fa:14:35 -79;
+Thu Apr 03 19:50:41 PDT 2014 90:3e:ab:b5:3d:a0 -88;
+Thu Apr 03 19:50:41 PDT 2014 1c:14:48:26:4c:80 -82;
+Thu Apr 03 19:50:41 PDT 2014 44:94:fc:53:08:81 -96;
+Thu Apr 03 19:50:41 PDT 2014 Iteration completed
+Thu Apr 03 19:50:46 PDT 2014 Scan initiated
+Thu Apr 03 19:50:46 PDT 2014 Scan ended. APs found: 26
+Thu Apr 03 19:50:46 PDT 2014 APs found by passive scan: 26
+Thu Apr 03 19:50:46 PDT 2014 37.39236925 -122.0799566;0 0;
+Thu Apr 03 19:50:46 PDT 2014 00:0d:97:10:c0:5e -79;
+Thu Apr 03 19:50:46 PDT 2014 00:0d:97:10:c0:5e -78;
+Thu Apr 03 19:50:46 PDT 2014 00:0d:97:00:d0:02 -80;
+Thu Apr 03 19:50:46 PDT 2014 00:0d:97:00:c0:5e -77;
+Thu Apr 03 19:50:46 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:50:46 PDT 2014 dc:9f:db:fd:15:c0 -78;
+Thu Apr 03 19:50:46 PDT 2014 dc:9f:db:fd:17:e0 -76;
+Thu Apr 03 19:50:46 PDT 2014 14:35:8b:05:f1:d8 -75;
+Thu Apr 03 19:50:46 PDT 2014 90:b1:34:b5:4b:a0 -81;
+Thu Apr 03 19:50:46 PDT 2014 dc:9f:db:fd:15:d0 -84;
+Thu Apr 03 19:50:46 PDT 2014 b8:e6:25:28:94:69 -87;
+Thu Apr 03 19:50:46 PDT 2014 90:72:40:18:9e:2e -86;
+Thu Apr 03 19:50:46 PDT 2014 dc:9f:db:fd:17:f0 -89;
+Thu Apr 03 19:50:46 PDT 2014 0c:84:dc:a4:74:08 -88;
+Thu Apr 03 19:50:46 PDT 2014 4c:60:de:30:3d:b2 -82;
+Thu Apr 03 19:50:46 PDT 2014 38:6b:bb:61:92:60 -90;
+Thu Apr 03 19:50:46 PDT 2014 ac:5d:10:9c:7a:32 -89;
+Thu Apr 03 19:50:46 PDT 2014 00:0d:97:10:d0:02 -80;
+Thu Apr 03 19:50:46 PDT 2014 00:0d:97:04:85:bb -76;
+Thu Apr 03 19:50:46 PDT 2014 06:27:22:fa:14:35 -79;
+Thu Apr 03 19:50:46 PDT 2014 90:3e:ab:b5:3d:a0 -88;
+Thu Apr 03 19:50:46 PDT 2014 1c:14:48:26:4c:80 -80;
+Thu Apr 03 19:50:46 PDT 2014 44:94:fc:53:08:81 -96;
+Thu Apr 03 19:50:46 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:50:46 PDT 2014 90:b1:34:a0:a6:40 -91;
+Thu Apr 03 19:50:46 PDT 2014 00:80:f0:57:d3:00 -80;
+Thu Apr 03 19:50:46 PDT 2014 Iteration completed
+Thu Apr 03 19:50:51 PDT 2014 Scan initiated
+Thu Apr 03 19:50:52 PDT 2014 Scan ended. APs found: 29
+Thu Apr 03 19:50:52 PDT 2014 APs found by passive scan: 29
+Thu Apr 03 19:50:52 PDT 2014 37.39233464 -122.07990676;0 0;
+Thu Apr 03 19:50:52 PDT 2014 00:0d:97:10:c0:5e -79;
+Thu Apr 03 19:50:52 PDT 2014 00:0d:97:10:c0:5e -81;
+Thu Apr 03 19:50:52 PDT 2014 00:0d:97:00:d0:02 -78;
+Thu Apr 03 19:50:52 PDT 2014 00:0d:97:00:c0:5e -80;
+Thu Apr 03 19:50:52 PDT 2014 d8:50:e6:92:48:1c -90;
+Thu Apr 03 19:50:52 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:50:52 PDT 2014 dc:9f:db:fd:17:e0 -80;
+Thu Apr 03 19:50:52 PDT 2014 14:35:8b:05:f1:d8 -75;
+Thu Apr 03 19:50:52 PDT 2014 90:b1:34:b5:4b:a0 -87;
+Thu Apr 03 19:50:52 PDT 2014 dc:9f:db:fd:15:d0 -88;
+Thu Apr 03 19:50:52 PDT 2014 b8:e6:25:28:94:69 -83;
+Thu Apr 03 19:50:52 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:50:52 PDT 2014 0c:84:dc:a4:74:08 -91;
+Thu Apr 03 19:50:52 PDT 2014 4c:60:de:30:3d:b2 -82;
+Thu Apr 03 19:50:52 PDT 2014 38:6b:bb:61:92:60 -88;
+Thu Apr 03 19:50:52 PDT 2014 ac:5d:10:9c:7a:32 -89;
+Thu Apr 03 19:50:52 PDT 2014 00:0d:97:10:d0:02 -80;
+Thu Apr 03 19:50:52 PDT 2014 06:27:22:fa:14:35 -79;
+Thu Apr 03 19:50:52 PDT 2014 90:3e:ab:b5:3d:a0 -86;
+Thu Apr 03 19:50:52 PDT 2014 1c:14:48:26:4c:80 -80;
+Thu Apr 03 19:50:52 PDT 2014 44:94:fc:53:08:81 -96;
+Thu Apr 03 19:50:52 PDT 2014 74:9d:dc:af:ac:be -84;
+Thu Apr 03 19:50:52 PDT 2014 90:b1:34:a0:a6:40 -91;
+Thu Apr 03 19:50:52 PDT 2014 00:80:f0:57:d3:00 -80;
+Thu Apr 03 19:50:52 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:50:52 PDT 2014 da:50:e6:92:48:1b -87;
+Thu Apr 03 19:50:52 PDT 2014 00:3a:9a:68:9e:a0 -94;
+Thu Apr 03 19:50:52 PDT 2014 b0:77:ac:33:a2:e0 -94;
+Thu Apr 03 19:50:52 PDT 2014 d8:50:e6:92:48:1a -85;
+Thu Apr 03 19:50:52 PDT 2014 Iteration completed
+Thu Apr 03 19:50:57 PDT 2014 Scan initiated
+Thu Apr 03 19:50:58 PDT 2014 Scan ended. APs found: 27
+Thu Apr 03 19:50:58 PDT 2014 APs found by passive scan: 27
+Thu Apr 03 19:50:58 PDT 2014 37.39236889 -122.07993524;0 0;
+Thu Apr 03 19:50:58 PDT 2014 00:0d:97:10:c0:5e -79;
+Thu Apr 03 19:50:58 PDT 2014 00:0d:97:10:c0:5e -81;
+Thu Apr 03 19:50:58 PDT 2014 00:0d:97:00:d0:02 -78;
+Thu Apr 03 19:50:58 PDT 2014 00:0d:97:00:c0:5e -80;
+Thu Apr 03 19:50:58 PDT 2014 d8:50:e6:92:48:1c -85;
+Thu Apr 03 19:50:58 PDT 2014 dc:9f:db:fd:15:c0 -80;
+Thu Apr 03 19:50:58 PDT 2014 dc:9f:db:fd:17:e0 -80;
+Thu Apr 03 19:50:58 PDT 2014 14:35:8b:05:f1:d8 -75;
+Thu Apr 03 19:50:58 PDT 2014 90:b1:34:b5:4b:a0 -87;
+Thu Apr 03 19:50:58 PDT 2014 dc:9f:db:fd:15:d0 -88;
+Thu Apr 03 19:50:58 PDT 2014 b8:e6:25:28:94:69 -85;
+Thu Apr 03 19:50:58 PDT 2014 90:72:40:18:9e:2e -89;
+Thu Apr 03 19:50:58 PDT 2014 0c:84:dc:a4:74:08 -91;
+Thu Apr 03 19:50:58 PDT 2014 38:6b:bb:61:92:60 -87;
+Thu Apr 03 19:50:58 PDT 2014 ac:5d:10:9c:7a:32 -89;
+Thu Apr 03 19:50:58 PDT 2014 00:0d:97:10:d0:02 -80;
+Thu Apr 03 19:50:58 PDT 2014 90:3e:ab:b5:3d:a0 -86;
+Thu Apr 03 19:50:58 PDT 2014 1c:14:48:26:4c:80 -80;
+Thu Apr 03 19:50:58 PDT 2014 44:94:fc:53:08:81 -96;
+Thu Apr 03 19:50:58 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:50:58 PDT 2014 90:b1:34:a0:a6:40 -91;
+Thu Apr 03 19:50:58 PDT 2014 00:80:f0:57:d3:00 -80;
+Thu Apr 03 19:50:58 PDT 2014 00:0d:97:10:d0:02 -77;
+Thu Apr 03 19:50:58 PDT 2014 da:50:e6:92:48:1b -83;
+Thu Apr 03 19:50:58 PDT 2014 00:3a:9a:68:9e:a0 -94;
+Thu Apr 03 19:50:58 PDT 2014 b0:77:ac:33:a2:e0 -94;
+Thu Apr 03 19:50:58 PDT 2014 d8:50:e6:92:48:1a -83;
+Thu Apr 03 19:50:58 PDT 2014 Iteration completed
+Thu Apr 03 19:51:03 PDT 2014 Scan initiated
+Thu Apr 03 19:51:04 PDT 2014 Scan ended. APs found: 25
+Thu Apr 03 19:51:04 PDT 2014 APs found by passive scan: 25
+Thu Apr 03 19:51:04 PDT 2014 37.39237002 -122.07993269;0 0;
+Thu Apr 03 19:51:04 PDT 2014 00:0d:97:10:c0:5e -83;
+Thu Apr 03 19:51:04 PDT 2014 00:0d:97:10:c0:5e -81;
+Thu Apr 03 19:51:04 PDT 2014 00:0d:97:00:d0:02 -79;
+Thu Apr 03 19:51:04 PDT 2014 00:0d:97:00:c0:5e -81;
+Thu Apr 03 19:51:04 PDT 2014 d8:50:e6:92:48:1c -85;
+Thu Apr 03 19:51:04 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:51:04 PDT 2014 dc:9f:db:fd:17:e0 -80;
+Thu Apr 03 19:51:04 PDT 2014 14:35:8b:05:f1:d8 -83;
+Thu Apr 03 19:51:04 PDT 2014 90:b1:34:b5:4b:a0 -78;
+Thu Apr 03 19:51:04 PDT 2014 dc:9f:db:fd:15:d0 -88;
+Thu Apr 03 19:51:04 PDT 2014 b8:e6:25:28:94:69 -84;
+Thu Apr 03 19:51:04 PDT 2014 90:72:40:18:9e:2e -93;
+Thu Apr 03 19:51:04 PDT 2014 0c:84:dc:a4:74:08 -91;
+Thu Apr 03 19:51:04 PDT 2014 38:6b:bb:61:92:60 -87;
+Thu Apr 03 19:51:04 PDT 2014 00:0d:97:10:d0:02 -80;
+Thu Apr 03 19:51:04 PDT 2014 90:3e:ab:b5:3d:a0 -86;
+Thu Apr 03 19:51:04 PDT 2014 1c:14:48:26:4c:80 -80;
+Thu Apr 03 19:51:04 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:51:04 PDT 2014 90:b1:34:a0:a6:40 -91;
+Thu Apr 03 19:51:04 PDT 2014 00:80:f0:57:d3:00 -80;
+Thu Apr 03 19:51:04 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:51:04 PDT 2014 da:50:e6:92:48:1b -80;
+Thu Apr 03 19:51:04 PDT 2014 00:3a:9a:68:9e:a0 -94;
+Thu Apr 03 19:51:04 PDT 2014 b0:77:ac:33:a2:e0 -93;
+Thu Apr 03 19:51:04 PDT 2014 d8:50:e6:92:48:1a -83;
+Thu Apr 03 19:51:04 PDT 2014 Iteration completed
+Thu Apr 03 19:51:09 PDT 2014 Scan initiated
+Thu Apr 03 19:51:10 PDT 2014 Scan ended. APs found: 22
+Thu Apr 03 19:51:10 PDT 2014 APs found by passive scan: 22
+Thu Apr 03 19:51:10 PDT 2014 37.39237389 -122.0799309;0 0;
+Thu Apr 03 19:51:10 PDT 2014 00:0d:97:10:c0:5e -83;
+Thu Apr 03 19:51:10 PDT 2014 00:0d:97:10:c0:5e -85;
+Thu Apr 03 19:51:10 PDT 2014 00:0d:97:00:d0:02 -75;
+Thu Apr 03 19:51:10 PDT 2014 00:0d:97:00:c0:5e -85;
+Thu Apr 03 19:51:10 PDT 2014 d8:50:e6:92:48:1c -83;
+Thu Apr 03 19:51:10 PDT 2014 dc:9f:db:fd:15:c0 -74;
+Thu Apr 03 19:51:10 PDT 2014 dc:9f:db:fd:17:e0 -75;
+Thu Apr 03 19:51:10 PDT 2014 14:35:8b:05:f1:d8 -82;
+Thu Apr 03 19:51:10 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:51:10 PDT 2014 dc:9f:db:fd:15:d0 -82;
+Thu Apr 03 19:51:10 PDT 2014 b8:e6:25:28:94:69 -84;
+Thu Apr 03 19:51:10 PDT 2014 90:72:40:18:9e:2e -93;
+Thu Apr 03 19:51:10 PDT 2014 0c:84:dc:a4:74:08 -91;
+Thu Apr 03 19:51:10 PDT 2014 38:6b:bb:61:92:60 -81;
+Thu Apr 03 19:51:10 PDT 2014 00:0d:97:10:d0:02 -75;
+Thu Apr 03 19:51:10 PDT 2014 90:3e:ab:b5:3d:a0 -86;
+Thu Apr 03 19:51:10 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:51:10 PDT 2014 00:0d:97:10:d0:02 -78;
+Thu Apr 03 19:51:10 PDT 2014 da:50:e6:92:48:1b -75;
+Thu Apr 03 19:51:10 PDT 2014 00:3a:9a:68:9e:a0 -94;
+Thu Apr 03 19:51:10 PDT 2014 b0:77:ac:33:a2:e0 -93;
+Thu Apr 03 19:51:10 PDT 2014 d8:50:e6:92:48:1a -75;
+Thu Apr 03 19:51:10 PDT 2014 Iteration completed
+Thu Apr 03 19:51:15 PDT 2014 Scan initiated
+Thu Apr 03 19:51:16 PDT 2014 Scan ended. APs found: 21
+Thu Apr 03 19:51:16 PDT 2014 APs found by passive scan: 21
+Thu Apr 03 19:51:16 PDT 2014 37.39237792 -122.07992987;0 0;
+Thu Apr 03 19:51:16 PDT 2014 00:0d:97:10:c0:5e -83;
+Thu Apr 03 19:51:16 PDT 2014 00:0d:97:10:c0:5e -85;
+Thu Apr 03 19:51:16 PDT 2014 00:0d:97:00:d0:02 -71;
+Thu Apr 03 19:51:16 PDT 2014 00:0d:97:00:c0:5e -81;
+Thu Apr 03 19:51:16 PDT 2014 d8:50:e6:92:48:1c -87;
+Thu Apr 03 19:51:16 PDT 2014 dc:9f:db:fd:15:c0 -73;
+Thu Apr 03 19:51:16 PDT 2014 dc:9f:db:fd:17:e0 -77;
+Thu Apr 03 19:51:16 PDT 2014 14:35:8b:05:f1:d8 -86;
+Thu Apr 03 19:51:16 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:51:16 PDT 2014 dc:9f:db:fd:15:d0 -81;
+Thu Apr 03 19:51:16 PDT 2014 b8:e6:25:28:94:69 -81;
+Thu Apr 03 19:51:16 PDT 2014 90:72:40:18:9e:2e -93;
+Thu Apr 03 19:51:16 PDT 2014 38:6b:bb:61:92:60 -80;
+Thu Apr 03 19:51:16 PDT 2014 00:0d:97:10:d0:02 -75;
+Thu Apr 03 19:51:16 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:51:16 PDT 2014 00:0d:97:10:d0:02 -73;
+Thu Apr 03 19:51:16 PDT 2014 da:50:e6:92:48:1b -76;
+Thu Apr 03 19:51:16 PDT 2014 b0:77:ac:33:a2:e0 -93;
+Thu Apr 03 19:51:16 PDT 2014 d8:50:e6:92:48:1a -77;
+Thu Apr 03 19:51:16 PDT 2014 90:b1:34:a0:a6:40 -90;
+Thu Apr 03 19:51:16 PDT 2014 92:3c:0b:23:40:70 -92;
+Thu Apr 03 19:51:16 PDT 2014 Iteration completed
+Thu Apr 03 19:51:21 PDT 2014 Scan initiated
+Thu Apr 03 19:51:21 PDT 2014 Scan ended. APs found: 22
+Thu Apr 03 19:51:21 PDT 2014 APs found by passive scan: 22
+Thu Apr 03 19:51:21 PDT 2014 37.3923788 -122.07992917;0 0;
+Thu Apr 03 19:51:21 PDT 2014 00:0d:97:10:c0:5e -83;
+Thu Apr 03 19:51:21 PDT 2014 00:0d:97:10:c0:5e -81;
+Thu Apr 03 19:51:21 PDT 2014 00:0d:97:00:d0:02 -79;
+Thu Apr 03 19:51:21 PDT 2014 00:0d:97:00:c0:5e -81;
+Thu Apr 03 19:51:21 PDT 2014 d8:50:e6:92:48:1c -86;
+Thu Apr 03 19:51:21 PDT 2014 dc:9f:db:fd:15:c0 -79;
+Thu Apr 03 19:51:21 PDT 2014 dc:9f:db:fd:17:e0 -77;
+Thu Apr 03 19:51:21 PDT 2014 14:35:8b:05:f1:d8 -84;
+Thu Apr 03 19:51:21 PDT 2014 90:b1:34:b5:4b:a0 -80;
+Thu Apr 03 19:51:21 PDT 2014 dc:9f:db:fd:15:d0 -80;
+Thu Apr 03 19:51:21 PDT 2014 b8:e6:25:28:94:69 -77;
+Thu Apr 03 19:51:21 PDT 2014 90:72:40:18:9e:2e -93;
+Thu Apr 03 19:51:21 PDT 2014 38:6b:bb:61:92:60 -78;
+Thu Apr 03 19:51:21 PDT 2014 00:0d:97:10:d0:02 -75;
+Thu Apr 03 19:51:21 PDT 2014 74:9d:dc:af:ac:be -87;
+Thu Apr 03 19:51:21 PDT 2014 00:0d:97:10:d0:02 -73;
+Thu Apr 03 19:51:21 PDT 2014 da:50:e6:92:48:1b -77;
+Thu Apr 03 19:51:21 PDT 2014 b0:77:ac:33:a2:e0 -93;
+Thu Apr 03 19:51:21 PDT 2014 d8:50:e6:92:48:1a -77;
+Thu Apr 03 19:51:21 PDT 2014 90:b1:34:a0:a6:40 -90;
+Thu Apr 03 19:51:21 PDT 2014 92:3c:0b:23:40:70 -92;
+Thu Apr 03 19:51:21 PDT 2014 00:19:a9:cf:f1:d0 -90;
+Thu Apr 03 19:51:21 PDT 2014 Iteration completed
+Thu Apr 03 19:51:26 PDT 2014 Scan initiated
+Thu Apr 03 19:51:27 PDT 2014 Scan ended. APs found: 21
+Thu Apr 03 19:51:27 PDT 2014 APs found by passive scan: 21
+Thu Apr 03 19:51:27 PDT 2014 37.3923794 -122.07992926;0 0;
+Thu Apr 03 19:51:27 PDT 2014 00:0d:97:10:c0:5e -83;
+Thu Apr 03 19:51:27 PDT 2014 00:0d:97:10:c0:5e -73;
+Thu Apr 03 19:51:27 PDT 2014 00:0d:97:00:d0:02 -77;
+Thu Apr 03 19:51:27 PDT 2014 00:0d:97:00:c0:5e -73;
+Thu Apr 03 19:51:27 PDT 2014 d8:50:e6:92:48:1c -87;
+Thu Apr 03 19:51:27 PDT 2014 dc:9f:db:fd:15:c0 -75;
+Thu Apr 03 19:51:27 PDT 2014 dc:9f:db:fd:17:e0 -80;
+Thu Apr 03 19:51:27 PDT 2014 14:35:8b:05:f1:d8 -90;
+Thu Apr 03 19:51:27 PDT 2014 90:b1:34:b5:4b:a0 -83;
+Thu Apr 03 19:51:27 PDT 2014 dc:9f:db:fd:15:d0 -82;
+Thu Apr 03 19:51:27 PDT 2014 b8:e6:25:28:94:69 -76;
+Thu Apr 03 19:51:27 PDT 2014 90:72:40:18:9e:2e -93;
+Thu Apr 03 19:51:27 PDT 2014 38:6b:bb:61:92:60 -73;
+Thu Apr 03 19:51:27 PDT 2014 74:9d:dc:af:ac:be -85;
+Thu Apr 03 19:51:27 PDT 2014 00:0d:97:10:d0:02 -75;
+Thu Apr 03 19:51:27 PDT 2014 da:50:e6:92:48:1b -77;
+Thu Apr 03 19:51:27 PDT 2014 d8:50:e6:92:48:1a -78;
+Thu Apr 03 19:51:27 PDT 2014 90:b1:34:a0:a6:40 -90;
+Thu Apr 03 19:51:27 PDT 2014 92:3c:0b:23:40:70 -92;
+Thu Apr 03 19:51:27 PDT 2014 00:19:a9:cf:f1:d0 -90;
+Thu Apr 03 19:51:27 PDT 2014 64:0f:28:c4:54:8e -86;
+Thu Apr 03 19:51:27 PDT 2014 Iteration completed
+Thu Apr 03 19:51:29 PDT 2014 WARNING: Test(s) are cancelled at test number 1
+Thu Apr 03 19:51:29 PDT 2014 DEBUG: Inside deregisterFromLocationUpdates
+Thu Apr 03 19:51:29 PDT 2014 DEBUG: Removing the provider
+Thu Apr 03 19:51:29 PDT 2014 SUCCESS: logBufferWriterLocation closed
+Thu Apr 03 19:51:29 PDT 2014 handlerthread is stopped
+Thu Apr 03 19:51:29 PDT 2014 WARNING: Tests after test 1 has been cancelled
+Thu Apr 03 19:51:29 PDT 2014 INFO: Run has been finished
+Thu Apr 03 19:51:29 PDT 2014 INFO: NOW, you can go back to menu safe

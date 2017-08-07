@@ -1,0 +1,17 @@
+Tue Jan 14 12:54:50 PST 2014 SUCCESS:The log structure is created
+Tue Jan 14 12:54:50 PST 2014 DEBUG: commandLine :cat /proc/product_name
+Tue Jan 14 12:54:50 PST 2014 DEBUG: commandLine response
+Tue Jan 14 12:54:50 PST 2014 Log Version: 10
+Tue Jan 14 12:54:50 PST 2014 Tool Version: 3.00_3000000
+Tue Jan 14 12:54:50 PST 2014 Device Type: 
+Tue Jan 14 12:54:50 PST 2014 Modem Type/FW: null
+Tue Jan 14 12:54:50 PST 2014 Device Build: null
+Tue Jan 14 12:55:20 PST 2014 INFO: Total Number of Tasks Loaded: 1
+Tue Jan 14 12:55:20 PST 2014 INFO: Task number 1 has started
+Tue Jan 14 12:55:20 PST 2014 INFO: Task Name: WiFiAPCollector has started
+Tue Jan 14 12:55:20 PST 2014 INFO: Task Provider Type: GPS_Provider
+Tue Jan 14 12:55:20 PST 2014 INFO: Task Marker Type: small_red
+Tue Jan 14 12:55:20 PST 2014 INFO: Task Iteration Number: 1000
+Tue Jan 14 12:55:20 PST 2014 SUCCESS: Created location task folder
+Tue Jan 14 12:55:20 PST 2014 INFO: Registered GPS status listener
+Tue Jan 14 12:55:20 PST 2014 Waiting for GPS fix

@@ -1,0 +1,75 @@
+Tue Oct 22 09:42:01 PDT 2013 SUCCESS:The log structure is created
+Tue Oct 22 09:42:01 PDT 2013 DEBUG: commandLine :cat /proc/product_name
+Tue Oct 22 09:42:01 PDT 2013 DEBUG: commandLine response
+Tue Oct 22 09:42:01 PDT 2013 Log Version: 10
+Tue Oct 22 09:42:01 PDT 2013 Tool Version: 3.00_3000000
+Tue Oct 22 09:42:01 PDT 2013 Device Type: 
+Tue Oct 22 09:42:01 PDT 2013 Modem Type/FW: null
+Tue Oct 22 09:42:01 PDT 2013 Device Build: null
+Tue Oct 22 09:42:04 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Tue Oct 22 09:42:04 PDT 2013 INFO: Task number 1 has started
+Tue Oct 22 09:42:04 PDT 2013 INFO: Task Name: LocationTracker has started
+Tue Oct 22 09:42:04 PDT 2013 INFO: Task Provider Type: Network Provider
+Tue Oct 22 09:42:04 PDT 2013 INFO: Task Marker Type: small_red
+Tue Oct 22 09:42:04 PDT 2013 INFO: Task Iteration Number: 1000
+Tue Oct 22 09:42:04 PDT 2013 SUCCESS: Created location task folder
+Tue Oct 22 09:42:04 PDT 2013 SUCCESS: First fix in 0.107 secs
+Tue Oct 22 09:42:04 PDT 2013 37.4092499,-122.0365544,54.394,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:42:04,network,Standard
+Tue Oct 22 09:42:25 PDT 2013 37.4092657,-122.0365555,55.044,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:42:25,network,Standard
+Tue Oct 22 09:42:48 PDT 2013 37.4092565,-122.0365469,54.124,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:42:48,network,Standard
+Tue Oct 22 09:43:05 PDT 2013 37.4092685,-122.0365525,49.181,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:43:05,network,Standard
+Tue Oct 22 09:43:25 PDT 2013 37.4092901,-122.0365374,48.696,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:43:25,network,Standard
+Tue Oct 22 09:43:28 PDT 2013 37.4092613,-122.0365099,51.044,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:43:28,network,Standard
+Tue Oct 22 09:43:47 PDT 2013 37.4092428,-122.0365296,20.714,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:43:47,network,Standard
+Tue Oct 22 09:44:06 PDT 2013 37.4092537,-122.036511,21.006,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:44:06,network,Standard
+Tue Oct 22 09:44:28 PDT 2013 37.4092666,-122.0365311,22.718,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:44:28,network,Standard
+Tue Oct 22 09:44:48 PDT 2013 37.4092967,-122.0365165,24.836,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:44:48,network,Standard
+Tue Oct 22 09:45:08 PDT 2013 37.4092844,-122.0365307,24.194,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:45:08,network,Standard
+Tue Oct 22 09:45:49 PDT 2013 37.4092765,-122.0365391,23.802,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:45:49,network,Standard
+Tue Oct 22 09:46:09 PDT 2013 37.4092638,-122.0364925,21.363,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:46:09,network,Standard
+Tue Oct 22 09:46:29 PDT 2013 37.4092693,-122.0365493,23.562,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:46:29,network,Standard
+Tue Oct 22 09:46:49 PDT 2013 37.4092443,-122.0365022,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:46:49,network,Standard
+Tue Oct 22 09:47:10 PDT 2013 37.4092334,-122.0365138,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:47:10,network,Standard
+Tue Oct 22 09:47:30 PDT 2013 37.4092516,-122.0365065,20.695,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:47:30,network,Standard
+Tue Oct 22 09:47:50 PDT 2013 37.4092783,-122.0365414,24.027,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:47:50,network,Standard
+Tue Oct 22 09:48:10 PDT 2013 37.4092699,-122.0365353,23.13,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:48:10,network,Standard
+Tue Oct 22 09:48:31 PDT 2013 37.4092579,-122.0365239,21.762,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:48:31,network,Standard
+Tue Oct 22 09:49:12 PDT 2013 37.4092804,-122.0365376,24.076,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:49:12,network,Standard
+Tue Oct 22 09:49:32 PDT 2013 37.4092563,-122.0365183,21.45,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:49:32,network,Standard
+Tue Oct 22 09:49:51 PDT 2013 37.4092558,-122.0364877,20.547,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:49:51,network,Standard
+Tue Oct 22 09:50:11 PDT 2013 37.4092546,-122.0365042,20.883,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:50:11,network,Standard
+Tue Oct 22 09:50:23 PDT 2013 37.4092429,-122.0364922,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:50:23,network,Standard
+Tue Oct 22 09:50:24 PDT 2013 37.4092334,-122.0365022,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:50:24,network,Standard
+Tue Oct 22 09:50:45 PDT 2013 37.4092403,-122.0364925,20.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:50:45,network,Standard
+Tue Oct 22 09:51:06 PDT 2013 37.4092677,-122.036507,22.083,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:51:06,network,Standard
+Tue Oct 22 09:51:46 PDT 2013 37.4092595,-122.0364982,21.138,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:51:46,network,Standard
+Tue Oct 22 09:52:06 PDT 2013 37.4092751,-122.0365068,22.714,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:52:06,network,Standard
+Tue Oct 22 09:52:26 PDT 2013 37.4092668,-122.0365214,22.427,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:52:26,network,Standard
+Tue Oct 22 09:53:06 PDT 2013 37.4092395,-122.0365374,20.732,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:53:06,network,Standard
+Tue Oct 22 09:53:46 PDT 2013 37.4035806,-122.0371388,1160.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:53:46,network,Standard
+Tue Oct 22 09:55:26 PDT 2013 37.4084185,-122.0290601,1160.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:55:26,network,Standard
+Tue Oct 22 09:55:47 PDT 2013 37.4068058,-122.031753,1160.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:55:47,network,Standard
+Tue Oct 22 09:56:07 PDT 2013 37.4084185,-122.0290601,1160.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:56:07,network,Standard
+Tue Oct 22 09:57:07 PDT 2013 37.4132564,-122.0209814,1277.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 09:57:07,network,Standard
+Tue Oct 22 10:00:07 PDT 2013 37.4084185,-122.0290601,1160.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:00:07,network,Standard
+Tue Oct 22 10:00:27 PDT 2013 37.4035806,-122.0371388,1160.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:00:27,network,Standard
+Tue Oct 22 10:05:48 PDT 2013 37.4042957,-122.0453735,1166.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:05:48,network,Standard
+Tue Oct 22 10:06:48 PDT 2013 37.4035973,-122.0366046,813.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:06:48,network,Standard
+Tue Oct 22 10:07:08 PDT 2013 37.402899,-122.0278358,813.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:07:08,network,Standard
+Tue Oct 22 10:12:29 PDT 2013 37.374524,-122.064836,1246.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:12:29,network,Standard
+Tue Oct 22 10:13:29 PDT 2013 37.3629074,-122.0627797,955.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:13:29,network,Standard
+Tue Oct 22 10:13:48 PDT 2013 37.3512908,-122.0607234,955.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:13:48,network,Standard
+Tue Oct 22 10:14:32 PDT 2013 37.3424877,-122.0598213,955.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:14:32,network,Standard
+Tue Oct 22 10:14:49 PDT 2013 37.3302227,-122.054714,899.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:14:49,network,Standard
+Tue Oct 22 10:15:08 PDT 2013 37.327875,-122.053037,781.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:15:08,network,Standard
+Tue Oct 22 10:15:28 PDT 2013 37.3231797,-122.0496831,781.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:15:28,network,Standard
+Tue Oct 22 10:21:09 PDT 2013 37.3212346,-122.0387136,781.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:21:09,network,Standard
+Tue Oct 22 10:21:29 PDT 2013 37.3192896,-122.0277441,975.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:21:29,network,Standard
+Tue Oct 22 10:28:58 PDT 2013 37.3204214,-122.0293981,926.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/10/22 10:28:58,network,Standard
+Tue Oct 22 10:32:31 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Tue Oct 22 10:32:36 PDT 2013 DEBUG: Removing all providers. Size: 1
+Tue Oct 22 10:32:36 PDT 2013 DEBUG: Removing the provider: network
+Tue Oct 22 10:32:36 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Tue Oct 22 10:32:36 PDT 2013 WARNING: Tests after test 1 has been cancelled
+Tue Oct 22 10:32:36 PDT 2013 INFO: Run has been finished
+Tue Oct 22 10:32:36 PDT 2013 INFO: NOW, you can go back to menu safe

@@ -1,0 +1,11 @@
+Arch TODOs:
+I might need three components:
+1) Process the sources and form {mac: [lat-long]} and write them to a file- sources folder
+2) Process the database to get one lat long of a mac - 
+3) Processes the [mac, lat-long] to form a sparse database
+
+Enhancements:
+1) Test folder
+2) Move to databases
+3) AWS integration
+4) Add a configuration file for the paths

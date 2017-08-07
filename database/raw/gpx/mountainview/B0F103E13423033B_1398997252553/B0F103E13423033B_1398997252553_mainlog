@@ -1,0 +1,55 @@
+Thu May 01 19:20:52 PDT 2014 SUCCESS:The log structure is created
+Thu May 01 19:20:52 PDT 2014 DEBUG: commandLine :cat /proc/product_name
+Thu May 01 19:20:52 PDT 2014 DEBUG: commandLine response
+Thu May 01 19:20:52 PDT 2014 Log Version: 10
+Thu May 01 19:20:52 PDT 2014 Tool Version: 3.02_3020000
+Thu May 01 19:20:52 PDT 2014 Device Type: 
+Thu May 01 19:20:52 PDT 2014 Modem Type/FW: null
+Thu May 01 19:20:52 PDT 2014 Device Build: null
+Thu May 01 19:20:55 PDT 2014 INFO: Total Number of Tasks Loaded: 1
+Thu May 01 19:20:55 PDT 2014 INFO: Task number 1 has started
+Thu May 01 19:20:55 PDT 2014 INFO: Task Name: LocationTracker has started
+Thu May 01 19:20:55 PDT 2014 INFO: Task Provider Type: GPS Provider
+Thu May 01 19:20:55 PDT 2014 INFO: Task Marker Type: small_red
+Thu May 01 19:20:55 PDT 2014 INFO: Task Iteration Number: 1000
+Thu May 01 19:20:55 PDT 2014 SUCCESS: Created location task folder
+Thu May 01 19:20:55 PDT 2014 INFO: Registered GPS status listener
+Thu May 01 19:21:07 PDT 2014 WARNING: Test(s) are cancelled at test number 1
+Thu May 01 19:21:12 PDT 2014 DEBUG: Removing all providers. Size: 1
+Thu May 01 19:21:12 PDT 2014 DEBUG: Removing the provider: gps
+Thu May 01 19:21:12 PDT 2014 SUCCESS: logBufferWriterLocation closed
+Thu May 01 19:21:12 PDT 2014 WARNING: Tests after test 1 has been cancelled
+Thu May 01 19:21:12 PDT 2014 INFO: Run has been finished
+Thu May 01 19:21:12 PDT 2014 INFO: NOW, you can go back to menu safe
+Thu May 01 19:21:15 PDT 2014 INFO: Total Number of Tasks Loaded: 1
+Thu May 01 19:21:15 PDT 2014 INFO: Task number 2 has started
+Thu May 01 19:21:15 PDT 2014 INFO: Task Name: LocationTracker has started
+Thu May 01 19:21:15 PDT 2014 INFO: Task Provider Type: Network Provider
+Thu May 01 19:21:15 PDT 2014 INFO: Task Marker Type: small_red
+Thu May 01 19:21:15 PDT 2014 INFO: Task Iteration Number: 1000
+Thu May 01 19:21:15 PDT 2014 SUCCESS: Created location task folder
+Thu May 01 19:21:15 PDT 2014 SUCCESS: First fix in 0.437 secs
+Thu May 01 19:21:15 PDT 2014 37.32158900946866,-122.03051868845877,61.05444,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/05/01 19:21:15,network,Standard
+Thu May 01 19:21:21 PDT 2014 WARNING: Test(s) are cancelled at test number 1
+Thu May 01 19:21:26 PDT 2014 DEBUG: Removing all providers. Size: 1
+Thu May 01 19:21:26 PDT 2014 DEBUG: Removing the provider: network
+Thu May 01 19:21:26 PDT 2014 SUCCESS: logBufferWriterLocation closed
+Thu May 01 19:21:26 PDT 2014 WARNING: Tests after test 2 has been cancelled
+Thu May 01 19:21:26 PDT 2014 INFO: Run has been finished
+Thu May 01 19:21:26 PDT 2014 INFO: NOW, you can go back to menu safe
+Thu May 01 19:21:27 PDT 2014 INFO: Total Number of Tasks Loaded: 1
+Thu May 01 19:21:27 PDT 2014 INFO: Task number 3 has started
+Thu May 01 19:21:27 PDT 2014 INFO: Task Name: LocationTracker has started
+Thu May 01 19:21:27 PDT 2014 INFO: Task Provider Type: Network Provider
+Thu May 01 19:21:27 PDT 2014 INFO: Task Marker Type: small_red
+Thu May 01 19:21:27 PDT 2014 INFO: Task Iteration Number: 1000
+Thu May 01 19:21:27 PDT 2014 SUCCESS: Created location task folder
+Thu May 01 19:21:27 PDT 2014 SUCCESS: First fix in 0.026 secs
+Thu May 01 19:21:27 PDT 2014 37.32158899776388,-122.03051861386935,1311.6567,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2014/05/01 19:21:27,network,Standard
+Thu May 01 19:21:29 PDT 2014 WARNING: Test(s) are cancelled at test number 1
+Thu May 01 19:21:34 PDT 2014 DEBUG: Removing all providers. Size: 1
+Thu May 01 19:21:34 PDT 2014 DEBUG: Removing the provider: network
+Thu May 01 19:21:34 PDT 2014 SUCCESS: logBufferWriterLocation closed
+Thu May 01 19:21:34 PDT 2014 WARNING: Tests after test 3 has been cancelled
+Thu May 01 19:21:34 PDT 2014 INFO: Run has been finished
+Thu May 01 19:21:34 PDT 2014 INFO: NOW, you can go back to menu safe

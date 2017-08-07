@@ -1,0 +1,807 @@
+Wed Jul 31 17:15:39 PDT 2013 SUCCESS:The log structure is created
+Wed Jul 31 17:15:39 PDT 2013 DEBUG: commandLine :cat /proc/product_name
+Wed Jul 31 17:15:39 PDT 2013 DEBUG: commandLine response
+Wed Jul 31 17:15:39 PDT 2013 Log Version: 10
+Wed Jul 31 17:15:39 PDT 2013 Tool Version: 3.00_3000000
+Wed Jul 31 17:15:39 PDT 2013 Device Type: 
+Wed Jul 31 17:15:39 PDT 2013 Modem Type/FW: null
+Wed Jul 31 17:15:39 PDT 2013 Device Build: null
+Wed Jul 31 17:16:10 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Wed Jul 31 17:16:10 PDT 2013 INFO: Task number 1 has started
+Wed Jul 31 17:16:10 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:16:10 PDT 2013 INFO: Task Provider Type: Network Provider
+Wed Jul 31 17:16:10 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:16:10 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:16:10 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:16:15 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:16:15 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:16:15 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:16:15 PDT 2013 INFO: Starting session
+Wed Jul 31 17:16:16 PDT 2013 SUCCESS: First fix in 0.85 secs
+Wed Jul 31 17:16:16 PDT 2013 37.3216224,-122.0306154,27.039,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:16:16,network,Standard
+Wed Jul 31 17:16:16 PDT 2013 SUCCESS: Iteration 1 is completed
+Wed Jul 31 17:16:16 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:16:21 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:16:21 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:16:21 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:16:21 PDT 2013 INFO: Starting session
+Wed Jul 31 17:16:22 PDT 2013 SUCCESS: First fix in 0.909 secs
+Wed Jul 31 17:16:22 PDT 2013 37.3215838,-122.0306045,37.915,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:16:22,network,Standard
+Wed Jul 31 17:16:22 PDT 2013 SUCCESS: Iteration 2 is completed
+Wed Jul 31 17:16:22 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:16:27 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:16:28 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:16:28 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:16:28 PDT 2013 INFO: Starting session
+Wed Jul 31 17:16:28 PDT 2013 SUCCESS: First fix in 0.914 secs
+Wed Jul 31 17:16:28 PDT 2013 37.3216026,-122.0306072,31.542,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:16:28,network,Standard
+Wed Jul 31 17:16:29 PDT 2013 SUCCESS: Iteration 3 is completed
+Wed Jul 31 17:16:29 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:16:34 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:16:34 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:16:34 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:16:34 PDT 2013 INFO: Starting session
+Wed Jul 31 17:16:35 PDT 2013 SUCCESS: First fix in 0.902 secs
+Wed Jul 31 17:16:35 PDT 2013 37.3215827,-122.0306243,35.015,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:16:35,network,Standard
+Wed Jul 31 17:16:35 PDT 2013 SUCCESS: Iteration 4 is completed
+Wed Jul 31 17:16:35 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:16:40 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:16:40 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:16:40 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:16:40 PDT 2013 INFO: Starting session
+Wed Jul 31 17:16:41 PDT 2013 SUCCESS: First fix in 0.912 secs
+Wed Jul 31 17:16:41 PDT 2013 37.3215935,-122.0306156,31.859,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:16:41,network,Standard
+Wed Jul 31 17:16:41 PDT 2013 SUCCESS: Iteration 5 is completed
+Wed Jul 31 17:16:41 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:16:46 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:16:46 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:16:46 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:16:46 PDT 2013 INFO: Starting session
+Wed Jul 31 17:16:46 PDT 2013 SUCCESS: First fix in 0.856 secs
+Wed Jul 31 17:16:46 PDT 2013 37.3215918,-122.0306096,31.39,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:16:46,network,Standard
+Wed Jul 31 17:16:47 PDT 2013 SUCCESS: Iteration 6 is completed
+Wed Jul 31 17:16:47 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:16:52 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:16:52 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:16:52 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:16:52 PDT 2013 INFO: Starting session
+Wed Jul 31 17:16:53 PDT 2013 SUCCESS: First fix in 0.903 secs
+Wed Jul 31 17:16:53 PDT 2013 37.3215944,-122.0306077,31.331,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:16:53,network,Standard
+Wed Jul 31 17:16:53 PDT 2013 SUCCESS: Iteration 7 is completed
+Wed Jul 31 17:16:53 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:16:58 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:16:58 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:16:58 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:16:58 PDT 2013 INFO: Starting session
+Wed Jul 31 17:16:59 PDT 2013 SUCCESS: First fix in 0.852 secs
+Wed Jul 31 17:16:59 PDT 2013 37.3215932,-122.0306159,31.872,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:16:59,network,Standard
+Wed Jul 31 17:16:59 PDT 2013 SUCCESS: Iteration 8 is completed
+Wed Jul 31 17:16:59 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:17:04 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:17:04 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:17:04 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:17:04 PDT 2013 INFO: Starting session
+Wed Jul 31 17:17:05 PDT 2013 SUCCESS: First fix in 0.872 secs
+Wed Jul 31 17:17:05 PDT 2013 37.3215953,-122.0306039,31.092,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:17:05,network,Standard
+Wed Jul 31 17:17:05 PDT 2013 SUCCESS: Iteration 9 is completed
+Wed Jul 31 17:17:05 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:17:10 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:17:10 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:17:10 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:17:10 PDT 2013 INFO: Starting session
+Wed Jul 31 17:17:10 PDT 2013 SUCCESS: First fix in 0.737 secs
+Wed Jul 31 17:17:10 PDT 2013 37.321586,-122.0305884,29.74,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:17:10,network,Standard
+Wed Jul 31 17:17:11 PDT 2013 SUCCESS: Iteration 10 is completed
+Wed Jul 31 17:17:11 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:17:11 PDT 2013 DEBUG: Removing all providers. Size: 0
+Wed Jul 31 17:17:11 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:17:11 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:17:11 PDT 2013 INFO: Task number 1 has been completed
+Wed Jul 31 17:17:11 PDT 2013 INFO: Run has been finished
+Wed Jul 31 17:17:11 PDT 2013 INFO: NOW, you can go back to menu safe
+Wed Jul 31 17:26:23 PDT 2013 INFO: Total Number of Tasks Loaded: 8
+Wed Jul 31 17:26:23 PDT 2013 INFO: Task number 2 has started
+Wed Jul 31 17:26:23 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:26:23 PDT 2013 INFO: Task Provider Type: Network Provider
+Wed Jul 31 17:26:23 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:26:23 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:26:23 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:26:23 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:26:23 PDT 2013 Waiting for GPS fix
+Wed Jul 31 17:26:56 PDT 2013 SUCCESS: First fix in 33.573 secs
+Wed Jul 31 17:26:56 PDT 2013 37.32107268,-122.0302061,24.0,65.2,1.25,21,7,33.3,32.2,32.0,30.9,null,small_red,2013/07/31 17:26:56,gps,Standard
+Wed Jul 31 17:26:57 PDT 2013 First GPS fix received: 37.32107268 -122.0302061
+Wed Jul 31 17:26:57 PDT 2013 INFO: Sleeping 15 secs to increase GPS accuracy
+Wed Jul 31 17:26:57 PDT 2013 37.32111616,-122.03019368,16.0,40.0,1.25,21,7,33.3,32.2,26.6,26.5,null,small_red,2013/07/31 17:26:57,gps,Standard
+Wed Jul 31 17:26:58 PDT 2013 37.32113264,-122.03018434,16.0,53.7,1.0,21,7,33.3,32.2,26.2,26.1,null,small_red,2013/07/31 17:26:58,gps,Standard
+Wed Jul 31 17:26:59 PDT 2013 37.32114819,-122.03016992,14.0,52.1,1.0,21,7,33.3,32.2,28.7,28.4,null,small_red,2013/07/31 17:26:59,gps,Standard
+Wed Jul 31 17:27:00 PDT 2013 37.32115991,-122.03016665,12.0,52.3,1.0,21,7,33.3,32.2,26.2,26.0,null,small_red,2013/07/31 17:27:00,gps,Standard
+Wed Jul 31 17:27:02 PDT 2013 37.32116037,-122.03017813,8.0,93.3,0.75,20,8,33.3,32.6,32.3,32.2,null,small_red,2013/07/31 17:27:02,gps,Standard
+Wed Jul 31 17:27:05 PDT 2013 37.32115966,-122.03019594,4.0,96.2,1.0,21,9,33.3,33.1,32.2,30.3,null,small_red,2013/07/31 17:27:05,gps,Standard
+Wed Jul 31 17:27:09 PDT 2013 37.32116642,-122.03018084,3.0,95.3,1.0,21,9,33.3,33.0,32.5,32.2,null,small_red,2013/07/31 17:27:09,gps,Standard
+Wed Jul 31 17:27:11 PDT 2013 37.32116714,-122.03016043,4.0,90.9,1.0,22,11,33.3,31.5,31.1,29.9,null,small_red,2013/07/31 17:27:11,gps,Standard
+Wed Jul 31 17:27:12 PDT 2013 37.32116931,-122.03014746,4.0,83.7,1.0,22,11,33.3,31.1,30.8,27.8,null,small_red,2013/07/31 17:27:12,gps,Standard
+Wed Jul 31 17:27:13 PDT 2013 37.32117196,-122.03013195,4.0,84.5,1.0,22,11,31.2,30.7,29.8,29.8,null,small_red,2013/07/31 17:27:13,gps,Standard
+Wed Jul 31 17:27:14 PDT 2013 37.32117114,-122.0301129,4.0,94.8,1.25,22,11,30.7,29.8,28.7,28.4,null,small_red,2013/07/31 17:27:14,gps,Standard
+Wed Jul 31 17:27:15 PDT 2013 37.32116841,-122.03009369,4.0,99.5,1.25,22,11,30.7,29.8,28.7,28.4,null,small_red,2013/07/31 17:27:15,gps,Standard
+Wed Jul 31 17:27:17 PDT 2013 37.32116568,-122.03007598,5.0,101.4,1.25,22,11,30.7,30.3,27.6,25.8,null,small_red,2013/07/31 17:27:17,gps,Standard
+Wed Jul 31 17:27:17 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:27:17 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:27:17 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:27:17 PDT 2013 INFO: Starting session
+Wed Jul 31 17:27:17 PDT 2013 37.3211647,-122.03005798,5.0,95.8,1.25,22,11,30.7,30.3,27.9,26.6,null,small_red,2013/07/31 17:27:17,gps,Standard
+Wed Jul 31 17:27:18 PDT 2013 SUCCESS: First fix in 0.668 secs
+Wed Jul 31 17:27:18 PDT 2013 37.3212338,-122.0309014,55.497,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:27:18,network,Standard
+Wed Jul 31 17:27:18 PDT 2013 SUCCESS: Distance to reference is 75.14959
+Wed Jul 31 17:27:18 PDT 2013 SUCCESS: Iteration 1 is completed
+Wed Jul 31 17:27:18 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:27:18 PDT 2013 37.32116463,-122.03004251,5.0,96.7,1.25,22,11,30.7,30.3,27.1,26.5,null,small_red,2013/07/31 17:27:18,gps,Standard
+Wed Jul 31 17:27:19 PDT 2013 37.32116309,-122.03002997,5.0,96.2,1.25,22,11,30.7,30.3,27.1,26.2,null,small_red,2013/07/31 17:27:19,gps,Standard
+Wed Jul 31 17:27:21 PDT 2013 37.32115734,-122.03001119,6.0,106.5,1.0,22,11,30.7,30.3,27.3,26.3,null,small_red,2013/07/31 17:27:21,gps,Standard
+Wed Jul 31 17:27:23 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:27:23 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:27:23 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:27:23 PDT 2013 INFO: Starting session
+Wed Jul 31 17:27:23 PDT 2013 SUCCESS: First fix in 0.669 secs
+Wed Jul 31 17:27:23 PDT 2013 37.3210471,-122.0300669,33.297,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:27:23,network,Standard
+Wed Jul 31 17:27:23 PDT 2013 37.32114578,-122.02999408,9.0,116.8,1.0,22,11,30.7,29.7,29.4,27.4,null,small_red,2013/07/31 17:27:23,gps,Standard
+Wed Jul 31 17:27:23 PDT 2013 SUCCESS: Distance to reference is 12.712341
+Wed Jul 31 17:27:23 PDT 2013 SUCCESS: Iteration 2 is completed
+Wed Jul 31 17:27:23 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:27:24 PDT 2013 37.32113569,-122.02998779,9.0,124.3,1.0,22,11,30.7,29.7,26.1,25.1,null,small_red,2013/07/31 17:27:24,gps,Standard
+Wed Jul 31 17:27:25 PDT 2013 37.32112672,-122.0299801,9.0,127.3,1.0,22,11,30.7,29.8,29.7,29.0,null,small_red,2013/07/31 17:27:25,gps,Standard
+Wed Jul 31 17:27:26 PDT 2013 37.32111859,-122.02997365,9.0,133.6,1.0,22,11,30.7,29.7,29.0,27.0,null,small_red,2013/07/31 17:27:26,gps,Standard
+Wed Jul 31 17:27:27 PDT 2013 37.32110768,-122.02996883,8.0,140.2,1.0,22,11,30.7,29.7,28.4,28.3,null,small_red,2013/07/31 17:27:27,gps,Standard
+Wed Jul 31 17:27:28 PDT 2013 37.32109738,-122.02996426,8.0,147.5,1.0,22,11,30.7,29.7,29.7,28.0,null,small_red,2013/07/31 17:27:28,gps,Standard
+Wed Jul 31 17:27:28 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:27:28 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:27:28 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:27:28 PDT 2013 INFO: Starting session
+Wed Jul 31 17:27:29 PDT 2013 SUCCESS: First fix in 0.854 secs
+Wed Jul 31 17:27:29 PDT 2013 37.3210775,-122.0300245,30.897,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:27:29,network,Standard
+Wed Jul 31 17:27:29 PDT 2013 SUCCESS: Distance to reference is 5.7773294
+Wed Jul 31 17:27:29 PDT 2013 SUCCESS: Iteration 3 is completed
+Wed Jul 31 17:27:29 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:27:29 PDT 2013 37.32108385,-122.02995849,9.0,150.5,1.25,22,11,30.7,29.7,28.1,25.1,null,small_red,2013/07/31 17:27:29,gps,Standard
+Wed Jul 31 17:27:30 PDT 2013 37.32106914,-122.02995044,9.0,146.0,1.25,22,11,30.7,29.7,28.0,27.0,null,small_red,2013/07/31 17:27:30,gps,Standard
+Wed Jul 31 17:27:31 PDT 2013 37.32105088,-122.02993798,9.0,141.8,1.75,22,11,30.7,29.7,28.0,26.8,null,small_red,2013/07/31 17:27:31,gps,Standard
+Wed Jul 31 17:27:32 PDT 2013 37.3210385,-122.02992965,9.0,141.6,1.5,22,11,30.7,30.3,29.7,27.3,null,small_red,2013/07/31 17:27:32,gps,Standard
+Wed Jul 31 17:27:33 PDT 2013 37.32102967,-122.02991983,9.0,139.1,1.25,22,11,30.7,29.7,29.6,28.9,null,small_red,2013/07/31 17:27:33,gps,Standard
+Wed Jul 31 17:27:34 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:27:34 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:27:34 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:27:34 PDT 2013 INFO: Starting session
+Wed Jul 31 17:27:35 PDT 2013 37.32102552,-122.02990156,9.0,114.6,1.0,22,11,30.7,29.7,27.3,26.5,null,small_red,2013/07/31 17:27:35,gps,Standard
+Wed Jul 31 17:27:36 PDT 2013 SUCCESS: First fix in 1.178 secs
+Wed Jul 31 17:27:36 PDT 2013 37.3210365,-122.0300479,31.105,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:27:36,network,Standard
+Wed Jul 31 17:27:36 PDT 2013 SUCCESS: Distance to reference is 13.028117
+Wed Jul 31 17:27:36 PDT 2013 SUCCESS: Iteration 4 is completed
+Wed Jul 31 17:27:36 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:27:37 PDT 2013 37.32103628,-122.0298865,7.0,114.6,0.75,22,11,30.7,29.7,28.7,25.9,null,small_red,2013/07/31 17:27:37,gps,Standard
+Wed Jul 31 17:27:38 PDT 2013 37.3210447,-122.02987301,8.0,70.2,0.75,22,11,30.7,29.7,28.6,26.8,null,small_red,2013/07/31 17:27:38,gps,Standard
+Wed Jul 31 17:27:39 PDT 2013 37.32104926,-122.02985619,7.0,78.6,1.0,22,11,30.7,29.7,26.1,24.7,null,small_red,2013/07/31 17:27:39,gps,Standard
+Wed Jul 31 17:27:40 PDT 2013 37.32105145,-122.02984191,12.0,84.6,1.0,21,10,30.7,29.7,24.7,23.9,null,small_red,2013/07/31 17:27:40,gps,Standard
+Wed Jul 31 17:27:41 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:27:41 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:27:41 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:27:41 PDT 2013 INFO: Starting session
+Wed Jul 31 17:27:41 PDT 2013 SUCCESS: First fix in 0.713 secs
+Wed Jul 31 17:27:41 PDT 2013 37.3210068,-122.0298134,32.939,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:27:41,network,Standard
+Wed Jul 31 17:27:41 PDT 2013 SUCCESS: Distance to reference is 5.3487134
+Wed Jul 31 17:27:41 PDT 2013 37.32105326,-122.02982944,12.0,87.3,1.0,22,11,30.7,29.7,24.0,23.5,null,small_red,2013/07/31 17:27:41,gps,Standard
+Wed Jul 31 17:27:41 PDT 2013 SUCCESS: Iteration 5 is completed
+Wed Jul 31 17:27:41 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:27:43 PDT 2013 37.32105294,-122.02981054,12.0,80.9,1.0,22,11,30.7,29.7,28.5,24.1,null,small_red,2013/07/31 17:27:43,gps,Standard
+Wed Jul 31 17:27:45 PDT 2013 37.32105136,-122.02979093,11.0,89.6,0.75,22,11,30.7,29.7,25.0,24.8,null,small_red,2013/07/31 17:27:45,gps,Standard
+Wed Jul 31 17:27:46 PDT 2013 37.32105484,-122.02977932,11.0,86.3,0.75,22,11,30.7,29.7,25.6,25.5,null,small_red,2013/07/31 17:27:46,gps,Standard
+Wed Jul 31 17:27:46 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:27:46 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:27:46 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:27:46 PDT 2013 INFO: Starting session
+Wed Jul 31 17:27:47 PDT 2013 SUCCESS: First fix in 0.705 secs
+Wed Jul 31 17:27:47 PDT 2013 37.3210305,-122.0298315,32.442,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:27:47,network,Standard
+Wed Jul 31 17:27:47 PDT 2013 SUCCESS: Distance to reference is 5.356131
+Wed Jul 31 17:27:47 PDT 2013 SUCCESS: Iteration 6 is completed
+Wed Jul 31 17:27:47 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:27:47 PDT 2013 37.3210544,-122.02976777,12.0,91.9,0.75,22,10,30.7,29.7,25.4,21.4,null,small_red,2013/07/31 17:27:47,gps,Standard
+Wed Jul 31 17:27:49 PDT 2013 37.3210492,-122.02974621,12.0,105.4,1.0,22,10,30.7,29.7,28.5,25.1,null,small_red,2013/07/31 17:27:49,gps,Standard
+Wed Jul 31 17:27:50 PDT 2013 37.32104638,-122.02973337,12.0,107.2,1.0,21,10,30.7,30.2,29.7,27.3,null,small_red,2013/07/31 17:27:50,gps,Standard
+Wed Jul 31 17:27:51 PDT 2013 37.32104199,-122.02971806,12.0,110.9,1.0,21,9,30.7,29.7,29.7,27.9,null,small_red,2013/07/31 17:27:51,gps,Standard
+Wed Jul 31 17:27:52 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:27:52 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:27:52 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:27:52 PDT 2013 INFO: Starting session
+Wed Jul 31 17:27:52 PDT 2013 37.32103748,-122.02970364,13.0,113.8,1.0,21,9,30.7,29.7,26.8,23.7,null,small_red,2013/07/31 17:27:52,gps,Standard
+Wed Jul 31 17:27:53 PDT 2013 SUCCESS: First fix in 0.603 secs
+Wed Jul 31 17:27:53 PDT 2013 37.3210341,-122.0298893,28.696,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:27:53,network,Standard
+Wed Jul 31 17:27:53 PDT 2013 SUCCESS: Distance to reference is 16.460443
+Wed Jul 31 17:27:53 PDT 2013 SUCCESS: Iteration 7 is completed
+Wed Jul 31 17:27:53 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:27:53 PDT 2013 37.32103074,-122.02969342,13.0,116.9,1.0,21,9,30.7,29.7,27.9,25.8,null,small_red,2013/07/31 17:27:53,gps,Standard
+Wed Jul 31 17:27:54 PDT 2013 37.32102203,-122.02968723,13.0,121.8,1.0,21,9,30.7,29.7,26.0,25.1,null,small_red,2013/07/31 17:27:54,gps,Standard
+Wed Jul 31 17:27:55 PDT 2013 37.32101239,-122.02967838,13.0,126.7,1.0,21,7,32.5,30.7,29.7,28.6,null,small_red,2013/07/31 17:27:55,gps,Standard
+Wed Jul 31 17:27:56 PDT 2013 37.32100247,-122.02966724,15.0,128.4,1.0,21,7,30.7,29.7,27.3,21.5,null,small_red,2013/07/31 17:27:56,gps,Standard
+Wed Jul 31 17:27:57 PDT 2013 37.32099384,-122.02965361,18.0,125.9,1.0,21,7,30.7,30.7,29.7,25.4,null,small_red,2013/07/31 17:27:57,gps,Standard
+Wed Jul 31 17:27:58 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:27:58 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:27:58 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:27:58 PDT 2013 INFO: Starting session
+Wed Jul 31 17:27:58 PDT 2013 SUCCESS: First fix in 0.15 secs
+Wed Jul 31 17:27:58 PDT 2013 37.3210094,-122.0299858,29.4,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:27:58,network,Standard
+Wed Jul 31 17:27:58 PDT 2013 SUCCESS: Distance to reference is 29.494621
+Wed Jul 31 17:27:58 PDT 2013 SUCCESS: Iteration 8 is completed
+Wed Jul 31 17:27:58 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:27:58 PDT 2013 37.32100712,-122.02962663,15.0,92.5,2.0,21,7,30.7,29.7,25.8,24.5,null,small_red,2013/07/31 17:27:58,gps,Standard
+Wed Jul 31 17:27:59 PDT 2013 37.32102758,-122.02960215,18.0,63.9,2.25,22,7,30.7,29.7,27.8,26.2,null,small_red,2013/07/31 17:27:59,gps,Standard
+Wed Jul 31 17:28:00 PDT 2013 37.32104785,-122.02958572,19.0,46.7,2.0,22,7,30.7,29.7,26.6,25.6,null,small_red,2013/07/31 17:28:00,gps,Standard
+Wed Jul 31 17:28:01 PDT 2013 37.32106463,-122.02956851,22.0,47.6,2.0,22,7,30.7,29.7,25.9,23.7,null,small_red,2013/07/31 17:28:01,gps,Standard
+Wed Jul 31 17:28:02 PDT 2013 37.32107917,-122.02955084,24.0,50.2,2.0,22,7,30.7,29.7,27.6,27.0,null,small_red,2013/07/31 17:28:02,gps,Standard
+Wed Jul 31 17:28:03 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:03 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:03 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:03 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:03 PDT 2013 37.32109069,-122.02953602,23.0,51.4,1.75,22,7,30.7,29.7,26.1,24.9,null,small_red,2013/07/31 17:28:03,gps,Standard
+Wed Jul 31 17:28:04 PDT 2013 SUCCESS: First fix in 0.863 secs
+Wed Jul 31 17:28:04 PDT 2013 37.3198572,-122.0285501,909.0,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:04,network,Standard
+Wed Jul 31 17:28:04 PDT 2013 SUCCESS: Distance to reference is 162.41194
+Wed Jul 31 17:28:04 PDT 2013 SUCCESS: Iteration 9 is completed
+Wed Jul 31 17:28:04 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:28:04 PDT 2013 37.32109732,-122.02951917,21.0,60.2,1.75,22,9,30.7,29.7,23.2,22.7,null,small_red,2013/07/31 17:28:04,gps,Standard
+Wed Jul 31 17:28:05 PDT 2013 37.32110049,-122.02950066,21.0,68.8,1.75,22,9,30.7,29.7,21.9,20.9,null,small_red,2013/07/31 17:28:05,gps,Standard
+Wed Jul 31 17:28:06 PDT 2013 37.32110356,-122.02948104,20.0,75.4,1.75,21,9,30.7,29.7,24.0,22.5,null,small_red,2013/07/31 17:28:06,gps,Standard
+Wed Jul 31 17:28:07 PDT 2013 37.32111063,-122.0294603,19.0,71.6,1.75,22,9,30.7,29.7,25.1,24.0,null,small_red,2013/07/31 17:28:07,gps,Standard
+Wed Jul 31 17:28:08 PDT 2013 37.32111944,-122.02944067,22.0,65.6,1.75,22,9,30.7,29.7,24.7,23.9,null,small_red,2013/07/31 17:28:08,gps,Standard
+Wed Jul 31 17:28:09 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:09 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:09 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:09 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:09 PDT 2013 37.32112918,-122.02942125,25.0,61.5,1.75,20,8,30.7,29.7,26.1,23.5,null,small_red,2013/07/31 17:28:09,gps,Standard
+Wed Jul 31 17:28:10 PDT 2013 SUCCESS: First fix in 0.908 secs
+Wed Jul 31 17:28:10 PDT 2013 37.3210361,-122.0294866,60.22,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:10,network,Standard
+Wed Jul 31 17:28:10 PDT 2013 SUCCESS: Distance to reference is 11.843471
+Wed Jul 31 17:28:10 PDT 2013 SUCCESS: Iteration 10 is completed
+Wed Jul 31 17:28:10 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:28:10 PDT 2013 DEBUG: Removing all providers. Size: 1
+Wed Jul 31 17:28:10 PDT 2013 DEBUG: Removing the provider: gps
+Wed Jul 31 17:28:10 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:28:10 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:28:10 PDT 2013 INFO: Task number 2 has been completed
+Wed Jul 31 17:28:10 PDT 2013 INFO: Task number 3 has started
+Wed Jul 31 17:28:10 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:28:10 PDT 2013 INFO: Task Provider Type: Network Provider
+Wed Jul 31 17:28:10 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:28:10 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:28:10 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:28:15 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:15 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:15 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:15 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:16 PDT 2013 SUCCESS: First fix in 1.05 secs
+Wed Jul 31 17:28:16 PDT 2013 37.321067,-122.0293726,60.194,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:16,network,Standard
+Wed Jul 31 17:28:16 PDT 2013 SUCCESS: Distance to reference is 1.1498357E7
+Wed Jul 31 17:28:16 PDT 2013 SUCCESS: Iteration 1 is completed
+Wed Jul 31 17:28:16 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:28:21 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:21 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:21 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:21 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:22 PDT 2013 SUCCESS: First fix in 0.75 secs
+Wed Jul 31 17:28:22 PDT 2013 37.3210744,-122.0293486,52.541,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:22,network,Standard
+Wed Jul 31 17:28:22 PDT 2013 SUCCESS: Distance to reference is 1.1498356E7
+Wed Jul 31 17:28:22 PDT 2013 SUCCESS: Iteration 2 is completed
+Wed Jul 31 17:28:22 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:28:27 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:27 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:27 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:27 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:28 PDT 2013 SUCCESS: First fix in 0.801 secs
+Wed Jul 31 17:28:28 PDT 2013 37.3210578,-122.0294119,51.658,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:28,network,Standard
+Wed Jul 31 17:28:28 PDT 2013 SUCCESS: Distance to reference is 1.1498359E7
+Wed Jul 31 17:28:28 PDT 2013 SUCCESS: Iteration 3 is completed
+Wed Jul 31 17:28:28 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:28:33 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:33 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:33 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:33 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:34 PDT 2013 SUCCESS: First fix in 0.99 secs
+Wed Jul 31 17:28:34 PDT 2013 37.3210416,-122.0294322,50.487,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:34,network,Standard
+Wed Jul 31 17:28:34 PDT 2013 SUCCESS: Distance to reference is 1.1498362E7
+Wed Jul 31 17:28:34 PDT 2013 SUCCESS: Iteration 4 is completed
+Wed Jul 31 17:28:34 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:28:39 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:39 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:39 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:39 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:40 PDT 2013 SUCCESS: First fix in 0.883 secs
+Wed Jul 31 17:28:40 PDT 2013 37.3210622,-122.029389,51.778,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:40,network,Standard
+Wed Jul 31 17:28:40 PDT 2013 SUCCESS: Distance to reference is 1.1498358E7
+Wed Jul 31 17:28:40 PDT 2013 SUCCESS: Iteration 5 is completed
+Wed Jul 31 17:28:40 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:28:45 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:45 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:45 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:45 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:46 PDT 2013 SUCCESS: First fix in 0.821 secs
+Wed Jul 31 17:28:46 PDT 2013 37.3210676,-122.0294055,52.467,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:46,network,Standard
+Wed Jul 31 17:28:46 PDT 2013 SUCCESS: Distance to reference is 1.1498358E7
+Wed Jul 31 17:28:46 PDT 2013 SUCCESS: Iteration 6 is completed
+Wed Jul 31 17:28:46 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:28:51 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:51 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:51 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:51 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:52 PDT 2013 SUCCESS: First fix in 0.759 secs
+Wed Jul 31 17:28:52 PDT 2013 37.32105,-122.0294636,51.79,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:52,network,Standard
+Wed Jul 31 17:28:52 PDT 2013 SUCCESS: Distance to reference is 1.1498362E7
+Wed Jul 31 17:28:52 PDT 2013 SUCCESS: Iteration 7 is completed
+Wed Jul 31 17:28:52 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:28:57 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:28:57 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:28:57 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:28:57 PDT 2013 INFO: Starting session
+Wed Jul 31 17:28:58 PDT 2013 SUCCESS: First fix in 0.767 secs
+Wed Jul 31 17:28:58 PDT 2013 37.3210113,-122.0294541,48.148,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:28:58,network,Standard
+Wed Jul 31 17:28:58 PDT 2013 SUCCESS: Distance to reference is 1.1498365E7
+Wed Jul 31 17:28:58 PDT 2013 SUCCESS: Iteration 8 is completed
+Wed Jul 31 17:28:58 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:03 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:03 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:03 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:03 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:04 PDT 2013 SUCCESS: First fix in 0.77 secs
+Wed Jul 31 17:29:04 PDT 2013 37.3210031,-122.0295992,51.459,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:04,network,Standard
+Wed Jul 31 17:29:04 PDT 2013 SUCCESS: Distance to reference is 1.149837E7
+Wed Jul 31 17:29:04 PDT 2013 SUCCESS: Iteration 9 is completed
+Wed Jul 31 17:29:04 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:09 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:09 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:09 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:09 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:10 PDT 2013 SUCCESS: First fix in 0.662 secs
+Wed Jul 31 17:29:10 PDT 2013 37.321067,-122.0293816,68.41,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:10,network,Standard
+Wed Jul 31 17:29:10 PDT 2013 SUCCESS: Distance to reference is 1.1498358E7
+Wed Jul 31 17:29:10 PDT 2013 SUCCESS: Iteration 10 is completed
+Wed Jul 31 17:29:10 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:10 PDT 2013 DEBUG: Removing all providers. Size: 0
+Wed Jul 31 17:29:10 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:29:10 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:29:10 PDT 2013 INFO: Task number 3 has been completed
+Wed Jul 31 17:29:10 PDT 2013 INFO: Task number 4 has started
+Wed Jul 31 17:29:10 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:29:10 PDT 2013 INFO: Task Provider Type: Network Provider
+Wed Jul 31 17:29:10 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:29:10 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:29:10 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:29:15 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:15 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:15 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:15 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:15 PDT 2013 SUCCESS: First fix in 0.152 secs
+Wed Jul 31 17:29:15 PDT 2013 37.3210947,-122.0292899,58.414,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:15,network,Standard
+Wed Jul 31 17:29:15 PDT 2013 SUCCESS: Iteration 1 is completed
+Wed Jul 31 17:29:15 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:20 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:20 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:20 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:20 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:20 PDT 2013 SUCCESS: First fix in 0.203 secs
+Wed Jul 31 17:29:20 PDT 2013 37.3204984,-122.0294778,78.995,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:20,network,Standard
+Wed Jul 31 17:29:20 PDT 2013 SUCCESS: Iteration 2 is completed
+Wed Jul 31 17:29:20 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:25 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:25 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:25 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:25 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:25 PDT 2013 SUCCESS: First fix in 0.056 secs
+Wed Jul 31 17:29:25 PDT 2013 37.3204984,-122.0294778,78.995,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:25,network,Standard
+Wed Jul 31 17:29:25 PDT 2013 SUCCESS: Iteration 3 is completed
+Wed Jul 31 17:29:25 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:30 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:30 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:30 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:30 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:32 PDT 2013 SUCCESS: First fix in 1.227 secs
+Wed Jul 31 17:29:32 PDT 2013 37.3203745,-122.0295524,62.159,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:32,network,Standard
+Wed Jul 31 17:29:32 PDT 2013 SUCCESS: Iteration 4 is completed
+Wed Jul 31 17:29:32 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:37 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:37 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:37 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:37 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:37 PDT 2013 SUCCESS: First fix in 0.177 secs
+Wed Jul 31 17:29:37 PDT 2013 37.3203222,-122.0296484,67.085,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:37,network,Standard
+Wed Jul 31 17:29:37 PDT 2013 SUCCESS: Iteration 5 is completed
+Wed Jul 31 17:29:37 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:42 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:42 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:42 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:42 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:43 PDT 2013 SUCCESS: First fix in 0.889 secs
+Wed Jul 31 17:29:43 PDT 2013 37.3200274,-122.029575,49.532,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:43,network,Standard
+Wed Jul 31 17:29:43 PDT 2013 SUCCESS: Iteration 6 is completed
+Wed Jul 31 17:29:43 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:48 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:48 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:48 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:48 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:49 PDT 2013 SUCCESS: First fix in 0.662 secs
+Wed Jul 31 17:29:49 PDT 2013 37.319986,-122.0296872,70.271,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:49,network,Standard
+Wed Jul 31 17:29:49 PDT 2013 SUCCESS: Iteration 7 is completed
+Wed Jul 31 17:29:49 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:29:54 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:29:54 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:29:54 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:29:54 PDT 2013 INFO: Starting session
+Wed Jul 31 17:29:55 PDT 2013 SUCCESS: First fix in 0.887 secs
+Wed Jul 31 17:29:55 PDT 2013 37.3199853,-122.0296941,57.186,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:29:55,network,Standard
+Wed Jul 31 17:29:55 PDT 2013 SUCCESS: Iteration 8 is completed
+Wed Jul 31 17:29:55 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:30:00 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:30:00 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:30:00 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:30:00 PDT 2013 INFO: Starting session
+Wed Jul 31 17:30:01 PDT 2013 SUCCESS: First fix in 0.82 secs
+Wed Jul 31 17:30:01 PDT 2013 37.3200001,-122.0297012,56.312,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:30:01,network,Standard
+Wed Jul 31 17:30:01 PDT 2013 SUCCESS: Iteration 9 is completed
+Wed Jul 31 17:30:01 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:30:06 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:30:06 PDT 2013 WARNING: No information to delete for this provider
+Wed Jul 31 17:30:06 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:30:06 PDT 2013 INFO: Starting session
+Wed Jul 31 17:30:07 PDT 2013 SUCCESS: First fix in 0.803 secs
+Wed Jul 31 17:30:07 PDT 2013 37.3200012,-122.029702,56.259,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/07/31 17:30:07,network,Standard
+Wed Jul 31 17:30:07 PDT 2013 SUCCESS: Iteration 10 is completed
+Wed Jul 31 17:30:07 PDT 2013 DEBUG: Removing the single provider: network
+Wed Jul 31 17:30:07 PDT 2013 DEBUG: Removing all providers. Size: 0
+Wed Jul 31 17:30:07 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:30:07 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:30:07 PDT 2013 INFO: Task number 4 has been completed
+Wed Jul 31 17:30:07 PDT 2013 INFO: Task number 5 has started
+Wed Jul 31 17:30:07 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:30:07 PDT 2013 INFO: Task Provider Type: GPS Provider
+Wed Jul 31 17:30:07 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:30:07 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:30:07 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:30:12 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:30:12 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:30:12 PDT 2013 INFO: Starting session
+Wed Jul 31 17:30:12 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:30:16 PDT 2013 SUCCESS: First fix in 3.87 secs
+Wed Jul 31 17:30:16 PDT 2013 37.32029153,-122.029598,13.0,255.2,1.5,20,6,34.4,34.3,31.1,30.2,null,small_red,2013/07/31 17:30:16,gps,Standard
+Wed Jul 31 17:30:16 PDT 2013 SUCCESS: Iteration 1 is completed
+Wed Jul 31 17:30:16 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:30:21 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:30:21 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:30:21 PDT 2013 INFO: Starting session
+Wed Jul 31 17:30:21 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:30:24 PDT 2013 SUCCESS: First fix in 2.987 secs
+Wed Jul 31 17:30:24 PDT 2013 37.3200568,-122.02980632,6.0,248.4,1.3462912,20,7,33.2,32.4,31.9,31.1,null,small_red,2013/07/31 17:30:24,gps,Standard
+Wed Jul 31 17:30:24 PDT 2013 SUCCESS: Iteration 2 is completed
+Wed Jul 31 17:30:24 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:30:29 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:30:29 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:30:29 PDT 2013 INFO: Starting session
+Wed Jul 31 17:30:29 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:30:34 PDT 2013 SUCCESS: First fix in 4.683 secs
+Wed Jul 31 17:30:34 PDT 2013 37.32015231,-122.02987702,10.0,273.0,1.25,20,8,35.3,31.4,30.7,30.3,null,small_red,2013/07/31 17:30:34,gps,Standard
+Wed Jul 31 17:30:34 PDT 2013 SUCCESS: Iteration 3 is completed
+Wed Jul 31 17:30:34 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:30:39 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:30:39 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:30:39 PDT 2013 INFO: Starting session
+Wed Jul 31 17:30:39 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:30:44 PDT 2013 SUCCESS: First fix in 4.874 secs
+Wed Jul 31 17:30:44 PDT 2013 37.32000391,-122.03016022,23.0,317.7,3.0516388,20,6,26.4,26.1,25.1,24.4,null,small_red,2013/07/31 17:30:44,gps,Standard
+Wed Jul 31 17:30:44 PDT 2013 SUCCESS: Iteration 4 is completed
+Wed Jul 31 17:30:44 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:30:49 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:30:49 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:30:49 PDT 2013 INFO: Starting session
+Wed Jul 31 17:30:49 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:30:54 PDT 2013 SUCCESS: First fix in 4.949 secs
+Wed Jul 31 17:30:54 PDT 2013 37.32011498,-122.03021324,16.0,75.9,6.0827627,20,7,23.2,22.5,22.3,20.7,null,small_red,2013/07/31 17:30:54,gps,Standard
+Wed Jul 31 17:30:54 PDT 2013 SUCCESS: Iteration 5 is completed
+Wed Jul 31 17:30:54 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:30:59 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:30:59 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:30:59 PDT 2013 INFO: Starting session
+Wed Jul 31 17:30:59 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:31:05 PDT 2013 SUCCESS: First fix in 5.985 secs
+Wed Jul 31 17:31:05 PDT 2013 37.32018368,-122.03022428,11.0,290.0,1.3462912,20,9,27.2,25.3,23.0,22.8,null,small_red,2013/07/31 17:31:05,gps,Standard
+Wed Jul 31 17:31:05 PDT 2013 SUCCESS: Iteration 6 is completed
+Wed Jul 31 17:31:05 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:31:10 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:31:10 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:31:10 PDT 2013 INFO: Starting session
+Wed Jul 31 17:31:10 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:31:15 PDT 2013 SUCCESS: First fix in 4.769 secs
+Wed Jul 31 17:31:15 PDT 2013 37.32030062,-122.03033395,17.0,258.9,1.118034,20,7,30.1,27.9,27.8,26.7,null,small_red,2013/07/31 17:31:15,gps,Standard
+Wed Jul 31 17:31:15 PDT 2013 SUCCESS: Iteration 7 is completed
+Wed Jul 31 17:31:15 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:31:20 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:31:20 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:31:20 PDT 2013 INFO: Starting session
+Wed Jul 31 17:31:20 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:31:24 PDT 2013 SUCCESS: First fix in 3.965 secs
+Wed Jul 31 17:31:24 PDT 2013 37.32025858,-122.03053628,11.0,204.5,2.5,20,8,27.5,25.9,25.3,24.7,null,small_red,2013/07/31 17:31:24,gps,Standard
+Wed Jul 31 17:31:24 PDT 2013 SUCCESS: Iteration 8 is completed
+Wed Jul 31 17:31:24 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:31:29 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:31:29 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:31:29 PDT 2013 INFO: Starting session
+Wed Jul 31 17:31:29 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:31:32 PDT 2013 SUCCESS: First fix in 2.758 secs
+Wed Jul 31 17:31:32 PDT 2013 37.31993543,-122.03067112,9.0,32.4,3.535534,21,5,33.4,30.4,27.2,26.9,null,small_red,2013/07/31 17:31:32,gps,Standard
+Wed Jul 31 17:31:32 PDT 2013 SUCCESS: Iteration 9 is completed
+Wed Jul 31 17:31:32 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:31:37 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:31:37 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:31:37 PDT 2013 INFO: Starting session
+Wed Jul 31 17:31:37 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:31:41 PDT 2013 SUCCESS: First fix in 4.081 secs
+Wed Jul 31 17:31:41 PDT 2013 37.31999984,-122.03050191,15.0,176.1,1.677051,20,9,28.2,27.1,27.1,27.0,null,small_red,2013/07/31 17:31:41,gps,Standard
+Wed Jul 31 17:31:41 PDT 2013 SUCCESS: Iteration 10 is completed
+Wed Jul 31 17:31:41 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:31:41 PDT 2013 DEBUG: Removing all providers. Size: 0
+Wed Jul 31 17:31:41 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:31:41 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:31:41 PDT 2013 INFO: Task number 5 has been completed
+Wed Jul 31 17:31:41 PDT 2013 INFO: Task number 6 has started
+Wed Jul 31 17:31:41 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:31:41 PDT 2013 INFO: Task Provider Type: GPS Provider
+Wed Jul 31 17:31:41 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:31:41 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:31:41 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:31:46 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:31:46 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:31:46 PDT 2013 INFO: Starting session
+Wed Jul 31 17:31:46 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:31:50 PDT 2013 SUCCESS: First fix in 3.976 secs
+Wed Jul 31 17:31:50 PDT 2013 37.31985032,-122.03077495,20.0,212.9,0.75,21,9,31.5,29.8,29.3,28.0,null,small_red,2013/07/31 17:31:50,gps,Standard
+Wed Jul 31 17:31:50 PDT 2013 SUCCESS: Distance to reference is 1.1498523E7
+Wed Jul 31 17:31:50 PDT 2013 SUCCESS: Iteration 1 is completed
+Wed Jul 31 17:31:50 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:31:55 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:31:55 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:31:55 PDT 2013 INFO: Starting session
+Wed Jul 31 17:31:55 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:32:02 PDT 2013 SUCCESS: First fix in 6.792 secs
+Wed Jul 31 17:32:02 PDT 2013 37.31982357,-122.03072521,10.0,191.1,3.6055512,20,9,28.2,25.2,25.2,25.1,null,small_red,2013/07/31 17:32:02,gps,Standard
+Wed Jul 31 17:32:02 PDT 2013 SUCCESS: Distance to reference is 1.1498524E7
+Wed Jul 31 17:32:02 PDT 2013 SUCCESS: Iteration 2 is completed
+Wed Jul 31 17:32:02 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:32:07 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:32:07 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:32:07 PDT 2013 INFO: Starting session
+Wed Jul 31 17:32:07 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:32:11 PDT 2013 SUCCESS: First fix in 3.934 secs
+Wed Jul 31 17:32:11 PDT 2013 37.319630599999996,-122.03071485,13.0,186.2,4.776243,20,8,28.2,26.9,26.8,25.4,null,small_red,2013/07/31 17:32:11,gps,Standard
+Wed Jul 31 17:32:11 PDT 2013 SUCCESS: Distance to reference is 1.1498545E7
+Wed Jul 31 17:32:11 PDT 2013 SUCCESS: Iteration 3 is completed
+Wed Jul 31 17:32:11 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:32:16 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:32:16 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:32:16 PDT 2013 INFO: Starting session
+Wed Jul 31 17:32:16 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:32:22 PDT 2013 SUCCESS: First fix in 5.943 secs
+Wed Jul 31 17:32:22 PDT 2013 37.3196612,-122.03067686,30.0,139.1,1.4142135,20,8,27.6,27.5,27.4,24.4,null,small_red,2013/07/31 17:32:22,gps,Standard
+Wed Jul 31 17:32:22 PDT 2013 SUCCESS: Distance to reference is 1.149854E7
+Wed Jul 31 17:32:22 PDT 2013 SUCCESS: Iteration 4 is completed
+Wed Jul 31 17:32:22 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:32:27 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:32:27 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:32:27 PDT 2013 INFO: Starting session
+Wed Jul 31 17:32:27 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:32:30 PDT 2013 SUCCESS: First fix in 3.227 secs
+Wed Jul 31 17:32:30 PDT 2013 37.31957433,-122.03073566,6.0,192.9,0.559017,21,7,30.8,30.7,29.6,29.2,null,small_red,2013/07/31 17:32:30,gps,Standard
+Wed Jul 31 17:32:30 PDT 2013 SUCCESS: Distance to reference is 1.1498551E7
+Wed Jul 31 17:32:30 PDT 2013 SUCCESS: Iteration 5 is completed
+Wed Jul 31 17:32:30 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:32:35 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:32:35 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:32:35 PDT 2013 INFO: Starting session
+Wed Jul 31 17:32:35 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:32:41 PDT 2013 SUCCESS: First fix in 5.84 secs
+Wed Jul 31 17:32:41 PDT 2013 37.31961891,-122.0310377,6.0,281.6,1.0,20,10,25.9,22.3,22.1,20.0,null,small_red,2013/07/31 17:32:41,gps,Standard
+Wed Jul 31 17:32:41 PDT 2013 SUCCESS: Distance to reference is 1.1498554E7
+Wed Jul 31 17:32:41 PDT 2013 SUCCESS: Iteration 6 is completed
+Wed Jul 31 17:32:41 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:32:46 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:32:46 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:32:46 PDT 2013 INFO: Starting session
+Wed Jul 31 17:32:46 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:32:57 PDT 2013 SUCCESS: First fix in 10.552 secs
+Wed Jul 31 17:32:57 PDT 2013 37.31975965,-122.03107693,8.0,11.0,1.25,20,11,28.5,28.2,26.7,25.2,null,small_red,2013/07/31 17:32:57,gps,Standard
+Wed Jul 31 17:32:57 PDT 2013 SUCCESS: Distance to reference is 1.149854E7
+Wed Jul 31 17:32:57 PDT 2013 SUCCESS: Iteration 7 is completed
+Wed Jul 31 17:32:57 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:33:02 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:33:02 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:33:02 PDT 2013 INFO: Starting session
+Wed Jul 31 17:33:02 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:33:05 PDT 2013 SUCCESS: First fix in 3.623 secs
+Wed Jul 31 17:33:05 PDT 2013 37.31983711,-122.03103044,17.0,25.4,1.25,20,10,24.3,23.1,22.4,21.9,null,small_red,2013/07/31 17:33:05,gps,Standard
+Wed Jul 31 17:33:05 PDT 2013 SUCCESS: Distance to reference is 1.1498531E7
+Wed Jul 31 17:33:05 PDT 2013 SUCCESS: Iteration 8 is completed
+Wed Jul 31 17:33:05 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:33:11 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:33:11 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:33:11 PDT 2013 INFO: Starting session
+Wed Jul 31 17:33:11 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:33:14 PDT 2013 SUCCESS: First fix in 3.848 secs
+Wed Jul 31 17:33:14 PDT 2013 37.31991405,-122.03100762,20.0,354.0,1.0,20,9,26.2,24.3,24.1,22.8,null,small_red,2013/07/31 17:33:14,gps,Standard
+Wed Jul 31 17:33:14 PDT 2013 SUCCESS: Distance to reference is 1.1498522E7
+Wed Jul 31 17:33:14 PDT 2013 SUCCESS: Iteration 9 is completed
+Wed Jul 31 17:33:14 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:33:19 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:33:19 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:33:19 PDT 2013 INFO: Starting session
+Wed Jul 31 17:33:19 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:33:26 PDT 2013 SUCCESS: First fix in 6.993 secs
+Wed Jul 31 17:33:26 PDT 2013 37.3200228,-122.03112532,44.0,320.4,1.0,20,8,24.4,21.5,21.2,18.8,null,small_red,2013/07/31 17:33:26,gps,Standard
+Wed Jul 31 17:33:27 PDT 2013 SUCCESS: Distance to reference is 1.1498514E7
+Wed Jul 31 17:33:27 PDT 2013 SUCCESS: Iteration 10 is completed
+Wed Jul 31 17:33:27 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:33:27 PDT 2013 DEBUG: Removing all providers. Size: 0
+Wed Jul 31 17:33:27 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:33:27 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:33:27 PDT 2013 INFO: Task number 6 has been completed
+Wed Jul 31 17:33:27 PDT 2013 INFO: Task number 7 has started
+Wed Jul 31 17:33:27 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:33:27 PDT 2013 INFO: Task Provider Type: GPS Provider
+Wed Jul 31 17:33:27 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:33:27 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:33:27 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:33:32 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:33:32 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:33:32 PDT 2013 INFO: Starting session
+Wed Jul 31 17:33:32 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:33:51 PDT 2013 SUCCESS: First fix in 19.696 secs
+Wed Jul 31 17:33:51 PDT 2013 37.32032972,-122.03108795,42.0,51.7,1.5,20,8,26.8,25.8,21.4,21.2,null,small_red,2013/07/31 17:33:51,gps,Standard
+Wed Jul 31 17:33:51 PDT 2013 SUCCESS: Distance to reference is 1.149848E7
+Wed Jul 31 17:33:51 PDT 2013 SUCCESS: Iteration 1 is completed
+Wed Jul 31 17:33:51 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:33:57 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:33:57 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:33:57 PDT 2013 INFO: Starting session
+Wed Jul 31 17:33:57 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:34:23 PDT 2013 SUCCESS: First fix in 26.969 secs
+Wed Jul 31 17:34:23 PDT 2013 37.32057655,-122.03088326,28.0,2.7,1.25,20,5,29.1,29.1,22.8,17.0,null,small_red,2013/07/31 17:34:23,gps,Standard
+Wed Jul 31 17:34:24 PDT 2013 SUCCESS: Distance to reference is 1.1498449E7
+Wed Jul 31 17:34:24 PDT 2013 SUCCESS: Iteration 2 is completed
+Wed Jul 31 17:34:24 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:34:29 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:34:29 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:34:29 PDT 2013 INFO: Starting session
+Wed Jul 31 17:34:29 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:34:53 PDT 2013 SUCCESS: First fix in 24.261 secs
+Wed Jul 31 17:34:53 PDT 2013 37.32110071,-122.03113185,37.0,15.9,2.0615528,19,8,30.3,25.7,23.9,22.1,null,small_red,2013/07/31 17:34:53,gps,Standard
+Wed Jul 31 17:34:53 PDT 2013 SUCCESS: Distance to reference is 1.1498399E7
+Wed Jul 31 17:34:53 PDT 2013 SUCCESS: Iteration 3 is completed
+Wed Jul 31 17:34:53 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:34:58 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:34:58 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:34:58 PDT 2013 INFO: Starting session
+Wed Jul 31 17:34:58 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:35:18 PDT 2013 SUCCESS: First fix in 20.529 secs
+Wed Jul 31 17:35:18 PDT 2013 37.32084615,-122.03105776,42.0,169.5,1.0,20,7,29.7,25.1,24.5,17.9,null,small_red,2013/07/31 17:35:18,gps,Standard
+Wed Jul 31 17:35:18 PDT 2013 SUCCESS: Distance to reference is 1.1498425E7
+Wed Jul 31 17:35:18 PDT 2013 SUCCESS: Iteration 4 is completed
+Wed Jul 31 17:35:18 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:35:23 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:35:23 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:35:24 PDT 2013 INFO: Starting session
+Wed Jul 31 17:35:24 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:36:15 PDT 2013 SUCCESS: First fix in 51.298 secs
+Wed Jul 31 17:36:15 PDT 2013 37.32188371,-122.03079439,51.0,303.0,3.4003677,20,10,23.3,22.9,21.4,20.9,null,small_red,2013/07/31 17:36:15,gps,Standard
+Wed Jul 31 17:36:15 PDT 2013 SUCCESS: Distance to reference is 1.1498308E7
+Wed Jul 31 17:36:15 PDT 2013 SUCCESS: Iteration 5 is completed
+Wed Jul 31 17:36:15 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:36:20 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:36:20 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:36:20 PDT 2013 INFO: Starting session
+Wed Jul 31 17:36:20 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:36:34 PDT 2013 SUCCESS: First fix in 13.942 secs
+Wed Jul 31 17:36:34 PDT 2013 37.32169895,-122.03099333,34.0,38.0,4.930771,20,7,25.9,22.7,21.2,18.5,null,small_red,2013/07/31 17:36:34,gps,Standard
+Wed Jul 31 17:36:34 PDT 2013 SUCCESS: Distance to reference is 1.1498332E7
+Wed Jul 31 17:36:34 PDT 2013 SUCCESS: Iteration 6 is completed
+Wed Jul 31 17:36:34 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:36:39 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:36:39 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:36:39 PDT 2013 INFO: Starting session
+Wed Jul 31 17:36:39 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:36:59 PDT 2013 SUCCESS: First fix in 19.909 secs
+Wed Jul 31 17:36:59 PDT 2013 37.32205253,-122.03144867,55.0,309.6,3.25,20,7,22.7,22.7,22.6,22.4,null,small_red,2013/07/31 17:36:59,gps,Standard
+Wed Jul 31 17:36:59 PDT 2013 SUCCESS: Distance to reference is 1.1498307E7
+Wed Jul 31 17:36:59 PDT 2013 SUCCESS: Iteration 7 is completed
+Wed Jul 31 17:36:59 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:37:04 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:37:04 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:37:04 PDT 2013 INFO: Starting session
+Wed Jul 31 17:37:04 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:37:14 PDT 2013 SUCCESS: First fix in 9.933 secs
+Wed Jul 31 17:37:14 PDT 2013 37.32230256,-122.0314547,24.0,0.0,1.25,20,7,27.5,26.7,24.6,22.7,null,small_red,2013/07/31 17:37:14,gps,Standard
+Wed Jul 31 17:37:14 PDT 2013 SUCCESS: Distance to reference is 1.149828E7
+Wed Jul 31 17:37:14 PDT 2013 SUCCESS: Iteration 8 is completed
+Wed Jul 31 17:37:14 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:37:19 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:37:19 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:37:19 PDT 2013 INFO: Starting session
+Wed Jul 31 17:37:19 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:37:33 PDT 2013 SUCCESS: First fix in 13.891 secs
+Wed Jul 31 17:37:33 PDT 2013 37.32262898,-122.03156948,29.0,344.6,1.118034,19,7,24.6,22.7,20.0,19.8,null,small_red,2013/07/31 17:37:33,gps,Standard
+Wed Jul 31 17:37:33 PDT 2013 SUCCESS: Distance to reference is 1.1498249E7
+Wed Jul 31 17:37:33 PDT 2013 SUCCESS: Iteration 9 is completed
+Wed Jul 31 17:37:33 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:37:38 PDT 2013 INFO: Setting up for warm mode - Deleting info
+Wed Jul 31 17:37:38 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:37:38 PDT 2013 INFO: Starting session
+Wed Jul 31 17:37:38 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:37:50 PDT 2013 SUCCESS: First fix in 11.882 secs
+Wed Jul 31 17:37:50 PDT 2013 37.32277327,-122.03163253,30.0,9.3,1.9525625,19,9,25.0,24.0,22.2,20.9,null,small_red,2013/07/31 17:37:50,gps,Standard
+Wed Jul 31 17:37:50 PDT 2013 SUCCESS: Distance to reference is 1.1498235E7
+Wed Jul 31 17:37:50 PDT 2013 SUCCESS: Iteration 10 is completed
+Wed Jul 31 17:37:50 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:37:50 PDT 2013 DEBUG: Removing all providers. Size: 0
+Wed Jul 31 17:37:50 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:37:50 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:37:50 PDT 2013 INFO: Task number 7 has been completed
+Wed Jul 31 17:37:50 PDT 2013 INFO: Task number 8 has started
+Wed Jul 31 17:37:50 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:37:50 PDT 2013 INFO: Task Provider Type: GPS Provider
+Wed Jul 31 17:37:50 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:37:50 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:37:50 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:37:55 PDT 2013 INFO: Setting up for cold mode - Deleting info
+Wed Jul 31 17:37:55 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:37:55 PDT 2013 INFO: Starting session
+Wed Jul 31 17:37:55 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:46:03 PDT 2013 WARNING: Test(s) are cancelled at test number 7
+Wed Jul 31 17:46:03 PDT 2013 WARNING: Unexpected exception
+Wed Jul 31 17:46:03 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:46:03 PDT 2013 DEBUG: Removing all providers. Size: 0
+Wed Jul 31 17:46:03 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:46:03 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:46:03 PDT 2013 WARNING: Tests after test 8 has been cancelled
+Wed Jul 31 17:46:03 PDT 2013 INFO: Run has been finished
+Wed Jul 31 17:46:03 PDT 2013 INFO: NOW, you can go back to menu safe
+Wed Jul 31 17:46:08 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Wed Jul 31 17:46:08 PDT 2013 INFO: Task number 10 has started
+Wed Jul 31 17:46:08 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:46:08 PDT 2013 INFO: Task Provider Type: GPS Provider
+Wed Jul 31 17:46:08 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:46:08 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:46:08 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:46:13 PDT 2013 INFO: Setting up for cold mode - Deleting info
+Wed Jul 31 17:46:13 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:46:13 PDT 2013 INFO: Starting session
+Wed Jul 31 17:46:13 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:47:34 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Wed Jul 31 17:47:34 PDT 2013 WARNING: Unexpected exception
+Wed Jul 31 17:47:34 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:47:34 PDT 2013 DEBUG: Removing all providers. Size: 0
+Wed Jul 31 17:47:34 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:47:34 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:47:34 PDT 2013 WARNING: Tests after test 10 has been cancelled
+Wed Jul 31 17:47:34 PDT 2013 INFO: Run has been finished
+Wed Jul 31 17:47:34 PDT 2013 INFO: NOW, you can go back to menu safe
+Wed Jul 31 17:47:41 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Wed Jul 31 17:47:41 PDT 2013 INFO: Task number 11 has started
+Wed Jul 31 17:47:41 PDT 2013 INFO: Task Name: TTFFTest has started
+Wed Jul 31 17:47:41 PDT 2013 INFO: Task Provider Type: GPS Provider
+Wed Jul 31 17:47:41 PDT 2013 INFO: Task Marker Type: small_red
+Wed Jul 31 17:47:42 PDT 2013 INFO: Task Iteration Number: 10
+Wed Jul 31 17:47:42 PDT 2013 SUCCESS: Created location task folder
+Wed Jul 31 17:47:47 PDT 2013 INFO: Setting up for hot mode  - Deleting info
+Wed Jul 31 17:47:47 PDT 2013 INFO: Sleeping 0 secs to make sure delete takes affect
+Wed Jul 31 17:47:47 PDT 2013 INFO: Starting session
+Wed Jul 31 17:47:47 PDT 2013 INFO: Registered GPS status listener
+Wed Jul 31 17:48:07 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Wed Jul 31 17:48:07 PDT 2013 WARNING: Unexpected exception
+Wed Jul 31 17:48:07 PDT 2013 DEBUG: Removing the single provider: gps
+Wed Jul 31 17:48:07 PDT 2013 DEBUG: Removing all providers. Size: 0
+Wed Jul 31 17:48:07 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:48:07 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Wed Jul 31 17:48:07 PDT 2013 WARNING: Tests after test 11 has been cancelled
+Wed Jul 31 17:48:07 PDT 2013 INFO: Run has been finished
+Wed Jul 31 17:48:07 PDT 2013 INFO: NOW, you can go back to menu safe

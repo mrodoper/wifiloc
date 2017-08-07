@@ -1,0 +1,22 @@
+Mon Oct 07 17:35:43 PDT 2013 SUCCESS:The log structure is created
+Mon Oct 07 17:35:43 PDT 2013 DEBUG: commandLine :cat /proc/product_name
+Mon Oct 07 17:35:43 PDT 2013 DEBUG: commandLine response
+Mon Oct 07 17:35:43 PDT 2013 Log Version: 10
+Mon Oct 07 17:35:43 PDT 2013 Tool Version: 3.00_3000000
+Mon Oct 07 17:35:43 PDT 2013 Device Type: 
+Mon Oct 07 17:35:43 PDT 2013 Modem Type/FW: null
+Mon Oct 07 17:35:43 PDT 2013 Device Build: null
+Mon Oct 07 17:35:46 PDT 2013 INFO: Total Number of Tasks Loaded: 1
+Mon Oct 07 17:35:46 PDT 2013 INFO: Task number 1 has started
+Mon Oct 07 17:35:46 PDT 2013 INFO: Task Name: LocationTracker has started
+Mon Oct 07 17:35:46 PDT 2013 INFO: Task Provider Type: Network Provider
+Mon Oct 07 17:35:46 PDT 2013 INFO: Task Marker Type: small_red
+Mon Oct 07 17:35:46 PDT 2013 INFO: Task Iteration Number: 1000
+Mon Oct 07 17:35:46 PDT 2013 SUCCESS: Created location task folder
+Mon Oct 07 17:36:54 PDT 2013 WARNING: Test(s) are cancelled at test number 1
+Mon Oct 07 17:36:59 PDT 2013 DEBUG: Removing all providers. Size: 1
+Mon Oct 07 17:36:59 PDT 2013 DEBUG: Removing the provider: network
+Mon Oct 07 17:36:59 PDT 2013 SUCCESS: logBufferWriterLocation closed
+Mon Oct 07 17:36:59 PDT 2013 WARNING: Tests after test 1 has been cancelled
+Mon Oct 07 17:36:59 PDT 2013 INFO: Run has been finished
+Mon Oct 07 17:36:59 PDT 2013 INFO: NOW, you can go back to menu safe

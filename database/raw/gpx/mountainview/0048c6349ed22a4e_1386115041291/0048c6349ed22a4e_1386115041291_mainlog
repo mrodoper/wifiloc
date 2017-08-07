@@ -1,0 +1,25 @@
+Tue Dec 03 15:57:21 PST 2013 SUCCESS:The log structure is created
+Tue Dec 03 15:57:21 PST 2013 DEBUG: commandLine :cat /proc/product_name
+Tue Dec 03 15:57:21 PST 2013 DEBUG: commandLine response
+Tue Dec 03 15:57:21 PST 2013 Log Version: 10
+Tue Dec 03 15:57:21 PST 2013 Tool Version: 3.00_3000000
+Tue Dec 03 15:57:21 PST 2013 Device Type: 
+Tue Dec 03 15:57:21 PST 2013 Modem Type/FW: null
+Tue Dec 03 15:57:21 PST 2013 Device Build: null
+Tue Dec 03 15:57:52 PST 2013 INFO: Total Number of Tasks Loaded: 1
+Tue Dec 03 15:57:52 PST 2013 INFO: Task number 1 has started
+Tue Dec 03 15:57:52 PST 2013 INFO: Task Name: LocationTracker has started
+Tue Dec 03 15:57:52 PST 2013 INFO: Task Provider Type: Network Provider
+Tue Dec 03 15:57:52 PST 2013 INFO: Task Marker Type: small_red
+Tue Dec 03 15:57:52 PST 2013 INFO: Task Iteration Number: 1000
+Tue Dec 03 15:57:52 PST 2013 SUCCESS: Created location task folder
+Tue Dec 03 15:57:54 PST 2013 SUCCESS: First fix in 1.495 secs
+Tue Dec 03 15:57:54 PST 2013 37.3216963,-122.0306059,36.268,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/12/03 15:57:54,network,Standard
+Tue Dec 03 15:57:54 PST 2013 WARNING: Test(s) are cancelled at test number 1
+Tue Dec 03 15:57:59 PST 2013 37.3217077,-122.0306007,36.995,0.0,0.0,0,0,0.0,0.0,0.0,0.0,null,small_red,2013/12/03 15:57:59,network,Standard
+Tue Dec 03 15:57:59 PST 2013 DEBUG: Removing all providers. Size: 1
+Tue Dec 03 15:57:59 PST 2013 DEBUG: Removing the provider: network
+Tue Dec 03 15:57:59 PST 2013 SUCCESS: logBufferWriterLocation closed
+Tue Dec 03 15:57:59 PST 2013 WARNING: Tests after test 1 has been cancelled
+Tue Dec 03 15:57:59 PST 2013 INFO: Run has been finished
+Tue Dec 03 15:57:59 PST 2013 INFO: NOW, you can go back to menu safe
