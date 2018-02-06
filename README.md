@@ -6,7 +6,7 @@ This is a wifi based positioning project. It takes the wifi scans fed into it an
 
 If you like to use virtualenv:
 
-To activate: $ mkvirtualenv --python=/usr/bin/python3 -a ./src/ wifiloc
+To activate: $ mkvirtualenv --python=/usr/bin/python3 -a ./src/ wifiloc -r ./req_virtualenv.txt
 To deactivate: $ deactivate
 
 If you want to use anaconda:

@@ -1,0 +1,5 @@
+iso8601==0.1.11
+pip==8.1.1
+readline==6.2
+ruamel_yaml==0.15.35
+setuptools==20.7.0
